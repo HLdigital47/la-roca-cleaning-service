@@ -1,1 +1,1 @@
-Sube aquí todas las fotografías y el logo directamente en assets/. El sitio reconoce actualmente logo-la-roca.png.png como en tu captura.
+
