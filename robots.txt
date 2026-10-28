@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hldigital47.github.io/la-roca-cleaning-service/sitemap.xml
