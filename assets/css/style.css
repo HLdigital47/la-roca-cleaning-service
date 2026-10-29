@@ -17,3 +17,5 @@ body{color:#102b3c}
 .button{background:#287a49;border-color:#287a49;color:#fff}
 .button.secondary{color:#123c31;border-color:#285c42}
 .links>a,.drop>summary{color:#0a304a}
+
+.citycard{background:#fff}.citycard:has(img[style*="display: none"]){background:linear-gradient(145deg,#e0eae5,#bbd3c7)}.citycard:has(img[style*="display: none"]) .citybody{min-height:270px;display:flex;flex-direction:column;justify-content:center}.citycard img{height:230px;object-fit:cover}
