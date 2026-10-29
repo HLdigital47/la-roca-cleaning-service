@@ -19,3 +19,5 @@ body{color:#102b3c}
 .links>a,.drop>summary{color:#0a304a}
 
 .citycard{background:#fff}.citycard:has(img[style*="display: none"]){background:linear-gradient(145deg,#e0eae5,#bbd3c7)}.citycard:has(img[style*="display: none"]) .citybody{min-height:270px;display:flex;flex-direction:column;justify-content:center}.citycard img{height:230px;object-fit:cover}
+
+.local-focus{padding:75px 0;background:#eef5ef}.local-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center}.local-grid h2{font:normal clamp(32px,4vw,50px)/1.15 Georgia,serif;color:#0c2d43}.local-grid p{font-size:17px;color:#395568}.local-grid img{width:100%;height:380px;object-fit:cover;border-radius:20px}.herophoto img{width:100%;height:100%;object-fit:cover}@media(max-width:740px){.local-grid{grid-template-columns:1fr;gap:20px}.local-grid img{height:240px}.local-focus{padding:55px 0}}
