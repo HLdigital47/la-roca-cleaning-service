@@ -95,23 +95,27 @@ const WHATSAPP_NUMBER = "17138789793";
       status.textContent = label("Sending your request...", "Enviando tu solicitud...");
 
       let done = false;
-      const finish = message => {
+      const finish = (message, success = false) => {
         if (done) return;
         done = true;
         status.textContent = message;
+        status.style.cssText = success
+          ? "margin-top:12px;padding:12px 14px;border-radius:10px;background:#e7f6ed;color:#176b36;border:1px solid #b7dfc4;font-weight:600"
+          : "margin-top:12px;padding:12px 14px;border-radius:10px;background:#fff3ed;color:#8d3d16;border:1px solid #e8c6ae;font-weight:600";
         if (button) button.disabled = false;
         transport.remove();
       };
+      // Iframe load indicates transport completion, not verified storage in Sheets.
       const onLoad = () => finish(label(
-        "Request sent for processing. If you don't hear back, call (713) 878-9793.",
-        "Solicitud enviada para procesamiento. Si no recibes respuesta, llama al (713) 878-9793."
-      ));
+        "Thank you! Your request has been submitted. We will contact you shortly.",
+        "¡Gracias! Tu solicitud ha sido enviada. En breve nos pondremos en contacto contigo."
+      ), true);
       receiver.addEventListener("load", onLoad, { once: true });
       const timeout = setTimeout(() => {
         receiver.removeEventListener("load", onLoad);
         finish(label(
-          "Delivery could not be confirmed. Please call (713) 878-9793.",
-          "No pudimos confirmar el envío. Llama al (713) 878-9793."
+          "We could not confirm submission. Please try again.",
+          "No pudimos confirmar el envío. Por favor, intenta nuevamente."
         ));
       }, 20000);
 
@@ -122,8 +126,8 @@ const WHATSAPP_NUMBER = "17138789793";
         clearTimeout(timeout);
         receiver.removeEventListener("load", onLoad);
         finish(label(
-          "Could not submit. Call (713) 878-9793.",
-          "No se pudo enviar. Llama al (713) 878-9793."
+          "Unable to submit. Please try again.",
+          "No se pudo enviar. Por favor, intenta nuevamente."
         ));
       }
     });
@@ -235,18 +239,49 @@ const WHATSAPP_NUMBER = "17138789793";
   }
 })();
 
-// WhatsApp usa el mismo teléfono que ya está publicado en La Roca.
+// Botón flotante de WhatsApp con vista previa antes de abrir el chat.
 (() => {
   if (!WHATSAPP_NUMBER) return;
   const number = WHATSAPP_NUMBER.replace(/\D/g, "");
   const es = document.documentElement.lang === "es";
-  const a = document.createElement("a");
-  a.href = "https://wa.me/" + number + "?text=" +
-    encodeURIComponent(es ? "Hola, quiero una cotización de limpieza." : "Hello, I would like a cleaning estimate.");
-  a.textContent = "WhatsApp";
-  a.target = "_blank";
-  a.rel = "noopener noreferrer";
-  a.setAttribute("aria-label", es ? "Cotizar por WhatsApp" : "Get a quote on WhatsApp");
-  a.style.cssText = "position:fixed;bottom:20px;right:20px;z-index:100;background:#b58a3b;color:#102d43;padding:14px 22px;border-radius:50px;font-weight:700;text-decoration:none";
-  document.body.append(a);
+  const message = es
+    ? "Hola, me gustaría solicitar una cotización de limpieza."
+    : "Hello, I would like to request a cleaning estimate.";
+  const url = "https://wa.me/" + number + "?text=" + encodeURIComponent(message);
+  const wrapper = document.createElement("div");
+  wrapper.style.cssText = "position:fixed;right:18px;bottom:105px;z-index:1000";
+  const preview = document.createElement("div");
+  preview.hidden = true;
+  preview.style.cssText = "position:absolute;right:0;bottom:68px;width:min(300px,calc(100vw - 40px));padding:16px;border-radius:14px;background:#fff;color:#303039;box-shadow:0 8px 28px rgba(0,0,0,.18);border:1px solid #ddd;font:inherit";
+  const heading = document.createElement("strong");
+  heading.textContent = es ? "Mensaje para La Roca" : "Message to La Roca";
+  heading.style.display = "block";
+  const body = document.createElement("p");
+  body.textContent = message;
+  body.style.cssText = "margin:10px 0 14px;font-size:14px;line-height:1.5";
+  const open = document.createElement("a");
+  open.href = url;
+  open.target = "_blank";
+  open.rel = "noopener noreferrer";
+  open.textContent = es ? "Continuar a WhatsApp" : "Continue to WhatsApp";
+  open.style.cssText = "display:block;text-align:center;background:#b58a3b;color:#fff;border-radius:9px;padding:10px 12px;text-decoration:none;font-weight:700";
+  preview.append(heading,body,open);
+  const button = document.createElement("button");
+  button.type = "button";
+  button.setAttribute("aria-label", es ? "Abrir mensaje de WhatsApp" : "Open WhatsApp message");
+  button.setAttribute("aria-expanded","false");
+  button.style.cssText = "border:0;padding:0;width:58px;height:58px;border-radius:50%;background:#25D366;box-shadow:0 6px 18px rgba(0,0,0,.22);display:grid;place-items:center;cursor:pointer";
+  button.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="38" height="38" aria-hidden="true"><path fill="#fff" d="M16 3a13 13 0 0 0-11.2 19.6L3 29l6.6-1.7A13 13 0 1 0 16 3Zm0 23.6a10.5 10.5 0 0 1-5.4-1.5l-.4-.2-3.9 1 1-3.8-.3-.4a10.6 10.6 0 1 1 9 4.9Zm5.8-7.9c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.2-.7l.5-.6.3-.5c.1-.2 0-.4 0-.6l-1-2.3c-.2-.5-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.1 1.1-1.1 2.7s1.2 3.1 1.4 3.3c.2.2 2.2 3.4 5.3 4.6 2.5 1 3.1.8 3.6.8.5-.1 1.8-.7 2.1-1.5.3-.7.3-1.3.2-1.5-.1-.2-.3-.3-.6-.5Z"/></svg>';
+  button.addEventListener("click", () => {
+    preview.hidden = !preview.hidden;
+    button.setAttribute("aria-expanded",String(!preview.hidden));
+  });
+  document.addEventListener("click", e => {
+    if (!wrapper.contains(e.target)) {
+      preview.hidden = true;
+      button.setAttribute("aria-expanded","false");
+    }
+  });
+  wrapper.append(preview,button);
+  document.body.append(wrapper);
 })();
