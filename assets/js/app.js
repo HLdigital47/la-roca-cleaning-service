@@ -254,16 +254,18 @@ const WHATSAPP_NUMBER = "17138789793";
   preview.hidden = true;
   preview.style.cssText = "position:absolute;right:0;bottom:68px;width:min(300px,calc(100vw - 40px));padding:16px;border-radius:14px;background:#fff;color:#303039;box-shadow:0 8px 28px rgba(0,0,0,.18);border:1px solid #ddd;font:inherit";
   const heading = document.createElement("strong");
-  heading.textContent = es ? "Mensaje para La Roca" : "Message to La Roca";
+  heading.textContent = es ? "¡Bienvenido a La Roca Cleaning Services!" : "Welcome to La Roca Cleaning Services!";
   heading.style.display = "block";
   const body = document.createElement("p");
-  body.textContent = message;
+  body.textContent = es
+    ? "¿Necesitas ayuda con la limpieza de tu casa, apartamento u oficina? Cuéntanos qué servicio buscas y en qué área te encuentras. Con gusto resolveremos tus dudas, revisaremos tus necesidades y te ayudaremos a solicitar una cotización."
+    : "Need help cleaning your home, apartment, or office? Tell us what service you need and your location. We'll be happy to answer your questions, discuss your cleaning needs, and help you request a free estimate.";
   body.style.cssText = "margin:10px 0 14px;font-size:14px;line-height:1.5";
   const open = document.createElement("a");
   open.href = url;
   open.target = "_blank";
   open.rel = "noopener noreferrer";
-  open.textContent = es ? "Continuar a WhatsApp" : "Continue to WhatsApp";
+  open.textContent = es ? "Abrir chat" : "Open chat";
   open.style.cssText = "display:block;text-align:center;background:#b58a3b;color:#fff;border-radius:9px;padding:10px 12px;text-decoration:none;font-weight:700";
   preview.append(heading,body,open);
   const button = document.createElement("button");
