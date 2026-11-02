@@ -49,3 +49,6 @@ body{color:#102b3c}
 
 /* Accessibility-only fix: local city card descriptions on white */
 .citycard .citybody p{color:#46525c}
+
+/* Lighthouse contrast: gold eyebrow labels on navy sections */
+#areas .eyebrow,#contact .eyebrow{color:#ffe0a0!important}
