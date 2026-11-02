@@ -47,14 +47,5 @@ body{color:#102b3c}
 .citychips a{background:#f7f2e8}
 .mobile a+a{background:#08263e;color:#fff}
 
-
-/* La Roca visual refresh: deeper bronze, clear contrast and legible CTAs */
-:root{--green:#a86f22;--pale:#fbf4e7;--muted:#485867}
-.eyebrow,.hero h1 em,.stepnum,.citychips a,.citybody a,.hero .trust,.trust,.business-contact strong{color:#815016!important}
-.section.navy .eyebrow,#contact .eyebrow,#areas .eyebrow,.section.navy .stepnum{color:#f8cb73!important}
-.section.navy .intro,.section.navy p,#contact p,#areas p{color:#f3f5f6}
-.button:not(.secondary),.tag,.mobile a:first-child,.form button[type=submit],#contact .contactgrid>.form button,.quote-dialog .form button[type=submit]{background:#c99540!important;border-color:#c99540!important;color:#172d3b!important}
-.button:not(.secondary):hover,.form button[type=submit]:hover,#contact .contactgrid>.form button:hover{background:#e2af59!important;border-color:#e2af59!important;color:#172d3b!important}
-.section.pale,.endcta,.local-focus{background:#fbf4e7}
-.citychips a{background:#fff4da;color:#6e4719!important}
-a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #dfaa55;outline-offset:3px}
+/* Accessibility-only fix: local city card descriptions on white */
+.citycard .citybody p{color:#46525c}
