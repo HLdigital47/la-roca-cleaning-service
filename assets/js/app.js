@@ -301,3 +301,18 @@ const WHATSAPP_NUMBER = "17138789793";
     if (href.includes("wa.me/")) track("whatsapp_click", { page_path: location.pathname });
   });
 })();
+
+// First-party reviews carousel: accessible previous/next controls.
+(() => {
+  for (const section of document.querySelectorAll(".lr-reviews")) {
+    const track = section.querySelector(".lr-reviews-track");
+    if (!track) continue;
+    const move = direction => {
+      const first = track.querySelector(".lr-review-card");
+      const amount = first ? first.getBoundingClientRect().width + 18 : track.clientWidth;
+      track.scrollBy({left: direction * amount, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"});
+    };
+    section.querySelector('[data-review-prev]')?.addEventListener("click", () => move(-1));
+    section.querySelector('[data-review-next]')?.addEventListener("click", () => move(1));
+  }
+})();
