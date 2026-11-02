@@ -52,3 +52,16 @@ body{color:#102b3c}
 
 /* Lighthouse contrast: gold eyebrow labels on navy sections */
 #areas .eyebrow,#contact .eyebrow{color:#ffe0a0!important}
+
+/* First-party Google reviews carousel — no third-party branding */
+.lr-reviews-head{display:flex;justify-content:space-between;align-items:center;gap:16px;margin:20px 0}
+.lr-reviews-head a{color:#80551c;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.lr-reviews-nav{display:flex;gap:8px}
+.lr-reviews-nav button{background:#fff;border:1px solid #c8c8c8;border-radius:50%;height:40px;width:40px;cursor:pointer;color:#102d43;font-size:20px}
+.lr-reviews-nav button:focus-visible,.lr-review-card a:focus-visible{outline:3px solid #a77322;outline-offset:2px}
+.lr-reviews-track{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;padding:10px 2px 18px;scrollbar-width:thin}
+.lr-review-card{flex:0 0 min(350px,calc(100% - 30px));scroll-snap-align:start;border:1px solid #e2e4e3;border-radius:16px;padding:24px;background:#fff;min-height:205px;display:flex;flex-direction:column;justify-content:space-between;gap:16px}
+.lr-review-card strong{color:#102d43}.lr-review-card p{margin:0;color:#455660}.lr-review-card a{color:#80551c;font-weight:700}
+.lr-review-stars{color:#94651e;letter-spacing:2px;font-size:21px}
+@media(max-width:560px){.lr-reviews-head{align-items:flex-start;flex-direction:column}.lr-review-card{flex-basis:88%}}
+@media(prefers-reduced-motion:reduce){.lr-reviews-track{scroll-behavior:auto}}
