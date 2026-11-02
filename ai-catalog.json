@@ -1,20 +1,7 @@
 {
-  "name": "La Roca Cleaning Services LLC",
-  "description": "Residential and commercial cleaning services in Houston, Texas, and surrounding areas.",
-  "url": "https://larocacleaningservices.com/",
-  "sitemap": "https://larocacleaningservices.com/sitemap.xml",
-  "resources": [
-    {
-      "name": "English homepage",
-      "url": "https://larocacleaningservices.com/"
-    },
-    {
-      "name": "Spanish homepage",
-      "url": "https://larocacleaningservices.com/es/"
-    },
-    {
-      "name": "Service areas",
-      "url": "https://larocacleaningservices.com/service-areas/katy-tx/"
-    }
-  ]
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "La Roca Cleaning Services LLC"
+  },
+  "entries": []
 }
