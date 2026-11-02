@@ -316,3 +316,18 @@ const WHATSAPP_NUMBER = "17138789793";
     section.querySelector('[data-review-next]')?.addEventListener("click", () => move(1));
   }
 })();
+
+// Customer review carousel — arrows and touch/trackpad scrolling.
+(() => {
+  document.querySelectorAll(".lr-authentic-reviews").forEach(section => {
+    const track = section.querySelector(".lr-review-track");
+    if (!track) return;
+    const scroll = dir => {
+      const card = track.querySelector(".lr-review-item");
+      const distance = card ? card.getBoundingClientRect().width + 20 : track.clientWidth;
+      track.scrollBy({left:dir*distance,behavior:window.matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
+    };
+    section.querySelector("[data-auth-review-prev]")?.addEventListener("click",()=>scroll(-1));
+    section.querySelector("[data-auth-review-next]")?.addEventListener("click",()=>scroll(1));
+  });
+})();
