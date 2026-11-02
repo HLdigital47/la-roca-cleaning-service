@@ -106,10 +106,10 @@ const WHATSAPP_NUMBER = "17138789793";
         transport.remove();
       };
       // Iframe load indicates transport completion, not verified storage in Sheets.
-      const onLoad = () => finish(label(
+      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_request", { page_path: location.pathname, city: cityFromUrl() }); finish(label(
         "Thank you! Your request has been submitted. We will contact you shortly.",
         "¡Gracias! Tu solicitud ha sido enviada. En breve nos pondremos en contacto contigo."
-      ), true);
+      ), true); };
       receiver.addEventListener("load", onLoad, { once: true });
       const timeout = setTimeout(() => {
         receiver.removeEventListener("load", onLoad);
@@ -266,6 +266,9 @@ const WHATSAPP_NUMBER = "17138789793";
   open.target = "_blank";
   open.rel = "noopener noreferrer";
   open.textContent = es ? "Abrir chat" : "Open chat";
+  open.addEventListener("click", () => {
+    if (typeof window.gtag === "function") window.gtag("event", "whatsapp_click", { page_path: location.pathname });
+  });
   open.style.cssText = "display:block;text-align:center;background:#b58a3b;color:#fff;border-radius:9px;padding:10px 12px;text-decoration:none;font-weight:700";
   preview.append(heading,body,open);
   const button = document.createElement("button");
@@ -286,4 +289,18 @@ const WHATSAPP_NUMBER = "17138789793";
   });
   wrapper.append(preview,button);
   document.body.append(wrapper);
+})();
+
+// GA4: medir interacciones sin recopilar nombres, teléfonos ni correos.
+(() => {
+  const track = (name, params = {}) => {
+    if (typeof window.gtag === "function") window.gtag("event", name, params);
+  };
+  document.addEventListener("click", event => {
+    const a = event.target.closest("a");
+    if (!a) return;
+    const href = a.getAttribute("href") || "";
+    if (href.startsWith("tel:")) track("phone_click", { page_path: location.pathname });
+    if (href.includes("wa.me/")) track("whatsapp_click", { page_path: location.pathname });
+  });
 })();
