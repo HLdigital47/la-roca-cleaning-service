@@ -65,3 +65,27 @@ body{color:#102b3c}
 .lr-review-stars{color:#94651e;letter-spacing:2px;font-size:21px}
 @media(max-width:560px){.lr-reviews-head{align-items:flex-start;flex-direction:column}.lr-review-card{flex-basis:88%}}
 @media(prefers-reduced-motion:reduce){.lr-reviews-track{scroll-behavior:auto}}
+
+
+/* Authentic customer reviews — accessible first-party carousel */
+.lr-authentic-reviews{background:#faf8f4}
+.lr-review-heading{max-width:760px;margin:0 auto 30px;text-align:center}
+.lr-review-heading h2{margin:12px 0 15px}
+.lr-review-heading p{color:#4f606b;margin:0 auto}
+.lr-review-controls{display:flex;justify-content:space-between;align-items:center;gap:14px;margin:24px 0 12px}
+.lr-review-controls>a{font-size:14px;font-weight:700;color:#825519;text-underline-offset:3px}
+.lr-review-arrows{display:flex;gap:9px}
+.lr-review-arrows button{height:42px;width:42px;border:1px solid #d9d9d4;border-radius:50%;background:white;color:#102d43;font-size:25px;cursor:pointer}
+.lr-review-arrows button:hover{border-color:#b58a3b;background:#fff9ee}
+.lr-review-arrows button:focus-visible,.lr-review-track a:focus-visible{outline:3px solid #a77422;outline-offset:3px}
+.lr-review-track{display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:thin;padding:8px 3px 24px;-webkit-overflow-scrolling:touch}
+.lr-review-item{flex:0 0 min(365px,88%);scroll-snap-align:start;background:white;border:1px solid #e7e4df;border-radius:18px;box-shadow:0 12px 30px rgba(16,45,67,.07);padding:25px;display:flex;flex-direction:column;gap:15px;min-height:290px}
+.lr-review-person{display:flex;align-items:center;gap:13px}
+.lr-review-avatar{height:44px;width:44px;flex:none;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:18px}
+.lr-review-person strong{display:block;color:#102d43;font-size:16px}
+.lr-review-source{font-size:12px;color:#60707a}
+.lr-review-stars{font-size:20px;color:#af7511;letter-spacing:2px;line-height:1}
+.lr-review-item blockquote{margin:0;color:#304252;font-size:15px;line-height:1.7}
+.lr-review-item .lr-review-google{margin-top:auto;font-size:13px;color:#80551c;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:600px){.lr-review-item{flex-basis:89%;padding:21px}.lr-review-controls{gap:10px}}
+@media(prefers-reduced-motion:reduce){.lr-review-track{scroll-behavior:auto}}
