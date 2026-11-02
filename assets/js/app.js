@@ -266,9 +266,6 @@ const WHATSAPP_NUMBER = "17138789793";
   open.target = "_blank";
   open.rel = "noopener noreferrer";
   open.textContent = es ? "Abrir chat" : "Open chat";
-  open.addEventListener("click", () => {
-    if (typeof window.gtag === "function") window.gtag("event", "whatsapp_click", { page_path: location.pathname });
-  });
   open.style.cssText = "display:block;text-align:center;background:#b58a3b;color:#fff;border-radius:9px;padding:10px 12px;text-decoration:none;font-weight:700";
   preview.append(heading,body,open);
   const button = document.createElement("button");
