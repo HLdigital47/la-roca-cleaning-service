@@ -5,7 +5,7 @@ const WHATSAPP_NUMBER = "17138789793";
 (() => {
   const form = document.querySelector("#quoteform");
   if (!form) return;
-  const es = document.documentElement.lang === "es";
+  const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const label = (en, sp) => es ? sp : en;
 
   function cityFromUrl() {
@@ -106,9 +106,9 @@ const WHATSAPP_NUMBER = "17138789793";
         transport.remove();
       };
       // Iframe load indicates transport completion, not verified storage in Sheets.
-      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_request", { page_path: location.pathname, city: f.dataset.quoteCity || cityFromUrl() }); finish(label(
-        "Thank you! Your request has been submitted. We will contact you shortly.",
-        "¡Gracias! Tu solicitud ha sido enviada. En breve nos pondremos en contacto contigo."
+      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_transport_complete", { page_path: location.pathname, city: f.dataset.quoteCity || cityFromUrl() }); finish(label(
+        "Your request was sent to the form service. If you do not receive a reply, please call or use WhatsApp.",
+        "Tu solicitud se envió al servicio de formularios. Si no recibes respuesta, llama o utiliza WhatsApp."
       ), true); };
       receiver.addEventListener("load", onLoad, { once: true });
       const timeout = setTimeout(() => {
@@ -176,7 +176,7 @@ const WHATSAPP_NUMBER = "17138789793";
 (() => {
   const section = document.querySelector("#contact");
   if (!section) return;
-  const es = document.documentElement.lang === "es";
+  const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const content = section.querySelector(".contactgrid>div");
   if (!content) return;
   const city = (location.pathname.includes("commercial-cleaning-stafford") || location.pathname.includes("limpieza-comercial-stafford")) ? "Stafford" : (location.pathname.includes("commercial-cleaning-sugar-land") || location.pathname.includes("limpieza-comercial-sugar-land")) ? "Sugar Land" : (location.pathname.includes("commercial-cleaning-pearland") || location.pathname.includes("limpieza-comercial-pearland")) ? "Pearland" : ({ "katy-tx": "Katy", "pearland-tx": "Pearland", "stafford-tx": "Stafford", "sugar-land-tx": "Sugar Land" })[location.pathname.split("/").filter(Boolean).at(-1)] || "Houston";
@@ -189,7 +189,7 @@ const WHATSAPP_NUMBER = "17138789793";
 
 // Secciones de detalle por ciudad y mapa, conservados del archivo original.
 (() => {
-  const es = document.documentElement.lang === "es";
+  const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const seg = location.pathname.split("/").filter(Boolean);
   const slug = seg.includes("service-areas") ? seg[seg.indexOf("service-areas") + 1] :
     seg.includes("areas") ? seg[seg.indexOf("areas") + 1] : null;
@@ -244,7 +244,7 @@ const WHATSAPP_NUMBER = "17138789793";
 (() => {
   if (!WHATSAPP_NUMBER) return;
   const number = WHATSAPP_NUMBER.replace(/\D/g, "");
-  const es = document.documentElement.lang === "es";
+  const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const message = es
     ? "Hola, me gustaría solicitar una cotización de limpieza."
     : "Hello, I would like to request a cleaning estimate.";
