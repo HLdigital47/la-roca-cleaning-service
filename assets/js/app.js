@@ -10,9 +10,9 @@ const WHATSAPP_NUMBER = "17138789793";
 
   function cityFromUrl() {
     const path = location.pathname;
-    if (path.includes("sugar-land-tx")) return "Sugar Land";
-    if (path.includes("pearland-tx")) return "Pearland";
-    if (path.includes("stafford-tx")) return "Stafford";
+    if (path.includes("sugar-land")) return "Sugar Land";
+    if (path.includes("pearland")) return "Pearland";
+    if (path.includes("stafford")) return "Stafford";
     if (path.includes("katy-tx")) return "Katy";
     return "Houston";
   }
@@ -65,7 +65,7 @@ const WHATSAPP_NUMBER = "17138789793";
         phone: fields.phone || "",
         email: fields.email || "",
         service: fields.service || "",
-        area: cityFromUrl(),
+        area: f.dataset.quoteCity || cityFromUrl(),
         message: fields.message || "",
         page: location.href,
         website: ""
@@ -106,7 +106,7 @@ const WHATSAPP_NUMBER = "17138789793";
         transport.remove();
       };
       // Iframe load indicates transport completion, not verified storage in Sheets.
-      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_request", { page_path: location.pathname, city: cityFromUrl() }); finish(label(
+      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_request", { page_path: location.pathname, city: f.dataset.quoteCity || cityFromUrl() }); finish(label(
         "Thank you! Your request has been submitted. We will contact you shortly.",
         "¡Gracias! Tu solicitud ha sido enviada. En breve nos pondremos en contacto contigo."
       ), true); };
@@ -179,7 +179,7 @@ const WHATSAPP_NUMBER = "17138789793";
   const es = document.documentElement.lang === "es";
   const content = section.querySelector(".contactgrid>div");
   if (!content) return;
-  const city = ({ "katy-tx": "Katy", "pearland-tx": "Pearland", "stafford-tx": "Stafford", "sugar-land-tx": "Sugar Land" })[location.pathname.split("/").filter(Boolean).at(-1)] || "Houston";
+  const city = (location.pathname.includes("commercial-cleaning-stafford") || location.pathname.includes("limpieza-comercial-stafford")) ? "Stafford" : (location.pathname.includes("commercial-cleaning-sugar-land") || location.pathname.includes("limpieza-comercial-sugar-land")) ? "Sugar Land" : (location.pathname.includes("commercial-cleaning-pearland") || location.pathname.includes("limpieza-comercial-pearland")) ? "Pearland" : ({ "katy-tx": "Katy", "pearland-tx": "Pearland", "stafford-tx": "Stafford", "sugar-land-tx": "Sugar Land" })[location.pathname.split("/").filter(Boolean).at(-1)] || "Houston";
   content.innerHTML = '<span class="eyebrow">' + (es ? "CONTACTO" : "CONTACT") +
     '</span><h2>' + (es ? "Solicita tu próxima limpieza" : "Request your next cleaning") +
     '</h2><p>' + (es ? "Cuéntanos qué necesitas limpiar. Ofrecemos cotizaciones gratuitas para casas y negocios en " + city + "." : "Tell us what needs cleaning. Free estimates for homes and businesses in " + city + ".") +
