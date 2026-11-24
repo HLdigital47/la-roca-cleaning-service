@@ -179,10 +179,11 @@ const WHATSAPP_NUMBER = "17138789793";
   const es = document.documentElement.lang === "es";
   const content = section.querySelector(".contactgrid>div");
   if (!content) return;
+  const city = ({ "katy-tx": "Katy", "pearland-tx": "Pearland", "stafford-tx": "Stafford", "sugar-land-tx": "Sugar Land" })[location.pathname.split("/").filter(Boolean).at(-1)] || "Houston";
   content.innerHTML = '<span class="eyebrow">' + (es ? "CONTACTO" : "CONTACT") +
     '</span><h2>' + (es ? "Solicita tu próxima limpieza" : "Request your next cleaning") +
-    '</h2><p>' + (es ? "Cuéntanos qué necesitas limpiar. Ofrecemos cotizaciones gratuitas para casas y negocios en Houston." : "Tell us what needs cleaning. Free estimates for homes and businesses in Houston.") +
-    '</p><div class="contact-essentials"><a href="tel:+17138789793" class="contact-phone">(713) 878-9793</a><a href="https://maps.app.goo.gl/zSs6zKJANVEmfsdx8?g_st=ic" target="_blank" rel="noopener noreferrer">' +
+    '</h2><p>' + (es ? "Cuéntanos qué necesitas limpiar. Ofrecemos cotizaciones gratuitas para casas y negocios en " + city + "." : "Tell us what needs cleaning. Free estimates for homes and businesses in " + city + ".") +
+    '</p><p>' + (es ? "Abierto de lunes a domingo, 7:00 a.m. – 10:00 p.m." : "Open Monday to Sunday, 7:00 a.m. – 10:00 p.m.") + '</p><div class="contact-essentials"><a href="tel:+17138789793" class="contact-phone">(713) 878-9793</a><a href="https://maps.app.goo.gl/zSs6zKJANVEmfsdx8?g_st=ic" target="_blank" rel="noopener noreferrer">' +
     (es ? "Perfil y reseñas de Google" : "Google Profile & Reviews") + "</a></div>";
 })();
 
