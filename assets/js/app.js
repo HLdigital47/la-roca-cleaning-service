@@ -1,21 +1,32 @@
 const FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbxdSijkZrqC1hef8MPY2D6OJU9Y4FLs53xPh33j9jcNy71MlNAkJ_5w_3iGGpVYexY3/exec";
 const WHATSAPP_NUMBER = "17138789793";
 
+const QUOTE_CITIES = {
+  "sugar-land": "Sugar Land",
+  "west-university-place": "West University Place",
+  "missouri-city": "Missouri City",
+  "pearland": "Pearland",
+  "stafford": "Stafford",
+  "bellaire": "Bellaire",
+  "memorial": "Memorial",
+  "sharpstown": "Sharpstown",
+  "westchase": "Westchase",
+  "katy": "Katy"
+};
+function quoteCityFromUrl() {
+  const path = location.pathname.split("/").filter(Boolean);
+  const [section, slug] = path[0] === "es" ? path.slice(1) : path;
+  if (!slug || !["areas", "service-areas", "services", "servicios"].includes(section)) return "Houston";
+  const normalized = slug.replace(/-(tx|houston)$/, "");
+  return Object.entries(QUOTE_CITIES).find(([key]) => normalized === key || normalized.endsWith("-" + key))?.[1] || "Houston";
+}
+
 // Formularios en todas las páginas (inglés y español).
 (() => {
   const form = document.querySelector("#quoteform");
   if (!form) return;
   const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const label = (en, sp) => es ? sp : en;
-
-  function cityFromUrl() {
-    const path = location.pathname;
-    if (path.includes("sugar-land")) return "Sugar Land";
-    if (path.includes("pearland")) return "Pearland";
-    if (path.includes("stafford")) return "Stafford";
-    if (path.includes("katy-tx")) return "Katy";
-    return "Houston";
-  }
 
   const receiver = document.createElement("iframe");
   receiver.name = "la-roca-google-form-receiver";
@@ -49,7 +60,7 @@ const WHATSAPP_NUMBER = "17138789793";
 
     f.addEventListener("submit", event => {
       event.preventDefault();
-      if (!f.reportValidity()) return;
+      if (button?.disabled || !f.reportValidity()) return;
 
       let status = f.querySelector('[role="status"]');
       if (!status) {
@@ -65,7 +76,7 @@ const WHATSAPP_NUMBER = "17138789793";
         phone: fields.phone || "",
         email: fields.email || "",
         service: fields.service || "",
-        area: f.dataset.quoteCity || cityFromUrl(),
+        area: f.dataset.quoteCity || quoteCityFromUrl(),
         message: fields.message || "",
         page: location.href,
         website: ""
@@ -106,10 +117,10 @@ const WHATSAPP_NUMBER = "17138789793";
         transport.remove();
       };
       // Iframe load indicates transport completion, not verified storage in Sheets.
-      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_transport_complete", { page_path: location.pathname, city: f.dataset.quoteCity || cityFromUrl() }); finish(label(
-        "Your request was sent to the form service. If you do not receive a reply, please call or use WhatsApp.",
-        "Tu solicitud se envió al servicio de formularios. Si no recibes respuesta, llama o utiliza WhatsApp."
-      ), true); };
+      const onLoad = () => { if (typeof window.gtag === "function") window.gtag("event", "estimate_transport_complete", { page_path: location.pathname, city: f.dataset.quoteCity || quoteCityFromUrl() }); finish(label(
+        "We could not verify receipt online. For confirmation, please call or use WhatsApp.",
+        "No pudimos verificar la recepción en línea. Para confirmarla, llama o utiliza WhatsApp."
+      )); };
       receiver.addEventListener("load", onLoad, { once: true });
       const timeout = setTimeout(() => {
         receiver.removeEventListener("load", onLoad);
@@ -179,7 +190,7 @@ const WHATSAPP_NUMBER = "17138789793";
   const es = document.documentElement.lang.toLowerCase().startsWith("es");
   const content = section.querySelector(".contactgrid>div");
   if (!content) return;
-  const city = (location.pathname.includes("commercial-cleaning-stafford") || location.pathname.includes("limpieza-comercial-stafford")) ? "Stafford" : (location.pathname.includes("commercial-cleaning-sugar-land") || location.pathname.includes("limpieza-comercial-sugar-land")) ? "Sugar Land" : (location.pathname.includes("commercial-cleaning-pearland") || location.pathname.includes("limpieza-comercial-pearland")) ? "Pearland" : ({ "katy-tx": "Katy", "pearland-tx": "Pearland", "stafford-tx": "Stafford", "sugar-land-tx": "Sugar Land" })[location.pathname.split("/").filter(Boolean).at(-1)] || "Houston";
+  const city = quoteCityFromUrl();
   content.innerHTML = '<span class="eyebrow">' + (es ? "CONTACTO" : "CONTACT") +
     '</span><h2>' + (es ? "Solicita tu próxima limpieza" : "Request your next cleaning") +
     '</h2><p>' + (es ? "Cuéntanos qué necesitas limpiar. Ofrecemos cotizaciones gratuitas para casas y negocios en " + city + "." : "Tell us what needs cleaning. Free estimates for homes and businesses in " + city + ".") +
