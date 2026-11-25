@@ -36,17 +36,13 @@ function quoteCityFromUrl() {
   document.body.append(receiver);
 
   function setup(f) {
-    const email = f.querySelector('[name="email"]');
-    if (email) email.required = false;
-    const emailLabel = f.querySelector('label[for="email"]');
-    if (emailLabel) emailLabel.textContent = label("Email (optional)", "Email (opcional)");
-    const locationField = f.querySelector('[name="location"]');
-    if (locationField) {
-      f.querySelector('label[for="location"]')?.remove();
-      locationField.remove();
+    // Estimate requests ask only for name, cell phone and service.
+    for (const key of ["email", "location", "message"]) {
+      const field = f.querySelector(`[name="${key}"]`);
+      if (!field) continue;
+      f.querySelector(`label[for="${field.id}"]`)?.remove();
+      field.remove();
     }
-    const detailsLabel = f.querySelector('label[for="message"]');
-    if (detailsLabel) detailsLabel.textContent = label("Details (optional)", "Detalles (opcional)");
     f.querySelector(".note")?.remove();
     const select = f.querySelector('select[name="service"]');
     if (select && ![...select.options].some(o => o.value === "other")) {
@@ -77,7 +73,7 @@ function quoteCityFromUrl() {
         email: fields.email || "",
         service: fields.service || "",
         area: f.dataset.quoteCity || quoteCityFromUrl(),
-        message: fields.message || "",
+        message: f.dataset.quoteSummary || "",
         page: location.href,
         website: ""
       };
