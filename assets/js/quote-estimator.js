@@ -199,6 +199,7 @@
       message.dataset.estimatorSummary = details.join("\n");
       message.value = [message.dataset.estimatorSummary, notes].filter(Boolean).join("\n\n");
     }
+    target.dataset.quoteSummary = [detail.textContent, headline.textContent].join("\n");
     target.dataset.quoteCity = city.value;
     if (modal && !modal.open) modal.showModal();
     else if (!modal) target.scrollIntoView();
