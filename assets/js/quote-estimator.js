@@ -56,6 +56,11 @@
   const mode = addSelect(t("Would you like to book by the hour?", "¿Prefieres contratar la limpieza por horas?"),
     "pricing", [t("No, choose a service", "No, elegir un servicio"), t("Yes, choose a package", "Sí, elegir un paquete")]);
   const hours = addSelect(t("How many hours?", "¿Cuántas horas necesitas?"), "hours", ["4", "5", "6"]);
+  const hoursPrompt = new Option(t("Choose the hours", "Elige las horas"), "");
+  hoursPrompt.disabled = true;
+  hours.add(hoursPrompt, 0);
+  hours.value = "";
+  hours.required = true;
   const service = addSelect(t("What cleaning service do you need?", "¿Qué servicio de limpieza necesitas?"),
     "service", services.keys());
   if (context && !initial) {
@@ -100,11 +105,21 @@
   const button = document.createElement("button");
   button.type = "submit";
   button.className = "button";
-  button.textContent = t("Continue to the quote form", "Continuar al formulario de cotización");
+  button.textContent = t("See my estimate", "Ver mi estimado");
   form.append(button);
+  const continueButton = document.createElement("button");
+  continueButton.type = "button";
+  continueButton.className = "button";
+  continueButton.textContent = t("Continue to the quote form", "Continuar al formulario de cotización");
+  continueButton.hidden = true;
+  form.append(continueButton);
 
   const hourlyPrices = {4: 225, 5: 270, 6: 315};
   function update() {
+    headline.textContent = "";
+    detail.textContent = "";
+    terms.textContent = "";
+    continueButton.hidden = true;
     const hourly = mode.selectedIndex === 1;
     hours.disabled = !hourly;
     hours.parentElement.hidden = !hourly;
@@ -113,12 +128,10 @@
       field.parentElement.hidden = hourly;
     }
 
-    if (!hourly && !service.value) {
-      headline.textContent = t("Choose a service to see your estimate", "Elige un servicio para ver tu cotización");
-      detail.textContent = "";
-      terms.textContent = "";
-      return;
-    }
+  }
+
+  function showEstimate() {
+    const hourly = mode.selectedIndex === 1;
     const base = hourly ? hourlyPrices[hours.value] : services.get(service.value);
     const firstCleaning = welcome.selectedIndex === 1;
     const estimate = base != null && firstCleaning ? Math.max(180, base * 0.8) : base;
@@ -151,7 +164,11 @@
 
   form.addEventListener("submit", event => {
     event.preventDefault();
-    update();
+    showEstimate();
+    continueButton.hidden = false;
+  });
+
+  continueButton.addEventListener("click", () => {
     const modal = document.querySelector("#quote-modal");
     const target = modal?.querySelector("form") || contactForm;
     if (!target) return;
