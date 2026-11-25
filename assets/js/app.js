@@ -194,50 +194,11 @@ function quoteCityFromUrl() {
     (es ? "Perfil y reseñas de Google" : "Google Profile & Reviews") + "</a></div>";
 })();
 
-// Secciones de detalle por ciudad y mapa, conservados del archivo original.
+// Contact map shared by every page. City content is rendered once in the HTML.
 (() => {
   const es = document.documentElement.lang.toLowerCase().startsWith("es");
-  const seg = location.pathname.split("/").filter(Boolean);
-  const slug = seg.includes("service-areas") ? seg[seg.indexOf("service-areas") + 1] :
-    seg.includes("areas") ? seg[seg.indexOf("areas") + 1] : null;
-  const places = {
-    "bellaire-tx": ["Bellaire", "Residential kitchen and bathroom care", "Cocinas y baños residenciales", "Residential properties may need consistent bathroom care, kitchen surface cleaning and regular maintenance between visits.", "Las casas pueden necesitar limpieza constante de baños, superficies de cocina y mantenimiento regular.", "bathroom-vanity-cleaning-houston-tx.jpg"],
-    "katy-tx": ["Katy", "Family homes and moving schedules", "Casas familiares y mudanzas", "For family households and properties preparing for new occupants, choose regular upkeep or a detailed one-time cleaning.", "Para hogares y propiedades que se preparan para nuevos ocupantes, elige limpieza recurrente o una limpieza detallada.", "living-room-cleaning-cinco-ranch-katy.jpg"],
-    "memorial-houston": ["Memorial", "Detailed home interiors", "Interiores residenciales detallados", "Interior cleaning can include accessible shelves, blinds, bathrooms and living areas based on your property needs.", "La limpieza interior puede incluir estantes accesibles, persianas, baños y salas según la propiedad.", "window-blinds-cleaning-houston-tx.jpg"],
-    "missouri-city-tx": ["Missouri City", "Apartments, bedrooms and living areas", "Apartamentos, habitaciones y salas", "Whether preparing a residence for guests or requesting ongoing cleaning, explain which rooms need attention.", "Ya sea para preparar una vivienda para visitas o solicitar limpieza frecuente, indica qué habitaciones necesitan atención.", "residential-entryway-cleaning-houston-tx.jpg"],
-    "pearland-tx": ["Pearland", "Move-in and move-out preparation", "Preparación para mudanzas", "Vacant property cleaning focuses on accessible floors, bathrooms and interior spaces before moving in or out.", "La limpieza de propiedades vacías se enfoca en pisos accesibles, baños e interiores antes o después de mudarse.", "vacant-living-room-cleaning-houston-tx.jpg"],
-    "sharpstown-houston": ["Sharpstown", "Apartment and floor cleaning", "Limpieza de apartamentos y pisos", "Discuss apartment cleaning, floors and everyday living areas according to the condition and size of the property.", "Consulta limpieza de apartamentos, pisos y áreas de uso diario según las condiciones y tamaño de la propiedad.", "limpieza-de-apartamentos-houston.jpg"],
-    "stafford-tx": ["Stafford", "Workspaces and shared corridors", "Espacios de trabajo y pasillos", "Business clients can request cleaning for common areas, corridors and workspaces with a scope agreed before service.", "Los negocios pueden solicitar limpieza de áreas comunes, pasillos y zonas de trabajo con alcance acordado previamente.", "building-hallway-floor-cleaning-houston-tx.jpg"],
-    "sugar-land-tx": ["Sugar Land", "Cabinets, shelves and interior details", "Gabinetes, estantes y detalles interiores", "Detailed residential cleaning may include accessible interior cabinets, shelves and kitchen surfaces when requested.", "La limpieza residencial detallada puede incluir interiores accesibles de gabinetes, estantes y superficies de cocina.", "closet-shelf-cleaning-sugar-land-tx.jpg"],
-    "west-university-place-tx": ["West University Place", "Bathrooms and living spaces", "Baños y espacios residenciales", "Discuss bathroom fixtures, floors and living areas for one-time or recurring home cleaning.", "Consulta limpieza de accesorios del baño, pisos y salas para una visita o servicio recurrente.", "residential-bathtub-cleaning-houston-tx.jpg"],
-    "westchase-houston": ["Westchase", "Kitchens and workplaces", "Cocinas y lugares de trabajo", "Residential and commercial customers can discuss kitchen appliances, common areas and workplace cleaning.", "Clientes residenciales y comerciales pueden consultar limpieza de electrodomésticos, áreas comunes y oficinas.", "kitchen-appliance-cleaning-houston-tx.jpg"]
-  };
-  const info = places[slug];
-  const services = document.querySelector("#services");
-  if (info && services && !(slug === "stafford-tx" && document.querySelector(".local-focus"))) {
-    const block = document.createElement("section");
-    block.className = "city-detail-section";
-    block.innerHTML = '<div class="wrap city-detail-layout"><div><span class="eyebrow">' +
-      info[0].toUpperCase() + '</span><h2>' + (es ? info[2] : info[1]) +
-      '</h2><p>' + (es ? info[4] : info[3]) + '</p><p>' +
-      (es ? "Cotizamos cada trabajo según las necesidades de la propiedad. Consulta disponibilidad para tu dirección." :
-        "Each cleaning is quoted according to your property. Contact us to confirm availability at your address.") +
-      '</p><a href="#quote-modal" class="button city-open-quote">' +
-      (es ? "Solicitar cotización" : "Request an estimate") +
-      '</a></div><img loading="lazy" src="/assets/' + info[5] + '" alt="' +
-      (es ? info[2] : info[1]) + '"></div>';
-    services.before(block);
-    block.querySelector(".city-open-quote")?.addEventListener("click", e => {
-      const modal = document.querySelector("#quote-modal");
-      if (modal) { e.preventDefault(); modal.showModal(); }
-    });
-  }
   const contact = document.querySelector("#contact .contactgrid");
   if (contact) {
-    const legal = document.createElement("section");
-    legal.className = "company-credentials";
-    legal.innerHTML = "<h3>" + (es ? "Licencia y seguro" : "Licensed and Insured") + "</h3>";
-    contact.querySelector("div")?.append(legal);
     const map = document.createElement("div");
     map.className = "google-map-panel";
     map.innerHTML = "<h3>" + (es ? "Perfil y ubicación en Google" : "Google Business Profile & Location") +
