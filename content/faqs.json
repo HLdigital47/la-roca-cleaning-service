@@ -1,0 +1,2341 @@
+{
+  "researched_on": "2026-11-25",
+  "methodology": "docs/faq-research-2026-11-25.md",
+  "pages": {
+    "/": {
+      "sources": [
+        "HOU-A",
+        "SCOPE-B",
+        "MOV-M"
+      ],
+      "heading": {
+        "en": "Before you book a cleaning in Houston",
+        "es": "Antes de contratar una limpieza en Houston"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Why did I get two very different prices for the same house?",
+            "answer": "Compare the actual work, not just the number of bedrooms. Check bathrooms, occupied square footage, buildup, visit frequency and appliance interiors. A maintenance visit and a first deep clean are different jobs, even at the same address."
+          },
+          "es": {
+            "question": "¿Por qué me dieron precios tan distintos por limpiar la misma casa?",
+            "answer": "Compara las tareas, no solo el número de recámaras. Revisa baños, superficie a limpiar, suciedad acumulada, frecuencia e interiores de electrodomésticos. Una visita de mantenimiento y una primera limpieza profunda son trabajos distintos, aunque sea la misma dirección."
+          }
+        },
+        {
+          "en": {
+            "question": "Do I need a regular clean, a deep clean or a move-out clean?",
+            "answer": "Choose regular cleaning for ongoing upkeep. Consider a deep clean for accumulated grease, bathroom buildup and neglected details. For a change of occupants, request move-in or move-out cleaning and identify empty cabinets, appliances and any handover requirements."
+          },
+          "es": {
+            "question": "¿Necesito limpieza regular, profunda o por mudanza?",
+            "answer": "La regular sirve para mantenimiento. La profunda se enfoca en grasa acumulada, suciedad de baños y detalles descuidados. Si cambia quien ocupa la vivienda, solicita limpieza por mudanza e identifica gabinetes vacíos, electrodomésticos y requisitos de entrega."
+          }
+        },
+        {
+          "en": {
+            "question": "Does booking cleaning include laundry, organizing and cleaning inside the fridge?",
+            "answer": "These are separate tasks and should be listed explicitly. Wiping an appliance exterior is different from emptying and cleaning its interior. Likewise, cleaning a bedroom does not automatically include sorting clothes or washing bedding. Agree on these details before the visit."
+          },
+          "es": {
+            "question": "¿Al contratar limpieza también incluyen lavar ropa, organizar y limpiar el refrigerador por dentro?",
+            "answer": "Son tareas diferentes y deben quedar especificadas. Limpiar el exterior de un electrodoméstico no es lo mismo que vaciarlo y limpiarlo por dentro. Limpiar una recámara tampoco incluye automáticamente ordenar ropa o lavar sábanas. Acuerda esos detalles antes de la visita."
+          }
+        },
+        {
+          "en": {
+            "question": "What do I need to fill out to request an estimate?",
+            "answer": "The estimate form asks only for your name, cell phone number and service. During follow-up, have your approximate square footage, bathroom count and priorities ready. For a move, also have the handover date and the landlord's cleaning list available."
+          },
+          "es": {
+            "question": "¿Qué tengo que llenar para pedir un estimado?",
+            "answer": "El formulario pide únicamente nombre, número de celular y servicio. Para el seguimiento, ten a mano la superficie aproximada, cantidad de baños y tus prioridades. Si es una mudanza, prepara también la fecha de entrega y la lista de limpieza del arrendador."
+          }
+        }
+      ]
+    },
+    "/service-areas/katy-tx/": {
+      "sources": [
+        "KAT-A",
+        "KAT-B",
+        "KAT-M"
+      ],
+      "heading": {
+        "en": "Planning a cleaning in Katy",
+        "es": "Cómo preparar tu limpieza en Katy"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "I just bought a house in Katy. Should I clean before moving my furniture in?",
+            "answer": "An empty house gives access to cabinet interiors, closet shelves and floor edges that furniture will cover. Plan the cleaning after repairs or painting and before delivery day. Identify which appliances stay and which interiors need attention when defining the job."
+          },
+          "es": {
+            "question": "Acabo de comprar una casa en Katy. ¿Conviene limpiarla antes de meter los muebles?",
+            "answer": "La casa vacía permite acceder a gabinetes, repisas de clósets y bordes del piso que después quedarán cubiertos. Programa la limpieza después de reparaciones o pintura y antes de recibir los muebles. Define qué electrodomésticos se quedan y cuáles necesitan limpieza interior."
+          }
+        },
+        {
+          "en": {
+            "question": "Is laundry and closet organization part of house cleaning in Katy?",
+            "answer": "Cleaning removes dust and dirt from accessible surfaces; organizing decides where belongings go. Laundry also requires washing, drying and folding time. If those are your main needs, describe them separately instead of assuming a standard house-cleaning visit covers them."
+          },
+          "es": {
+            "question": "¿La limpieza de casa en Katy incluye lavar ropa y organizar clósets?",
+            "answer": "La limpieza retira polvo y suciedad de superficies accesibles; organizar implica decidir dónde guardar las cosas. Lavar ropa también requiere tiempo de lavado, secado y doblado. Si eso es lo que necesitas, indícalo por separado; no lo des por incluido en una limpieza regular."
+          }
+        },
+        {
+          "en": {
+            "question": "Does a two-story house need a different estimate from a one-story home?",
+            "answer": "Include both floors, stairs and the bathrooms used on each level in the description. If only one floor needs cleaning, say so before comparing prices. The area actually cleaned and its condition matter more than the total size shown on a property listing."
+          },
+          "es": {
+            "question": "¿Se cotiza diferente una casa de dos pisos que una de un piso?",
+            "answer": "Incluye ambos niveles, las escaleras y los baños utilizados en cada planta. Si solo necesitas limpiar un piso, acláralo antes de comparar precios. Importan la superficie que se limpiará y su estado, no únicamente los pies cuadrados anunciados de la propiedad."
+          }
+        },
+        {
+          "en": {
+            "question": "My Katy landlord gave me a move-out checklist. What should I do with it?",
+            "answer": "Use that checklist to define the cleaning before booking. Mark cabinet interiors, oven, refrigerator, blinds and any separate carpet requirement. Schedule after belongings are removed, keep utilities available for the work and leave time before returning the keys."
+          },
+          "es": {
+            "question": "Mi arrendador en Katy me dio una lista de entrega. ¿Qué hago con ella?",
+            "answer": "Úsala para definir la limpieza antes de contratar. Marca interiores de gabinetes, horno, refrigerador, persianas y cualquier requisito separado para alfombras. Programa después de retirar tus pertenencias, mantén disponibles los servicios necesarios y deja tiempo antes de devolver las llaves."
+          }
+        }
+      ]
+    },
+    "/service-areas/pearland-tx/": {
+      "sources": [
+        "PEA-A",
+        "PEA-B",
+        "HOU-A"
+      ],
+      "heading": {
+        "en": "Questions about cleaning your Pearland home",
+        "es": "Dudas sobre la limpieza de tu casa en Pearland"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Can I start with a deep clean and then have my Pearland home cleaned monthly?",
+            "answer": "That can be a useful plan when the first visit needs to address accumulated dirt. Separate the initial detail work from the ongoing checklist. Between monthly visits, kitchens, bathrooms and pet areas may still need upkeep depending on how much the home is used."
+          },
+          "es": {
+            "question": "¿Puedo empezar con una limpieza profunda y después limpiar mi casa de Pearland cada mes?",
+            "answer": "Puede ser una buena opción si primero hay suciedad acumulada que atender. Separa el trabajo detallado inicial de la lista de mantenimiento. Entre visitas mensuales, cocina, baños y zonas de mascotas pueden seguir necesitando atención según el uso de la casa."
+          }
+        },
+        {
+          "en": {
+            "question": "Why is my neighbor's cleaning quote lower than mine?",
+            "answer": "The same neighborhood does not mean the same job. Compare bathroom count, floors being cleaned, grease or shower buildup, pets, frequency and extras. Ask whether both prices cover a first visit or ongoing maintenance before using your neighbor's price as a benchmark."
+          },
+          "es": {
+            "question": "¿Por qué la limpieza de mi vecino cuesta menos que la mía?",
+            "answer": "Vivir en la misma zona no significa necesitar el mismo trabajo. Compara baños, pisos incluidos, grasa o sarro, mascotas, frecuencia y extras. Revisa si ambos precios corresponden a una primera visita o a mantenimiento antes de tomar su tarifa como referencia."
+          }
+        },
+        {
+          "en": {
+            "question": "Will regular cleaning remove all the pet hair in my home?",
+            "answer": "Identify the surfaces involved: hard floors, rugs, upholstery and bedding need different work. Routine floor cleaning is different from upholstery extraction or odor treatment. Mention shedding and any pet stains in advance so the estimate reflects the areas that matter to you."
+          },
+          "es": {
+            "question": "¿La limpieza regular elimina todo el pelo de mascotas de mi casa?",
+            "answer": "Identifica dónde está: pisos, tapetes, muebles y ropa de cama requieren trabajos distintos. Limpiar pisos no equivale a lavar tapicería o tratar olores. Menciona la cantidad de pelo y las manchas antes de cotizar para incluir las áreas que más te preocupan."
+          }
+        },
+        {
+          "en": {
+            "question": "I'm moving into a Pearland home that looks clean. Is another cleaning worthwhile?",
+            "answer": "Look inside drawers, cabinets and appliances, and check bathrooms and floor edges. A tidy appearance does not tell you which interiors were cleaned. Build a short list from what you find and have that scope reviewed before ordering a full move-in clean."
+          },
+          "es": {
+            "question": "Me mudaré a una casa en Pearland que se ve limpia. ¿Vale la pena limpiarla otra vez?",
+            "answer": "Revisa cajones, gabinetes y electrodomésticos por dentro, además de baños y bordes del piso. Que se vea ordenada no indica qué interiores se limpiaron. Haz una lista de lo que encuentres y revisa ese alcance antes de pedir una limpieza completa por mudanza."
+          }
+        }
+      ]
+    },
+    "/service-areas/sugar-land-tx/": {
+      "sources": [
+        "SUG-A",
+        "SUG-B",
+        "SUG-M"
+      ],
+      "heading": {
+        "en": "Comparing cleaning options in Sugar Land",
+        "es": "Cómo comparar opciones de limpieza en Sugar Land"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should I compare Sugar Land cleaning prices by the visit or by the hour?",
+            "answer": "First establish whether the quote buys a defined checklist or a time block. Also ask how many cleaners are assigned: two people working two hours provide a different amount of labor from one person working two hours. Compare the same tasks and pricing basis."
+          },
+          "es": {
+            "question": "¿Debo comparar los precios de limpieza en Sugar Land por visita o por hora?",
+            "answer": "Primero identifica si la cotización cubre una lista de tareas o un bloque de tiempo. Pregunta cuántas personas trabajarán: dos personas durante dos horas aportan más trabajo que una persona durante dos horas. Compara las mismas tareas y la misma forma de cobro."
+          }
+        },
+        {
+          "en": {
+            "question": "Can the estimate focus on the downstairs rooms I actually use?",
+            "answer": "Describe the exact rooms, bathrooms, hallways and stairs you want included so La Roca can review the scope. Bedrooms that stay closed and unused should be identified separately. A partial-home request needs its own estimate rather than a guessed percentage of a whole-house price."
+          },
+          "es": {
+            "question": "¿Puedo pedir una cotización solo para la planta baja que sí utilizo?",
+            "answer": "Indica las habitaciones, baños, pasillos y escaleras que quieres incluir para que La Roca revise el alcance. Señala por separado las recámaras cerradas o sin uso. Una solicitud parcial necesita su propia cotización; no se calcula suponiendo un porcentaje del precio de toda la casa."
+          }
+        },
+        {
+          "en": {
+            "question": "How do I know whether biweekly or monthly cleaning is enough?",
+            "answer": "Notice what becomes difficult between visits. If bathrooms, kitchen grease or pet hair need substantial work before the next appointment, a shorter interval may fit better. If you keep those areas maintained yourself, a monthly visit may suit your routine. Compare the proposed task lists too."
+          },
+          "es": {
+            "question": "¿Cómo sé si me conviene limpieza quincenal o mensual?",
+            "answer": "Observa qué se complica entre visitas. Si baños, grasa de cocina o pelo de mascotas requieren mucho trabajo antes de la siguiente cita, puede convenir un intervalo menor. Si tú mantienes esas áreas, una visita mensual puede ajustarse mejor. Compara también las listas de tareas propuestas."
+          }
+        },
+        {
+          "en": {
+            "question": "Should cleaning happen before or after the movers at my Sugar Land property?",
+            "answer": "For an empty-home handover, arrange cleaning after loading and moving work is finished. Movers can leave floor marks and uncover dust behind furniture. Keep time before the inspection for a final review, and use the buyer's or landlord's actual instructions to set priorities."
+          },
+          "es": {
+            "question": "¿La limpieza de mi propiedad en Sugar Land debe hacerse antes o después de la mudanza?",
+            "answer": "Para entregar una vivienda vacía, programa después de terminar de cargar y mover. La mudanza puede dejar marcas en el piso y descubrir polvo detrás de muebles. Deja tiempo antes de la revisión final y usa las instrucciones reales del comprador o arrendador para definir prioridades."
+          }
+        }
+      ]
+    },
+    "/service-areas/stafford-tx/": {
+      "sources": [
+        "STA-B",
+        "OFF-B",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Choosing home or business cleaning in Stafford",
+        "es": "Limpieza para tu casa o negocio en Stafford"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should I request house cleaning or commercial cleaning for my Stafford property?",
+            "answer": "Choose based on how the space is used. A home needs a household checklist; a workplace needs its occupied areas, restroom use, customer traffic and access rules considered. For a home office, explain whether you want the whole home cleaned or only a business workspace."
+          },
+          "es": {
+            "question": "¿Debo pedir limpieza residencial o comercial para mi propiedad en Stafford?",
+            "answer": "Depende del uso del espacio. Una casa requiere una lista doméstica; un lugar de trabajo necesita considerar áreas ocupadas, uso de baños, clientes y reglas de acceso. Si trabajas desde casa, aclara si necesitas limpiar toda la vivienda o solo el espacio de trabajo."
+          }
+        },
+        {
+          "en": {
+            "question": "What should a Stafford office estimate include besides square footage?",
+            "answer": "List restrooms, kitchen or break room, floor types, bins, desks and cleaning frequency. Note which areas customers use and which rooms are restricted. Two offices with the same floor area can require very different work if one has more occupants or heavily used restrooms."
+          },
+          "es": {
+            "question": "¿Qué debe incluir la cotización de una oficina en Stafford además del tamaño?",
+            "answer": "Indica baños, cocina o comedor, tipos de piso, botes, escritorios y frecuencia. Señala qué áreas reciben clientes y cuáles tienen acceso restringido. Dos oficinas del mismo tamaño pueden requerir trabajos muy distintos si cambia la ocupación o el uso de los baños."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I request cleaning after my business closes?",
+            "answer": "Provide the building's permitted access hours, alarm procedure and the time the work must finish. After-hours requests depend on the route and available appointment. Agree on how the team enters, which areas are accessible and who locks up before confirming a visit."
+          },
+          "es": {
+            "question": "¿Puedo solicitar limpieza después de cerrar mi negocio?",
+            "answer": "Indica el horario permitido de entrada al edificio, el procedimiento de alarma y la hora límite para terminar. Las solicitudes fuera de horario dependen de la ruta y la disponibilidad. Acuerda cómo entrar, qué áreas estarán accesibles y quién cierra antes de confirmar la visita."
+          }
+        },
+        {
+          "en": {
+            "question": "Does general commercial cleaning include machinery, warehouse waste or floor stripping?",
+            "answer": "Those jobs need a separate scope review. Routine office cleaning is not the same as servicing machinery, removing industrial waste or stripping and refinishing floors. Identify the material and work area first; do not assume that a general cleaning estimate covers specialist work."
+          },
+          "es": {
+            "question": "¿La limpieza comercial incluye maquinaria, residuos de almacén o decapado de pisos?",
+            "answer": "Esos trabajos requieren revisar el alcance por separado. Limpiar oficinas no equivale a intervenir maquinaria, retirar residuos industriales o decapar y renovar pisos. Identifica el material y la zona antes de cotizar; no des por incluidos trabajos especializados en una limpieza general."
+          }
+        }
+      ]
+    },
+    "/service-areas/bellaire-tx/": {
+      "sources": [
+        "BEL-B",
+        "STONE-C",
+        "WOOD-C"
+      ],
+      "heading": {
+        "en": "Cleaning questions for Bellaire homes",
+        "es": "Preguntas de limpieza para casas en Bellaire"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What should I tell the cleaner if my Bellaire home has marble or original wood floors?",
+            "answer": "Identify the material and finish, and share any manufacturer or installer instructions. Marble and some other stones can be damaged by acidic products; wood needs moisture control. Point out existing dull patches or scratches so cleaning is not confused with restoration."
+          },
+          "es": {
+            "question": "¿Qué debo avisar si mi casa en Bellaire tiene mármol o pisos de madera originales?",
+            "answer": "Identifica el material y el acabado y comparte las indicaciones del fabricante o instalador. Los productos ácidos pueden dañar el mármol y otras piedras; la madera requiere controlar la humedad. Señala zonas opacas o rayadas para distinguir limpieza de restauración."
+          }
+        },
+        {
+          "en": {
+            "question": "Will deep cleaning make worn floors and countertops look new again?",
+            "answer": "Cleaning can remove removable dirt and residue. It does not rebuild a worn finish, repair scratches or polish away etched stone. If a surface stays dull after ordinary cleaning, identify the finish and have restoration needs assessed separately from the house-cleaning scope."
+          },
+          "es": {
+            "question": "¿Una limpieza profunda dejará como nuevos los pisos y las cubiertas desgastadas?",
+            "answer": "La limpieza puede retirar suciedad y residuos removibles. No reconstruye acabados desgastados, repara rayones ni pule piedra dañada por ácidos. Si una superficie sigue opaca después de limpiarla, identifica el acabado y revisa por separado si necesita restauración."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I ask about fragrance-free products before the visit?",
+            "answer": "Yes. Describe the specific fragrance or ingredient you want avoided and identify any products your surfaces require. Product availability and compatibility should be agreed before the appointment. A strong fragrance is not evidence that a surface has been cleaned more thoroughly."
+          },
+          "es": {
+            "question": "¿Puedo preguntar por productos sin fragancia antes de la visita?",
+            "answer": "Sí. Indica qué fragancia o ingrediente quieres evitar y qué productos requieren tus superficies. La disponibilidad y compatibilidad deben acordarse antes de la cita. Un olor intenso no demuestra que una superficie haya quedado mejor limpia."
+          }
+        },
+        {
+          "en": {
+            "question": "I'm renovating one room. Do I need a deep clean or post-construction cleaning?",
+            "answer": "If the issue is construction dust, sanding residue or new finishes, describe it as post-construction work even when only one room was remodeled. Ordinary deep cleaning addresses household buildup. Explain whether dust reached adjoining rooms and whether contractors have completed their work."
+          },
+          "es": {
+            "question": "Estoy remodelando una habitación. ¿Necesito limpieza profunda o posconstrucción?",
+            "answer": "Si hay polvo de obra, residuos de lijado o acabados nuevos, descríbelo como trabajo posconstrucción aunque solo se haya remodelado una habitación. La profunda atiende suciedad doméstica acumulada. Explica si el polvo llegó a otras áreas y si los contratistas ya terminaron."
+          }
+        }
+      ]
+    },
+    "/service-areas/missouri-city-tx/": {
+      "sources": [
+        "MIS-B",
+        "SUG-B",
+        "PEA-A"
+      ],
+      "heading": {
+        "en": "Preparing a cleaning request in Missouri City",
+        "es": "Cómo solicitar tu limpieza en Missouri City"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Do I have to book recurring cleaning if I only need help once?",
+            "answer": "A one-time visit and ongoing maintenance are different requests. Describe whether this is preparation for guests, a first reset or an empty-home move. La Roca can review the appropriate service and appointment without treating a one-time request as a recurring schedule."
+          },
+          "es": {
+            "question": "¿Tengo que contratar visitas recurrentes si solo necesito ayuda una vez?",
+            "answer": "Una visita única y el mantenimiento continuo son solicitudes diferentes. Aclara si es para recibir visitas, hacer una primera limpieza a fondo o limpiar una vivienda vacía. La Roca puede revisar el servicio y la fecha adecuados sin confundirlo con un programa recurrente."
+          }
+        },
+        {
+          "en": {
+            "question": "My home has unused bedrooms. Should I still include them in the estimate?",
+            "answer": "List the rooms you want cleaned and the rooms to leave closed. Include shared bathrooms, hallways and floor areas that still need attention. This lets the scope be reviewed accurately; an unused bedroom does not automatically mean the whole home requires less work."
+          },
+          "es": {
+            "question": "Tengo recámaras que no uso. ¿Debo incluirlas en la cotización?",
+            "answer": "Haz una lista de las habitaciones a limpiar y las que permanecerán cerradas. Incluye baños compartidos, pasillos y pisos que sí requieren atención. Así puede revisarse el alcance con precisión; una recámara sin uso no significa automáticamente que toda la casa necesite menos trabajo."
+          }
+        },
+        {
+          "en": {
+            "question": "How should I arrange access if I'm away from my Missouri City home?",
+            "answer": "Agree directly on entry, alarm instructions and who can answer questions during the visit. Confirm any gated-community requirements and a way to secure the property afterward. Send sensitive access details privately, rather than putting them in public comments or shared cleaning lists."
+          },
+          "es": {
+            "question": "¿Cómo organizo el acceso si no estaré en mi casa de Missouri City?",
+            "answer": "Acuerda directamente la entrada, las instrucciones de alarma y quién responderá durante la visita. Confirma requisitos de acceso de la comunidad y cómo se cerrará después. Comparte los datos sensibles en privado, no en comentarios públicos ni en listas compartidas de limpieza."
+          }
+        },
+        {
+          "en": {
+            "question": "What needs extra planning when there are pets in the house?",
+            "answer": "Mention the animals, shedding areas and any rooms they use heavily. Arrange a secure, comfortable place for them while doors are being opened and products are in use. Distinguish ordinary pet hair from stains, odor treatment or upholstery cleaning when discussing priorities."
+          },
+          "es": {
+            "question": "¿Qué debo preparar si hay mascotas en casa?",
+            "answer": "Avisa qué animales hay, dónde sueltan pelo y qué áreas utilizan más. Prepara un lugar seguro y cómodo mientras se abren puertas y se usan productos. Distingue el pelo habitual de manchas, tratamiento de olores o lavado de tapicería al explicar tus prioridades."
+          }
+        }
+      ]
+    },
+    "/service-areas/memorial-tx/": {
+      "sources": [
+        "MEM-B",
+        "STONE-C",
+        "WOOD-C",
+        "POST-B"
+      ],
+      "heading": {
+        "en": "Planning detailed cleaning in Memorial",
+        "es": "Cómo planear una limpieza detallada en Memorial"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Can deep cleaning fix cloudy marble or dull wood floors?",
+            "answer": "First distinguish residue from damage to the finish. Dirt or product film may be removable; etching, worn coatings and scratches need a different assessment. Share the surface material and any care instructions before cleaning, especially for stone and older wood finishes."
+          },
+          "es": {
+            "question": "¿Una limpieza profunda corrige mármol opaco o pisos de madera sin brillo?",
+            "answer": "Primero hay que distinguir residuos de daños en el acabado. La suciedad o una película de producto pueden retirarse; la corrosión, los recubrimientos desgastados y los rayones requieren otra evaluación. Comparte el material y sus indicaciones de cuidado, especialmente en piedra y madera antigua."
+          }
+        },
+        {
+          "en": {
+            "question": "What about high ceiling fans, chandeliers and tall windows?",
+            "answer": "Identify their height and how they can be reached. A house-cleaning quote should distinguish safely reachable surfaces from work requiring specialist equipment or elevated access. Send a description or photo during follow-up instead of assuming every high fixture is included."
+          },
+          "es": {
+            "question": "¿Qué pasa con ventiladores altos, candelabros y ventanas de doble altura?",
+            "answer": "Indica su altura y cómo se accede a ellos. La cotización debe diferenciar superficies accesibles de trabajos que requieren equipo especializado o acceso en altura. Comparte una descripción o fotografía durante el seguimiento; no supongas que todos los elementos altos están incluidos."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I book a whole-house deep clean after a kitchen remodel?",
+            "answer": "Describe the renovation first. Dust may have spread beyond the kitchen, so list adjoining rooms, ledges, cabinet interiors and floors that need review. Final cleaning works best once trades are finished and new finishes are ready for their manufacturer's recommended care."
+          },
+          "es": {
+            "question": "¿Debo pedir limpieza profunda de toda la casa después de remodelar la cocina?",
+            "answer": "Primero describe la remodelación. El polvo puede extenderse fuera de la cocina: identifica habitaciones cercanas, repisas, interiores de gabinetes y pisos que necesitan revisión. La limpieza final conviene cuando la obra terminó y los acabados permiten el cuidado indicado por su fabricante."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I prioritize used rooms without cleaning every room in my Memorial home?",
+            "answer": "Give La Roca a room-by-room list for review, including guest rooms to leave closed, stairs, bathrooms and common areas. Mark delicate objects or display shelves that should not be handled. Defining those boundaries is more useful than estimating the job from bedroom count alone."
+          },
+          "es": {
+            "question": "¿Puedo dar prioridad a las áreas usadas sin limpiar cada habitación de mi casa en Memorial?",
+            "answer": "Entrega una lista por habitación para revisión: recámaras de visitas cerradas, escaleras, baños y áreas comunes. Señala objetos delicados o repisas de exhibición que no deban tocarse. Definir esos límites ayuda más que cotizar únicamente con el número de recámaras."
+          }
+        }
+      ]
+    },
+    "/service-areas/westchase-tx/": {
+      "sources": [
+        "WCH-M",
+        "MOV-M",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Apartment and move-out cleaning in Westchase",
+        "es": "Limpieza de apartamentos y mudanzas en Westchase"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Is cleaning my occupied Westchase apartment the same as a move-out clean?",
+            "answer": "No. In an occupied apartment, belongings limit access and the focus is upkeep. An empty-home clean can include the agreed cabinet, drawer and appliance interiors. State whether furniture and food will be removed, then match the work to the actual handover instructions."
+          },
+          "es": {
+            "question": "¿Es lo mismo limpiar mi apartamento habitado en Westchase que hacer limpieza de salida?",
+            "answer": "No. Con pertenencias dentro, el acceso es limitado y el objetivo es mantenimiento. En una vivienda vacía pueden incluirse los interiores de gabinetes, cajones y electrodomésticos que se acuerden. Indica si retirarás muebles y comida y usa las instrucciones reales de entrega."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I turn off utilities before my apartment cleaning?",
+            "answer": "Arrange the cleaning while water, power and safe access are still available. Set the shutoff date after the work is finished, subject to your lease and utility arrangements. Returning keys or ending access too early can prevent the scheduled cleaning from taking place."
+          },
+          "es": {
+            "question": "¿Debo desconectar los servicios antes de limpiar el apartamento?",
+            "answer": "Coordina la limpieza mientras todavía haya agua, electricidad y acceso seguro. Programa la desconexión después de terminar, de acuerdo con tu contrato y tus proveedores. Entregar llaves o perder acceso antes de tiempo puede impedir que se realice la visita."
+          }
+        },
+        {
+          "en": {
+            "question": "Does move-out cleaning include carpet shampooing?",
+            "answer": "Vacuuming and carpet extraction are different jobs. Check whether your apartment requires a separate carpet service or receipt, and raise that requirement before booking. Do not assume a general move-out cleaning price includes stain treatment, deodorizing or a specialist carpet-cleaning appointment."
+          },
+          "es": {
+            "question": "¿La limpieza de salida incluye lavado de alfombra?",
+            "answer": "Aspirar y lavar la alfombra con extracción son trabajos distintos. Revisa si tu apartamento exige un servicio o comprobante separado y avísalo antes de contratar. No supongas que la limpieza general de salida incluye tratamiento de manchas, olores o una visita especializada para alfombras."
+          }
+        },
+        {
+          "en": {
+            "question": "What access details matter for a Westchase apartment appointment?",
+            "answer": "Provide the unit and building, gate or office check-in procedure, permitted parking and any stair or elevator restrictions during follow-up. Confirm who will let the team in. Include the key-return deadline so the visit can be planned around a real access window."
+          },
+          "es": {
+            "question": "¿Qué datos de acceso importan para una limpieza de apartamento en Westchase?",
+            "answer": "Durante el seguimiento indica unidad, edificio, procedimiento de entrada, estacionamiento permitido y restricciones de escaleras o elevador. Confirma quién abrirá. Añade la hora límite para devolver llaves para poder planear la visita dentro del tiempo real de acceso."
+          }
+        }
+      ]
+    },
+    "/service-areas/west-university-place-tx/": {
+      "sources": [
+        "WUN-B",
+        "WOOD-C",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Cleaning around your routine in West University Place",
+        "es": "Limpieza que se ajuste a tu rutina en West University Place"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Can cleaning be planned around working from home?",
+            "answer": "Identify your meeting times and which room must stay quiet. Agree on the order of rooms and whether the office should be skipped until a particular time. This is more workable than leaving the team to guess which doors can be opened or when vacuuming is appropriate."
+          },
+          "es": {
+            "question": "¿Se puede organizar la limpieza si trabajo desde casa?",
+            "answer": "Indica tus horarios de reuniones y qué habitación debe mantenerse en silencio. Acuerda el orden de las áreas y si la oficina debe dejarse para después. Es más práctico que dejar al equipo adivinar qué puertas puede abrir o cuándo puede aspirar."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I put away before cleaning children's rooms?",
+            "answer": "Pick up small toys, clothes and objects covering the floor or furniture to be cleaned. Keep medicines, valuables and items that should not be handled out of the work area. If toy organization or washing bedding is needed, discuss those tasks separately from room cleaning."
+          },
+          "es": {
+            "question": "¿Qué debo recoger antes de limpiar las habitaciones de los niños?",
+            "answer": "Recoge juguetes pequeños, ropa y objetos sobre el piso o los muebles que se limpiarán. Guarda medicamentos, objetos de valor y artículos que no deban tocarse. Si necesitas organizar juguetes o lavar ropa de cama, acuerda esas tareas por separado."
+          }
+        },
+        {
+          "en": {
+            "question": "How do I explain product preferences for wood, stone or fragrance sensitivity?",
+            "answer": "Name the surface and the product or ingredient you want avoided, and share care instructions. A product suitable for tile may not suit marble or wood. Discuss compatibility before the visit instead of relying on labels such as natural or extra strong."
+          },
+          "es": {
+            "question": "¿Cómo explico mis preferencias de productos para madera, piedra o sensibilidad a fragancias?",
+            "answer": "Indica el material y el producto o ingrediente que quieres evitar y comparte sus instrucciones de cuidado. Lo adecuado para azulejo puede no servir para mármol o madera. Revisa la compatibilidad antes de la visita; las palabras natural o extrafuerte no bastan."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I compare when choosing a recurring cleaning plan in West University Place?",
+            "answer": "Compare which rooms are cleaned every visit, how bathrooms and kitchen tasks are handled, and which details rotate or cost extra. Then compare weekly, biweekly or monthly frequency. A lower price is only comparable if the same work and visit interval are included."
+          },
+          "es": {
+            "question": "¿Qué debo comparar al elegir limpieza recurrente en West University Place?",
+            "answer": "Compara qué habitaciones se limpian en cada visita, qué se hace en baños y cocina y qué detalles rotan o se cobran aparte. Después compara frecuencia semanal, quincenal o mensual. Un precio menor solo es comparable si incluye el mismo trabajo y el mismo intervalo."
+          }
+        }
+      ]
+    },
+    "/service-areas/sharpstown-tx/": {
+      "sources": [
+        "SHA-B",
+        "KAT-A",
+        "MOV-M",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Getting the right cleaning scope in Sharpstown",
+        "es": "Cómo definir la limpieza que necesitas en Sharpstown"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What information helps quote a Sharpstown apartment versus a house?",
+            "answer": "Describe the rooms and bathrooms to clean, floor types, current condition and whether the property is occupied. For an apartment, add floor level and access restrictions during follow-up. The property type alone does not show how much detail work is needed."
+          },
+          "es": {
+            "question": "¿Qué información ayuda a cotizar un apartamento o una casa en Sharpstown?",
+            "answer": "Describe habitaciones y baños a limpiar, tipos de piso, estado actual y si la propiedad está habitada. En apartamentos añade el nivel y restricciones de acceso durante el seguimiento. El tipo de vivienda por sí solo no indica cuánto trabajo detallado necesita."
+          }
+        },
+        {
+          "en": {
+            "question": "If my main problem is clutter, should I book deep cleaning?",
+            "answer": "First distinguish belongings that need sorting from surfaces that need washing or dust removal. Clear the surfaces you want cleaned, or ask separately whether organizing help can be provided. A deeper clean cannot reach a countertop or floor that remains covered with belongings."
+          },
+          "es": {
+            "question": "Si mi problema principal es el desorden, ¿debo pedir limpieza profunda?",
+            "answer": "Primero distingue los objetos que necesitan organización de las superficies que necesitan limpieza. Despeja las áreas a limpiar o pregunta por separado si puede brindarse ayuda para organizar. Una limpieza más profunda no permite acceder a un piso o cubierta que sigue lleno de cosas."
+          }
+        },
+        {
+          "en": {
+            "question": "What can I do if the kitchen and bathrooms need the most work?",
+            "answer": "List the specific issues, such as stovetop grease, shower residue or heavily used floors, in priority order during follow-up. Ask La Roca to review that scope before the visit. Do not assume a general time estimate includes every extra task on top of the main cleaning."
+          },
+          "es": {
+            "question": "¿Qué hago si la cocina y los baños son lo que más necesita atención?",
+            "answer": "Durante el seguimiento ordena tus prioridades: grasa de estufa, residuos de regadera o pisos muy usados, por ejemplo. Pide revisar ese alcance antes de la visita. No supongas que un tiempo estimado general permite añadir cualquier tarea extra además del trabajo principal."
+          }
+        },
+        {
+          "en": {
+            "question": "I'm handing over a Sharpstown rental. Which cleaning list should I follow?",
+            "answer": "Start with the instructions for your own property, not a generic internet checklist. Identify appliance interiors, cabinets, blinds, trash and any separate carpet requirement. Plan cleaning after the move and document the completed condition before keys are returned."
+          },
+          "es": {
+            "question": "Voy a entregar un alquiler en Sharpstown. ¿Qué lista de limpieza debo seguir?",
+            "answer": "Empieza con las instrucciones de tu propiedad, no con una lista genérica de internet. Identifica electrodomésticos por dentro, gabinetes, persianas, basura y requisitos separados de alfombra. Programa después de la mudanza y documenta el estado final antes de devolver las llaves."
+          }
+        }
+      ]
+    },
+    "/services/house-cleaning/": {
+      "sources": [
+        "HOU-A",
+        "KAT-A",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "What to know before a house-cleaning visit",
+        "es": "Lo que conviene saber antes de limpiar tu casa"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What should a regular house-cleaning checklist actually say?",
+            "answer": "It should name the rooms and tasks, such as accessible dusting, floors, kitchen surfaces and bathroom fixtures. It should also state how appliance interiors and detailed work are handled. A phrase such as complete cleaning is not enough to compare two estimates accurately."
+          },
+          "es": {
+            "question": "¿Qué debe decir realmente una lista de limpieza regular de casa?",
+            "answer": "Debe identificar habitaciones y tareas: polvo accesible, pisos, superficies de cocina y elementos del baño, por ejemplo. También debe aclarar cómo se manejan interiores de electrodomésticos y trabajo detallado. Decir limpieza completa no basta para comparar dos cotizaciones."
+          }
+        },
+        {
+          "en": {
+            "question": "Do I need to clean the house before the cleaner comes?",
+            "answer": "You do not need to scrub first. Pick up clothes, toys and loose belongings so surfaces and floors can be reached. Set aside valuables and identify rooms or items not to touch. Cleaning dirt and sorting possessions are different tasks, so agree on any organizing work separately."
+          },
+          "es": {
+            "question": "¿Tengo que limpiar mi casa antes de que llegue el equipo?",
+            "answer": "No necesitas ponerte a tallar antes. Recoge ropa, juguetes y objetos sueltos para permitir acceso a pisos y superficies. Guarda objetos de valor e identifica áreas o artículos que no deban tocarse. Retirar suciedad y organizar pertenencias son tareas distintas."
+          }
+        },
+        {
+          "en": {
+            "question": "Why might my first cleaning need more work than later visits?",
+            "answer": "The first visit may uncover grease, dust or bathroom buildup that has accumulated over time. Later maintenance visits start from a different condition. Describe the current state honestly and ask what belongs in the initial visit versus the recurring checklist before comparing the two prices."
+          },
+          "es": {
+            "question": "¿Por qué la primera limpieza puede requerir más trabajo que las siguientes?",
+            "answer": "La primera visita puede encontrar grasa, polvo o suciedad de baño acumulada durante tiempo. Las visitas de mantenimiento parten de un estado diferente. Describe cómo está la casa y distingue las tareas iniciales de las recurrentes antes de comparar ambos precios."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I be home while the cleaning is done?",
+            "answer": "Discuss the room order and any work calls, children or pets that affect access. Keep the areas being cleaned available and identify a person who can answer questions. If you prefer to be away, agree directly on entry and how the home will be secured afterward."
+          },
+          "es": {
+            "question": "¿Puedo quedarme en casa mientras limpian?",
+            "answer": "Acuerda el orden de habitaciones y avisa sobre reuniones, niños o mascotas que afecten el acceso. Mantén disponibles las áreas de trabajo e identifica quién responderá preguntas. Si prefieres salir, coordina directamente la entrada y cómo se cerrará la vivienda después."
+          }
+        }
+      ]
+    },
+    "/services/deep-cleaning/": {
+      "sources": [
+        "SCOPE-B",
+        "STONE-C",
+        "POST-C"
+      ],
+      "heading": {
+        "en": "What a deep clean can and cannot address",
+        "es": "Qué puede atender una limpieza profunda"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How do I know if my home needs deep cleaning rather than regular cleaning?",
+            "answer": "Look for accumulated grease, bathroom residue, dusty trim and areas missed during normal upkeep. A deep clean focuses on that buildup and agreed detail work. If the home is already maintained and mainly needs floors, surfaces and bathroom upkeep, a regular visit may be the better starting point."
+          },
+          "es": {
+            "question": "¿Cómo sé si necesito limpieza profunda en lugar de regular?",
+            "answer": "Busca grasa acumulada, residuos en el baño, zoclos con polvo y áreas olvidadas en el mantenimiento habitual. La profunda se enfoca en esa acumulación y los detalles acordados. Si la casa ya está mantenida y requiere atención habitual de pisos, superficies y baños, puede convenir la regular."
+          }
+        },
+        {
+          "en": {
+            "question": "Does deep cleaning automatically include the oven, fridge, blinds and baseboards?",
+            "answer": "Do not rely on the service name alone. List appliance interiors, blinds and baseboards individually when reviewing the estimate, including their condition and accessibility. Clear food or stored belongings from any interiors selected for cleaning and confirm which details are part of the agreed visit."
+          },
+          "es": {
+            "question": "¿La limpieza profunda incluye automáticamente horno, refrigerador, persianas y zoclos?",
+            "answer": "No te guíes únicamente por el nombre del servicio. Incluye cada elemento por separado al revisar el estimado, junto con su estado y acceso. Retira comida o pertenencias de los interiores elegidos y confirma qué detalles corresponden a la visita acordada."
+          }
+        },
+        {
+          "en": {
+            "question": "Will deep cleaning remove every shower stain or cloudy patch?",
+            "answer": "Soap residue and removable mineral deposits are different from etched glass, damaged grout or worn finishes. Describe the marks and surface material before cleaning. Some appearance problems require repair or restoration; stronger scrubbing is not always the appropriate solution."
+          },
+          "es": {
+            "question": "¿La limpieza profunda quita todas las manchas o zonas opacas de la regadera?",
+            "answer": "Los residuos de jabón y depósitos removibles son distintos del vidrio dañado, juntas deterioradas o acabados desgastados. Describe las marcas y el material antes de limpiar. Algunos problemas de apariencia requieren reparación o restauración; tallar con más fuerza no siempre es la solución."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I stay within a time limit and still get a thorough deep clean?",
+            "answer": "Set a priority order before the visit: for example, kitchen and bathrooms before lower-priority rooms. Size, buildup and the number of agreed details determine the work needed. A fixed time block should not be confused with a promise that every possible task will be completed."
+          },
+          "es": {
+            "question": "¿Puedo fijar un límite de tiempo y aun así hacer una limpieza profunda?",
+            "answer": "Define prioridades antes de la visita: cocina y baños primero, por ejemplo. El tamaño, la acumulación y los detalles acordados determinan cuánto trabajo se necesita. Un bloque de tiempo no equivale a una promesa de terminar cualquier tarea que se agregue."
+          }
+        }
+      ]
+    },
+    "/services/move-in-move-out-cleaning/": {
+      "sources": [
+        "MOV-M",
+        "KAT-M",
+        "SUG-M"
+      ],
+      "heading": {
+        "en": "Planning cleaning around a move",
+        "es": "Cómo coordinar la limpieza con tu mudanza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What is different about move-in and move-out cleaning?",
+            "answer": "Both need an empty-home scope, but the priorities differ. Move-out work follows the agreed handover requirements; move-in work prepares areas you will use before unpacking. Specify cabinets, drawers, appliances and closets instead of assuming either service includes every interior."
+          },
+          "es": {
+            "question": "¿Qué diferencia hay entre limpieza de entrada y de salida por mudanza?",
+            "answer": "Ambas necesitan definir el alcance en una vivienda vacía, pero tienen prioridades distintas. La de salida sigue los requisitos de entrega; la de entrada prepara las áreas antes de desempacar. Especifica gabinetes, cajones, electrodomésticos y clósets en lugar de asumir que todo está incluido."
+          }
+        },
+        {
+          "en": {
+            "question": "Can the cleaning happen while movers or contractors are still there?",
+            "answer": "It is better to finish moving and dusty repair work first. Otherwise, cleaned floors and surfaces may be dirtied again and access may remain blocked. Coordinate a cleaning window after those jobs and before the key handover or furniture delivery."
+          },
+          "es": {
+            "question": "¿Se puede limpiar mientras todavía hay mudanceros o contratistas?",
+            "answer": "Conviene terminar primero la mudanza y los trabajos que generan polvo. De lo contrario pueden ensuciarse de nuevo pisos y superficies, y algunas áreas seguirán bloqueadas. Coordina una ventana después de esos trabajos y antes de entregar llaves o recibir muebles."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I do if my lease requires professional carpet cleaning?",
+            "answer": "Treat that as a separate requirement to verify with the property manager. Vacuuming during a general clean is not carpet extraction. Ask what service and documentation the property requires, then confirm who will perform it and how its timing fits the rest of the move."
+          },
+          "es": {
+            "question": "¿Qué hago si mi contrato exige lavado profesional de alfombra?",
+            "answer": "Revísalo como un requisito separado con la administración. Aspirar durante una limpieza general no equivale a lavar con extracción. Pregunta qué servicio y comprobante exige la propiedad y confirma quién lo hará y cómo se coordina con el resto de la mudanza."
+          }
+        },
+        {
+          "en": {
+            "question": "Does hiring a move-out cleaner mean the property is ready for every inspection?",
+            "answer": "Use the property's actual checklist to agree on the cleaning. Repairs, paint, damaged surfaces and other lease matters are separate from removing dirt. Review the finished rooms and retain photographs and any service documentation before returning possession."
+          },
+          "es": {
+            "question": "¿Contratar limpieza de salida significa que la vivienda está lista para cualquier inspección?",
+            "answer": "Usa la lista real de la propiedad para acordar la limpieza. Reparaciones, pintura, superficies dañadas y otros asuntos del contrato son distintos de retirar suciedad. Revisa las habitaciones terminadas y conserva fotografías y los comprobantes del servicio antes de entregar la vivienda."
+          }
+        }
+      ]
+    },
+    "/services/short-term-rental-cleaning/": {
+      "sources": [
+        "STR-A",
+        "STR-A2",
+        "STR-C",
+        "STR-C2"
+      ],
+      "heading": {
+        "en": "Turnover questions for short-term rental hosts",
+        "es": "Dudas sobre limpieza entre huéspedes"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Is a rental turnover the same as a regular house clean?",
+            "answer": "A turnover also needs the property reset for the next arrival: agreed bedding, towels, supplies and presentation, alongside cleaning. Define who handles each task and use a property-specific checklist. A normal occupied-home visit does not automatically include that guest-readiness work."
+          },
+          "es": {
+            "question": "¿La limpieza entre huéspedes es igual a una limpieza regular de casa?",
+            "answer": "También requiere preparar la propiedad para la siguiente llegada: ropa de cama, toallas, suministros y presentación acordados, además de limpiar. Define quién hace cada tarea y usa una lista de esa propiedad. Una visita residencial habitual no incluye automáticamente toda esa preparación."
+          }
+        },
+        {
+          "en": {
+            "question": "Can a turnover fit between a morning checkout and an afternoon check-in?",
+            "answer": "It depends on the property, its condition, access and laundry plan. Share the actual checkout and check-in times before confirming a visit. Allow room for late departures or extra cleaning; an available calendar slot alone does not establish that all turnover tasks fit."
+          },
+          "es": {
+            "question": "¿Cabe la limpieza entre una salida por la mañana y una entrada por la tarde?",
+            "answer": "Depende de la propiedad, su estado, el acceso y el plan de lavandería. Comparte las horas reales antes de confirmar la visita. Deja margen para salidas tardías o trabajo extra; un espacio libre en el calendario no demuestra que todas las tareas puedan completarse."
+          }
+        },
+        {
+          "en": {
+            "question": "Who should wash the sheets and towels?",
+            "answer": "Assign washing, drying, replacement and storage explicitly. On-site laundry can take longer than the cleaning window, particularly with multiple loads. Having clean spare sets available reduces dependence on a single wash cycle. Confirm whether any laundry work is part of La Roca's agreed scope."
+          },
+          "es": {
+            "question": "¿Quién debe lavar las sábanas y las toallas?",
+            "answer": "Define expresamente quién lava, seca, cambia y guarda. Varias cargas pueden tardar más que la ventana disponible de limpieza. Tener juegos limpios de repuesto reduce la dependencia de un solo ciclo. Confirma si algún trabajo de lavandería forma parte del alcance acordado con La Roca."
+          }
+        },
+        {
+          "en": {
+            "question": "What should my turnover checklist say about supplies and damage?",
+            "answer": "State where owner-provided supplies are kept, target quantities and who is responsible for replenishing them. Separate cleaning tasks from documenting missing or damaged items. Agree on how concerns should be reported and who decides the next step before another guest arrives."
+          },
+          "es": {
+            "question": "¿Qué debe decir mi lista sobre suministros y daños?",
+            "answer": "Indica dónde están los insumos del propietario, las cantidades necesarias y quién los repone. Separa tareas de limpieza de documentar artículos faltantes o dañados. Acuerda cómo comunicar incidencias y quién decide qué hacer antes de que llegue el siguiente huésped."
+          }
+        }
+      ]
+    },
+    "/services/post-construction-cleaning/": {
+      "sources": [
+        "POST-B",
+        "POST-C",
+        "WOOD-C",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Before booking post-construction cleaning",
+        "es": "Antes de contratar limpieza posconstrucción"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "When should the final cleaning be scheduled after a remodel?",
+            "answer": "Plan for after dust-producing work, repairs and contractor cleanup are complete. Paint, sealers and new flooring must be ready for their prescribed care. Keep water, power and access available, and leave time before the walkthrough or move-in for a final condition review."
+          },
+          "es": {
+            "question": "¿Cuándo debe programarse la limpieza final después de remodelar?",
+            "answer": "Después de terminar trabajos con polvo, reparaciones y recogida del contratista. Pinturas, selladores y pisos nuevos deben permitir el cuidado indicado para cada acabado. Mantén agua, electricidad y acceso y deja tiempo antes de la entrega o mudanza para revisar el estado final."
+          }
+        },
+        {
+          "en": {
+            "question": "Why is post-construction cleaning different from a deep clean?",
+            "answer": "Construction dust can reach cabinet interiors, trim, ledges and neighboring rooms, while a residential deep clean addresses household buildup. Explain the work performed, surfaces installed and remaining residue. The estimate should reflect the project condition rather than treating it as ordinary dusting."
+          },
+          "es": {
+            "question": "¿Por qué la limpieza posconstrucción es distinta de una profunda?",
+            "answer": "El polvo de obra puede entrar en gabinetes y llegar a molduras, repisas y habitaciones cercanas; la profunda residencial atiende suciedad doméstica acumulada. Explica qué se hizo, qué materiales se instalaron y qué residuos quedan. La cotización debe reflejar el estado de la obra."
+          }
+        },
+        {
+          "en": {
+            "question": "Does the service include hauling debris and scraping off paint or adhesive?",
+            "answer": "Those needs require individual review. Removing debris is different from cleaning finished surfaces, and scraping or strong solvents can damage new materials. Identify the residue and material and clarify the contractor's responsibilities before agreeing on the final cleaning scope."
+          },
+          "es": {
+            "question": "¿Incluye retirar escombros y raspar pintura o adhesivo?",
+            "answer": "Son necesidades que deben revisarse por separado. Retirar escombros no es lo mismo que limpiar superficies terminadas; raspar o usar solventes fuertes puede dañar materiales nuevos. Identifica residuo y material y aclara las responsabilidades del contratista antes de acordar el alcance."
+          }
+        },
+        {
+          "en": {
+            "question": "Will one cleaning stay dust-free if workers return afterward?",
+            "answer": "Further sanding, cutting or repairs can leave new dust on cleaned surfaces. Coordinate the sequence with the contractor and identify any remaining punch-list work. If workers return after the final clean, reassess the affected areas rather than assuming the original visit covers another cleanup."
+          },
+          "es": {
+            "question": "¿Una sola limpieza mantendrá todo sin polvo si regresan los trabajadores?",
+            "answer": "Lijar, cortar o reparar de nuevo puede dejar polvo en superficies ya limpias. Coordina el orden con el contratista e identifica los trabajos pendientes. Si vuelven después de la limpieza final, revisa qué áreas se afectaron; no supongas que otra limpieza está incluida."
+          }
+        }
+      ]
+    },
+    "/services/commercial-office-cleaning/": {
+      "sources": [
+        "OFF-B",
+        "STA-B",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Defining a commercial cleaning scope",
+        "es": "Cómo definir una limpieza comercial"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What information is needed for a useful commercial cleaning quote?",
+            "answer": "Provide the area to clean, business use, occupancy, restroom count, floor types and proposed frequency. Identify customer areas and restricted rooms. A floor plan or walkthrough can clarify the work; square footage alone does not capture restroom use, traffic or the level of detail needed."
+          },
+          "es": {
+            "question": "¿Qué información permite cotizar bien una limpieza comercial?",
+            "answer": "Indica superficie a limpiar, actividad, ocupación, cantidad de baños, pisos y frecuencia propuesta. Identifica zonas de clientes y cuartos restringidos. Un plano o recorrido ayuda a definir tareas; los pies cuadrados por sí solos no explican uso de baños, tráfico o detalle requerido."
+          }
+        },
+        {
+          "en": {
+            "question": "How do we decide which tasks happen every visit and which are periodic?",
+            "answer": "Separate routine needs such as bins, floors and restrooms from periodic details such as interior appliances or high ledges. Agree on a written schedule by area and task. This makes the price and the expected work easier to review than a general promise to clean everything."
+          },
+          "es": {
+            "question": "¿Cómo definimos qué se hace en cada visita y qué se hace periódicamente?",
+            "answer": "Separa tareas habituales, como botes, pisos y baños, de detalles periódicos, como interiores de electrodomésticos o repisas altas. Acuerda un calendario por área y tarea. Así es más fácil revisar precio y trabajo esperado que con una promesa general de limpiar todo."
+          }
+        },
+        {
+          "en": {
+            "question": "Can cleaning take place without staff being present?",
+            "answer": "Agree on the permitted time, authorized entry method, alarm steps and lock-up responsibility. Keep a reachable contact for questions and mark restricted areas. An after-hours request needs confirmed availability and building permission before a visit can be scheduled."
+          },
+          "es": {
+            "question": "¿Se puede limpiar sin que esté presente el personal?",
+            "answer": "Acuerda el horario permitido, la entrada autorizada, los pasos de alarma y quién cierra. Deja un contacto disponible para dudas y señala áreas restringidas. Antes de programar fuera de horario deben confirmarse disponibilidad y permiso de acceso del edificio."
+          }
+        },
+        {
+          "en": {
+            "question": "Are paper products, soap, carpet extraction and floor finishing included?",
+            "answer": "Define each item separately. Cleaning labor, replenishing client-provided supplies, buying consumables and specialist floor work are different responsibilities. Check what the estimate covers and who provides supplies; a general office-cleaning quote should not be assumed to include all four."
+          },
+          "es": {
+            "question": "¿Incluye papel, jabón, lavado de alfombra y acabado de pisos?",
+            "answer": "Define cada concepto por separado. Limpiar, reponer insumos del cliente, comprarlos y hacer trabajos especializados de piso son responsabilidades distintas. Revisa qué cubre el estimado y quién proporciona los materiales; una cotización de oficinas no incluye automáticamente todo eso."
+          }
+        }
+      ]
+    },
+    "/services/recurring-house-cleaning/": {
+      "sources": [
+        "PEA-A",
+        "SUG-A",
+        "SUG-B"
+      ],
+      "heading": {
+        "en": "Choosing a cleaning frequency",
+        "es": "Cómo elegir la frecuencia de limpieza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should I choose weekly, every two weeks or once a month?",
+            "answer": "Base the interval on what builds up between visits, not just the size of the house. Busy kitchens, frequently used bathrooms and shedding pets may need more upkeep. A monthly visit may work when you maintain those areas yourself. Review the expected tasks at each interval."
+          },
+          "es": {
+            "question": "¿Me conviene limpieza semanal, quincenal o mensual?",
+            "answer": "Elige según lo que se acumula entre visitas, no solo por tamaño. Cocinas y baños muy usados o mascotas que sueltan pelo pueden requerir más mantenimiento. Una visita mensual puede funcionar si tú atiendes esas áreas. Revisa las tareas previstas en cada intervalo."
+          }
+        },
+        {
+          "en": {
+            "question": "Does an initial deep clean have to be included in a recurring plan?",
+            "answer": "The current condition determines whether an initial reset is useful. Identify accumulated grease, bathroom residue and neglected details before setting the maintenance checklist. Ask for the first-visit scope and ongoing scope separately rather than assuming the same work or price applies to both."
+          },
+          "es": {
+            "question": "¿Un plan recurrente tiene que incluir una primera limpieza profunda?",
+            "answer": "Depende del estado actual y de si hace falta una limpieza inicial a fondo. Identifica grasa, residuos de baño y detalles descuidados antes de definir mantenimiento. Pide por separado el alcance inicial y el recurrente; no supongas que tendrán las mismas tareas o precio."
+          }
+        },
+        {
+          "en": {
+            "question": "Do oven interiors and baseboards get cleaned at every recurring visit?",
+            "answer": "Only if they are part of the agreed checklist. Some detail tasks may be scheduled periodically or quoted separately instead of being repeated each time. Keep a list of those tasks and their frequency so the ongoing service matches what you expect."
+          },
+          "es": {
+            "question": "¿El horno por dentro y los zoclos se limpian en cada visita recurrente?",
+            "answer": "Solo si forman parte de la lista acordada. Algunos detalles pueden programarse periódicamente o cotizarse aparte en lugar de repetirse siempre. Conserva una lista de esas tareas y su frecuencia para que el servicio continuo coincida con lo que esperas."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I do before skipping or moving a scheduled visit?",
+            "answer": "Contact La Roca as soon as your plans change and review the applicable booking terms. A longer gap may change the condition of the home or the work needed next time. Confirm the new date and any scope changes directly instead of assuming the original appointment simply shifts."
+          },
+          "es": {
+            "question": "¿Qué hago si necesito saltar o cambiar una visita programada?",
+            "answer": "Contacta a La Roca en cuanto cambien tus planes y revisa las condiciones de tu reserva. Un intervalo mayor puede cambiar el estado de la casa o el trabajo de la siguiente visita. Confirma fecha y alcance directamente; no supongas que la cita se recorre automáticamente."
+          }
+        }
+      ]
+    },
+    "/services/move-in-cleaning/": {
+      "sources": [
+        "KAT-A",
+        "MOV-M",
+        "POST-B"
+      ],
+      "heading": {
+        "en": "Before you unpack in your new home",
+        "es": "Antes de desempacar en tu nueva casa"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should I clean a new home even if the seller says it was cleaned?",
+            "answer": "Check the areas you will use first: cabinet shelves, drawers, appliance interiors, bathrooms and floors. Ask what the earlier cleaning actually covered. Build your own priority list from the condition you find rather than paying again for tasks that are already complete."
+          },
+          "es": {
+            "question": "¿Conviene limpiar la casa nueva si el vendedor dice que ya la limpió?",
+            "answer": "Revisa primero repisas de gabinetes, cajones, electrodomésticos por dentro, baños y pisos. Pregunta qué cubrió la limpieza anterior. Define tus prioridades con base en el estado real, en lugar de pagar otra vez por tareas que ya están terminadas."
+          }
+        },
+        {
+          "en": {
+            "question": "When should cleaning happen relative to repairs and furniture delivery?",
+            "answer": "Arrange dusty repairs and painting first, then cleaning, then furniture and unpacking. Confirm that new finishes are ready for cleaning and that water and electricity are active. If your schedule overlaps, identify which rooms will remain accessible and what may need attention afterward."
+          },
+          "es": {
+            "question": "¿En qué momento se limpia respecto a reparaciones y entrega de muebles?",
+            "answer": "Primero reparaciones con polvo y pintura, luego limpieza y después muebles y cajas. Confirma que los acabados nuevos admitan limpieza y que haya agua y electricidad. Si los trabajos se traslapan, identifica qué habitaciones estarán accesibles y qué podría necesitar atención después."
+          }
+        },
+        {
+          "en": {
+            "question": "Do I need to empty the cabinets and refrigerator beforehand?",
+            "answer": "For interiors selected in the estimate, remove stored belongings and food so the surfaces can be reached. Keep items somewhere appropriate while cleaning takes place. Specify drawers, shelves and appliances individually; cleaning their exteriors does not mean their interiors have been included."
+          },
+          "es": {
+            "question": "¿Tengo que vaciar gabinetes y refrigerador antes de la visita?",
+            "answer": "Para los interiores incluidos en el estimado, retira pertenencias y alimentos para permitir el acceso. Guárdalos en un lugar adecuado durante el trabajo. Especifica cajones, repisas y electrodomésticos por separado; limpiar por fuera no significa que se haya incluido el interior."
+          }
+        },
+        {
+          "en": {
+            "question": "What if the home still has renovation dust or construction residue?",
+            "answer": "Describe it as a post-construction concern rather than a normal move-in clean. Explain what work was done, what residue remains and whether contractors have finished. New cabinetry, floors and fixtures may need material-specific care and a different scope from an ordinary empty-home visit."
+          },
+          "es": {
+            "question": "¿Qué pasa si todavía hay polvo de remodelación o residuos de obra?",
+            "answer": "Descríbelo como una necesidad posconstrucción, no como limpieza habitual de entrada. Explica qué se hizo, qué residuos quedan y si los contratistas terminaron. Gabinetes, pisos y elementos nuevos pueden requerir cuidados específicos y un alcance diferente al de una vivienda vacía común."
+          }
+        }
+      ]
+    },
+    "/services/move-out-cleaning/": {
+      "sources": [
+        "MOV-M",
+        "KAT-M",
+        "SUG-M"
+      ],
+      "heading": {
+        "en": "Before handing back the keys",
+        "es": "Antes de entregar las llaves"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Which areas should I check before requesting move-out cleaning?",
+            "answer": "Start with the landlord's or buyer's list. Check oven and fridge interiors, cabinet shelves, drawers, bathrooms, floor edges and leftover trash. Identify any repairs or separate carpet requirement. Send those priorities during follow-up so the cleaning is based on your actual handover needs."
+          },
+          "es": {
+            "question": "¿Qué áreas debo revisar antes de solicitar limpieza de salida?",
+            "answer": "Empieza con la lista del arrendador o comprador. Revisa horno y refrigerador por dentro, gabinetes, cajones, baños, bordes de piso y basura restante. Identifica reparaciones y requisitos separados de alfombra. Comparte esas prioridades para definir la limpieza según tu entrega real."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I book the cleaning for the same time as the final inspection?",
+            "answer": "Leave a buffer between completion and inspection so you can review the work and address any remaining items. Moving delays, blocked rooms or unavailable utilities can affect the visit. Provide the key-return deadline when requesting the appointment, not after the work has started."
+          },
+          "es": {
+            "question": "¿Puedo programar la limpieza a la misma hora que la inspección final?",
+            "answer": "Deja margen entre terminar y la inspección para revisar el trabajo y atender pendientes. Retrasos de mudanza, cuartos bloqueados o falta de servicios pueden afectar la visita. Informa la hora límite de entrega de llaves al solicitar la cita, no después de empezar."
+          }
+        },
+        {
+          "en": {
+            "question": "Will cleaning deal with wall damage, carpet stains and lingering pet odors?",
+            "answer": "These need separate assessment. Removing ordinary dirt is different from repainting, repairing surfaces, extracting carpet stains or treating persistent odors. Identify each issue before booking so the estimate does not confuse a cleaning task with a repair or specialist service."
+          },
+          "es": {
+            "question": "¿La limpieza soluciona paredes dañadas, manchas de alfombra y olor persistente de mascotas?",
+            "answer": "Necesitan evaluación por separado. Retirar suciedad común no equivale a repintar, reparar, extraer manchas de alfombra o tratar olores persistentes. Identifica cada problema antes de contratar para no confundir una tarea de limpieza con una reparación o servicio especializado."
+          }
+        },
+        {
+          "en": {
+            "question": "What records should I keep after the cleaning?",
+            "answer": "Keep the agreed scope, any service invoice or receipt, and clear photos of the finished rooms and appliance interiors. Review the property's checklist before returning the keys. Cleaning documentation records work performed; it does not settle separate questions about damage or other tenancy charges."
+          },
+          "es": {
+            "question": "¿Qué debo conservar después de la limpieza?",
+            "answer": "Guarda el alcance acordado, factura o recibo del servicio y fotografías claras de habitaciones e interiores de electrodomésticos terminados. Revisa la lista de la propiedad antes de entregar llaves. Esos documentos registran la limpieza realizada; no resuelven asuntos separados sobre daños u otros cargos."
+          }
+        }
+      ]
+    },
+    "/services/apartment-cleaning/": {
+      "sources": [
+        "KAT-A",
+        "WCH-M",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Apartment-cleaning questions that affect your estimate",
+        "es": "Dudas de limpieza de apartamentos que afectan tu cotización"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Does a small apartment always need a short cleaning visit?",
+            "answer": "Not necessarily. A small apartment with a heavily used kitchen, shower buildup or lots of belongings may need substantial detail work. Describe its condition and bathroom count as well as its size. A studio's floor area alone is not enough to estimate the work."
+          },
+          "es": {
+            "question": "¿Un apartamento pequeño siempre se limpia rápido?",
+            "answer": "No necesariamente. Una cocina muy usada, residuos en la regadera o muchas pertenencias pueden requerir trabajo detallado aunque el espacio sea pequeño. Describe estado, baños y tamaño. La superficie de un estudio por sí sola no permite calcular todo el trabajo."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I tell the team about stairs, parking and building access?",
+            "answer": "During follow-up, give the unit, floor, permitted parking and gate or office check-in instructions. Mention elevator rules and any time limits for service providers. Agree on who opens the unit so an appointment is not lost to an access problem."
+          },
+          "es": {
+            "question": "¿Qué debo avisar sobre escaleras, estacionamiento y acceso al edificio?",
+            "answer": "Durante el seguimiento indica unidad, piso, estacionamiento permitido y cómo entrar por portón u oficina. Menciona reglas de elevador y horarios para proveedores. Confirma quién abre el apartamento para evitar perder la cita por un problema de acceso."
+          }
+        },
+        {
+          "en": {
+            "question": "Are dishes, laundry and closet organization included in apartment cleaning?",
+            "answer": "Treat them as separate requests. Washing dishes and clothes or sorting storage takes time beyond cleaning accessible surfaces. Clear the sink, floors and counters where possible, and ask whether any extra help can be added to the agreed scope before the visit."
+          },
+          "es": {
+            "question": "¿Incluye lavar platos, ropa y organizar clósets?",
+            "answer": "Son solicitudes distintas. Lavar platos o ropa y ordenar pertenencias requiere tiempo adicional al de limpiar superficies accesibles. Despeja fregadero, pisos y cubiertas cuando sea posible y pregunta antes de la visita si puede añadirse ayuda extra al alcance acordado."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I request regular apartment cleaning or move-out cleaning?",
+            "answer": "Choose based on whether you still live there and what needs access. Regular cleaning maintains occupied rooms; move-out cleaning needs an empty-unit scope aligned with the property instructions. Mention cabinet and appliance interiors and any separate carpet requirement before comparing quotes."
+          },
+          "es": {
+            "question": "¿Debo pedir limpieza regular de apartamento o limpieza de salida?",
+            "answer": "Depende de si todavía vives allí y de qué áreas deben quedar accesibles. La regular mantiene habitaciones ocupadas; la de salida define trabajo en la unidad vacía según instrucciones de la propiedad. Menciona gabinetes, electrodomésticos por dentro y requisitos separados de alfombra antes de comparar."
+          }
+        }
+      ]
+    },
+    "/services/office-cleaning/": {
+      "sources": [
+        "OFF-B",
+        "STA-B"
+      ],
+      "heading": {
+        "en": "Practical questions about office cleaning",
+        "es": "Preguntas prácticas sobre limpieza de oficinas"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How often does our office need cleaning?",
+            "answer": "Consider how many people use it, customer visits, restroom traffic, shared food areas and how quickly bins fill. Separate everyday upkeep from scheduled detail work. A small busy office may need more frequent attention than a larger lightly occupied space; floor area is only one factor."
+          },
+          "es": {
+            "question": "¿Con qué frecuencia necesita limpieza nuestra oficina?",
+            "answer": "Considera cuántas personas la usan, visitas de clientes, baños, áreas de comida y qué tan rápido se llenan los botes. Separa mantenimiento diario de trabajo detallado programado. Una oficina pequeña muy concurrida puede necesitar más frecuencia que una grande con poca ocupación."
+          }
+        },
+        {
+          "en": {
+            "question": "Will cleaners move paperwork and clean computers on every desk?",
+            "answer": "Define a clear-desk rule and identify areas not to touch. Removing papers, handling confidential files and cleaning electronics should not be assumed to be part of routine dusting. Agree on accessible surfaces and any equipment-specific instructions before the service starts."
+          },
+          "es": {
+            "question": "¿El equipo moverá documentos y limpiará las computadoras de cada escritorio?",
+            "answer": "Define qué superficies deben quedar despejadas y qué áreas no deben tocarse. Mover papeles, manejar archivos confidenciales y limpiar equipos electrónicos no debe darse por incluido en quitar polvo. Acuerda superficies accesibles e instrucciones de equipos antes de comenzar."
+          }
+        },
+        {
+          "en": {
+            "question": "Does restroom cleaning also include supplying soap, paper and liners?",
+            "answer": "Cleaning fixtures, checking dispensers, refilling client-provided supplies and purchasing stock are separate tasks. List which are required, where supplies are stored and who monitors quantities. This avoids an office looking clean while essentials are missing or responsibilities remain unclear."
+          },
+          "es": {
+            "question": "¿Limpiar los baños incluye suministrar jabón, papel y bolsas?",
+            "answer": "Limpiar elementos, revisar dispensadores, reponer insumos del cliente y comprar existencias son tareas distintas. Indica cuáles se requieren, dónde se guardan y quién revisa cantidades. Así se evita que el baño esté limpio pero sin materiales básicos o con responsabilidades poco claras."
+          }
+        },
+        {
+          "en": {
+            "question": "Can we start with one office cleaning before deciding on a schedule?",
+            "answer": "Request an initial scope that reflects the office's current condition and priority areas. Then compare the maintenance tasks and desired frequency separately. An initial cleanup may involve buildup or details that do not need repeating at every subsequent visit."
+          },
+          "es": {
+            "question": "¿Podemos empezar con una limpieza antes de decidir la frecuencia?",
+            "answer": "Solicita un alcance inicial según el estado actual de la oficina y sus prioridades. Después compara por separado las tareas de mantenimiento y la frecuencia deseada. La primera limpieza puede atender acumulación o detalles que no necesitan repetirse en cada visita siguiente."
+          }
+        }
+      ]
+    },
+    "/services/deep-cleaning-katy/": {
+      "sources": [
+        "KAT-A",
+        "KAT-B",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Deep-cleaning decisions for your Katy home",
+        "es": "Cómo decidir la limpieza profunda de tu casa en Katy"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "I bought a Katy home with furniture still inside. Can it be deep-cleaned before I move in?",
+            "answer": "First identify when the belongings will leave. An occupied-home deep clean cannot reach the same areas as an empty-home visit. Plan cabinet, closet and appliance interiors around the actual access date, and explain whether you need a deep clean now or move-in cleaning after removal."
+          },
+          "es": {
+            "question": "Compré una casa en Katy que aún tiene muebles. ¿Se puede limpiar a fondo antes de mudarme?",
+            "answer": "Primero identifica cuándo retirarán las pertenencias. Una limpieza con muebles no permite llegar a las mismas áreas que una vivienda vacía. Coordina gabinetes, clósets y electrodomésticos según el acceso real y aclara si necesitas profunda ahora o limpieza de entrada después."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I prioritize the kitchen and bathrooms before upstairs bedrooms?",
+            "answer": "List those areas in priority order and include the bathroom count, stairs and any rooms to exclude. Have La Roca review that scope before booking. Prioritizing helps allocate the agreed work; it does not automatically add more tasks to a fixed appointment."
+          },
+          "es": {
+            "question": "¿Puedo dar prioridad a cocina y baños antes que a las recámaras de arriba?",
+            "answer": "Ordena esas áreas por prioridad e incluye cantidad de baños, escaleras y habitaciones excluidas. Pide a La Roca revisar el alcance antes de contratar. Priorizar ayuda a organizar el trabajo acordado; no añade automáticamente más tareas a una cita fija."
+          }
+        },
+        {
+          "en": {
+            "question": "Will a deep clean include washing walls or every window?",
+            "answer": "Do not assume it does. Identify marks, paint finish, glass surfaces, height and access before the estimate. Spot cleaning and whole-wall washing are different tasks, as are reachable interior glass and elevated or exterior windows. Each needs a clear scope review."
+          },
+          "es": {
+            "question": "¿La limpieza profunda incluye lavar paredes o todas las ventanas?",
+            "answer": "No lo des por hecho. Indica marcas, acabado de pintura, vidrios, altura y acceso antes de cotizar. Limpiar manchas puntuales y lavar una pared completa son tareas distintas, igual que limpiar vidrio interior accesible y ventanas altas o exteriores. Cada trabajo necesita revisión."
+          }
+        },
+        {
+          "en": {
+            "question": "What details help price a deep clean in Katy accurately?",
+            "answer": "Have the area to clean, bathrooms, floor levels and recent cleaning history ready. Describe grease, shower residue and appliance interiors separately. During follow-up, photos of the priority areas can make the condition clearer than saying the house needs a really deep clean."
+          },
+          "es": {
+            "question": "¿Qué detalles ayudan a cotizar bien una limpieza profunda en Katy?",
+            "answer": "Ten preparados superficie a limpiar, baños, niveles y cuándo se limpió por última vez. Describe por separado grasa, residuos de regadera e interiores de electrodomésticos. Durante el seguimiento, fotos de las áreas prioritarias pueden explicar mejor el estado que decir que necesita una limpieza muy profunda."
+          }
+        }
+      ]
+    },
+    "/services/deep-cleaning-pearland/": {
+      "sources": [
+        "PEA-A",
+        "PEA-B",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Preparing for a deep clean in Pearland",
+        "es": "Cómo preparar una limpieza profunda en Pearland"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Is a deep clean a good first step before monthly cleaning in Pearland?",
+            "answer": "It can be when accumulated dirt needs attention before routine upkeep. Identify the reset tasks, such as detailed bathroom or kitchen work, then define what repeats monthly. The maintenance list should reflect the home's use and what you will handle between visits."
+          },
+          "es": {
+            "question": "¿Conviene empezar con profunda antes de contratar limpieza mensual en Pearland?",
+            "answer": "Puede convenir cuando hay suciedad acumulada antes de iniciar mantenimiento. Identifica las tareas iniciales, como detalles de baño o cocina, y después qué se repetirá cada mes. La lista debe considerar el uso de la casa y lo que tú harás entre visitas."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I mention pet hair even if I am booking a deep clean?",
+            "answer": "Yes. Explain whether the concern is on floors, rugs, upholstered furniture or bedding. Those surfaces require different work, and persistent odor or staining is a separate concern. A deep-cleaning label does not automatically include upholstery washing or specialized pet treatments."
+          },
+          "es": {
+            "question": "¿Debo avisar del pelo de mascotas aunque esté contratando limpieza profunda?",
+            "answer": "Sí. Aclara si está en pisos, tapetes, muebles o ropa de cama. Cada superficie requiere trabajo distinto y los olores o manchas persistentes son otra necesidad. El nombre limpieza profunda no incluye automáticamente lavado de tapicería ni tratamientos especializados de mascotas."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I clear before detailed kitchen cleaning?",
+            "answer": "Remove dishes and loose items from the surfaces selected for cleaning. For agreed refrigerator or cabinet interiors, clear food and stored belongings too. Identify delicate stone, damaged finishes or surfaces needing a particular product so the detail work can be planned appropriately."
+          },
+          "es": {
+            "question": "¿Qué debo despejar antes de limpiar la cocina a fondo?",
+            "answer": "Retira platos y objetos de las superficies incluidas. Si se acordó limpiar refrigerador o gabinetes por dentro, vacía también alimentos y pertenencias. Identifica piedra delicada, acabados dañados o superficies con productos específicos para planear correctamente el trabajo detallado."
+          }
+        },
+        {
+          "en": {
+            "question": "Can a deep clean remove old discoloration from grout or shower glass?",
+            "answer": "Sometimes the visible problem is removable residue; sometimes it is a change in the material or finish. Describe the surface and how long the marks have been present. Cleaning and restoring grout or glass are different jobs, so have the condition reviewed before expecting the same result."
+          },
+          "es": {
+            "question": "¿Una profunda quita manchas antiguas de juntas o vidrio de regadera?",
+            "answer": "A veces son residuos removibles y otras veces cambios en el material o acabado. Describe la superficie y cuánto tiempo llevan las marcas. Limpiar y restaurar juntas o vidrio son trabajos distintos; revisa su estado antes de esperar el mismo resultado."
+          }
+        }
+      ]
+    },
+    "/services/deep-cleaning-sugar-land/": {
+      "sources": [
+        "SUG-A",
+        "SUG-B",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Comparing deep-cleaning estimates in Sugar Land",
+        "es": "Cómo comparar estimados de limpieza profunda en Sugar Land"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Why does one Sugar Land deep-cleaning quote include more than another?",
+            "answer": "Deep cleaning is a service name, not a universal checklist. Compare oven and fridge interiors, baseboards, blinds, bathroom detail and rooms included. Ask how heavy buildup changes the scope. Only compare totals after both estimates describe equivalent work."
+          },
+          "es": {
+            "question": "¿Por qué una cotización de profunda en Sugar Land incluye más que otra?",
+            "answer": "Limpieza profunda es el nombre de un servicio, no una lista universal. Compara horno y refrigerador por dentro, zoclos, persianas, detalle de baños y habitaciones incluidas. Revisa cómo cambia el alcance por suciedad acumulada. Compara los totales después de igualar tareas."
+          }
+        },
+        {
+          "en": {
+            "question": "Can a deep clean focus on the used floor of a larger home?",
+            "answer": "Specify the rooms and stairs to review, including bathrooms and common areas. Identify unused rooms that should remain closed. La Roca needs to review the requested scope rather than assuming that cleaning one of two floors means exactly half the work or price."
+          },
+          "es": {
+            "question": "¿Puede enfocarse la profunda en el piso utilizado de una casa grande?",
+            "answer": "Especifica habitaciones y escaleras, incluidos baños y áreas comunes. Identifica cuartos sin uso que deban quedar cerrados. La Roca necesita revisar ese alcance; limpiar uno de dos niveles no significa necesariamente la mitad del trabajo o del precio."
+          }
+        },
+        {
+          "en": {
+            "question": "Does more time on a deep clean mean that every stain will come out?",
+            "answer": "Time helps with dirt removal, but it does not reverse scratches, etched stone or a worn finish. Point out these areas before the visit. For stubborn marks, the surface material and condition determine the suitable approach, not simply longer scrubbing or a stronger product."
+          },
+          "es": {
+            "question": "¿Dedicar más tiempo a la profunda significa que saldrán todas las manchas?",
+            "answer": "El tiempo ayuda a retirar suciedad, pero no revierte rayones, piedra dañada por ácidos o acabados desgastados. Señala esas áreas antes de la visita. El material y su estado determinan el método adecuado, no solo tallar más tiempo o usar un producto más fuerte."
+          }
+        },
+        {
+          "en": {
+            "question": "What should happen after the initial deep cleaning?",
+            "answer": "Review the priority areas and decide what needs ongoing maintenance. Kitchens, bathrooms and floors may need regular attention, while some details can be periodic. Keep the initial scope separate from a recurring plan so later visits are judged against the tasks actually agreed for them."
+          },
+          "es": {
+            "question": "¿Qué conviene hacer después de la primera limpieza profunda?",
+            "answer": "Revisa las prioridades y decide qué necesita mantenimiento continuo. Cocina, baños y pisos pueden requerir atención regular, mientras otros detalles pueden ser periódicos. Separa el alcance inicial del plan recurrente para evaluar las visitas posteriores según las tareas que realmente se acordaron."
+          }
+        }
+      ]
+    },
+    "/services/deep-cleaning-stafford/": {
+      "sources": [
+        "STA-B",
+        "POST-B",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Choosing deep cleaning for a Stafford property",
+        "es": "Cómo definir una limpieza profunda en Stafford"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Do I need residential deep cleaning or an office detail clean in Stafford?",
+            "answer": "Describe how the space is used. A home needs household areas reviewed; an office needs workstations, restrooms, break rooms and access rules considered. For a mixed-use property, separate the zones so the estimate does not apply one generic checklist to very different spaces."
+          },
+          "es": {
+            "question": "¿Necesito profunda residencial o limpieza detallada de oficina en Stafford?",
+            "answer": "Describe el uso del espacio. En una casa se revisan áreas domésticas; en oficinas, puestos de trabajo, baños, comedor y reglas de acceso. Si tiene varios usos, separa las zonas para que la cotización no aplique una lista genérica a espacios muy distintos."
+          }
+        },
+        {
+          "en": {
+            "question": "Can deep cleaning be done while people are working in the space?",
+            "answer": "Agree on room order, quiet periods and which areas can be made accessible. Move papers and personal items off surfaces selected for cleaning. If people must keep using a room, identify what can be completed and what needs a separate time window."
+          },
+          "es": {
+            "question": "¿Se puede hacer limpieza profunda mientras hay personas trabajando?",
+            "answer": "Acuerda el orden de áreas, los momentos de silencio y qué espacios estarán disponibles. Retira papeles y objetos de las superficies incluidas. Si una habitación debe seguir en uso, identifica qué puede hacerse y qué necesita otro horario."
+          }
+        },
+        {
+          "en": {
+            "question": "Is deep cleaning appropriate after flooring or drywall work?",
+            "answer": "Explain the work and remaining dust before choosing the service. Sanding or drywall residue may need a post-construction scope instead of household deep cleaning. Mention new materials and whether trades have finished so the work is matched to the condition of the property."
+          },
+          "es": {
+            "question": "¿La profunda sirve después de instalar piso o trabajar con drywall?",
+            "answer": "Explica la obra y el polvo restante antes de elegir el servicio. Residuos de lijado o drywall pueden necesitar alcance posconstrucción en lugar de profunda doméstica. Menciona materiales nuevos y si los trabajadores terminaron para ajustar el trabajo al estado de la propiedad."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I list if neglected details are my main concern?",
+            "answer": "Name the specific areas: baseboards, accessible blinds, cabinet fronts, fixtures or appliance interiors, and describe buildup. Mark any height or access restrictions. A clear detail list lets the estimate address your priorities rather than relying on the vague instruction clean everything deeply."
+          },
+          "es": {
+            "question": "¿Qué debo indicar si me preocupan los detalles descuidados?",
+            "answer": "Nombra áreas concretas: zoclos, persianas accesibles, frentes de gabinetes, elementos del baño o electrodomésticos por dentro, y describe la acumulación. Señala límites de altura o acceso. Esa lista permite cotizar tus prioridades mejor que pedir que limpien todo muy a fondo."
+          }
+        }
+      ]
+    },
+    "/services/move-out-cleaning-katy/": {
+      "sources": [
+        "KAT-M",
+        "KAT-A",
+        "MOV-M"
+      ],
+      "heading": {
+        "en": "Getting a Katy rental ready for handover",
+        "es": "Cómo preparar la entrega de un alquiler en Katy"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should I send my Katy property manager's cleaning instructions before getting a quote?",
+            "answer": "Yes. Use the actual list to identify cabinet interiors, appliances, blinds, floor edges and any separate carpet work. Requirements vary by property. A quote based only on bedrooms may miss the details your manager expects at the handover."
+          },
+          "es": {
+            "question": "¿Debo compartir las instrucciones de mi administrador de Katy antes de cotizar?",
+            "answer": "Sí. Usa la lista real para identificar gabinetes por dentro, electrodomésticos, persianas, bordes de piso y trabajos separados de alfombra. Los requisitos cambian por propiedad. Cotizar solo con recámaras puede dejar fuera detalles que pidan al entregar."
+          }
+        },
+        {
+          "en": {
+            "question": "What needs to be removed before an empty-home cleaning?",
+            "answer": "Remove furniture, boxes, food and items in the cabinets or drawers selected for cleaning. Identify anything that will remain so access can be reviewed. Leaving a garage full of belongings or bags of trash is a different condition from an empty property ready for detail cleaning."
+          },
+          "es": {
+            "question": "¿Qué tengo que retirar antes de limpiar la vivienda vacía?",
+            "answer": "Retira muebles, cajas, comida y objetos de los gabinetes o cajones que se limpiarán. Señala lo que permanecerá para revisar el acceso. Una cochera llena o bolsas de basura no equivalen a una propiedad vacía lista para trabajo detallado."
+          }
+        },
+        {
+          "en": {
+            "question": "Should carpet cleaners come before or after the general move-out clean?",
+            "answer": "Coordinate the order with both providers, including drying time and when rooms must be accessible. Avoid arranging work that tracks dirt across a freshly cleaned or wet floor. Confirm any required carpet receipt with the property manager; do not treat vacuuming as the same service."
+          },
+          "es": {
+            "question": "¿El lavado de alfombras debe hacerse antes o después de la limpieza general de salida?",
+            "answer": "Coordina el orden con ambos proveedores, incluido secado y acceso a habitaciones. Evita que otro trabajo ensucie pisos recién limpiados o húmedos. Confirma con la administración si pide comprobante de alfombra; aspirar no es el mismo servicio que lavarla."
+          }
+        },
+        {
+          "en": {
+            "question": "What if my movers run late on the cleaning day?",
+            "answer": "Notify La Roca promptly and explain which rooms are still blocked and when access will be available. Review the appointment before assuming the work can wait or finish within the original window. Keep the key handover and utility shutoff dates in the same plan."
+          },
+          "es": {
+            "question": "¿Qué pasa si se retrasa mi mudanza el día de la limpieza?",
+            "answer": "Avisa a La Roca cuanto antes e indica qué habitaciones siguen bloqueadas y cuándo estarán disponibles. Revisa la cita antes de suponer que el equipo puede esperar o terminar dentro del tiempo original. Incluye entrega de llaves y desconexión de servicios en el mismo plan."
+          }
+        }
+      ]
+    },
+    "/services/move-out-cleaning-pearland/": {
+      "sources": [
+        "PEA-B",
+        "MOV-M",
+        "SUG-M"
+      ],
+      "heading": {
+        "en": "Move-out details to review in Pearland",
+        "es": "Detalles de limpieza de salida en Pearland"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "I'm selling my Pearland home. Is the cleaning scope the same as a rental move-out?",
+            "answer": "Both can need empty-home cleaning, but the handover instructions may differ. Use the buyer's or property's agreed requirements to identify appliances staying behind, cabinet interiors and rooms included. Cleaning should be scheduled after moving work and before the relevant walkthrough."
+          },
+          "es": {
+            "question": "Voy a vender mi casa en Pearland. ¿La limpieza es igual que al entregar un alquiler?",
+            "answer": "Ambas pueden necesitar limpieza de vivienda vacía, pero cambian las instrucciones de entrega. Usa los requisitos acordados con comprador o propiedad para identificar electrodomésticos que se quedan, gabinetes y habitaciones incluidas. Programa después de la mudanza y antes de la revisión correspondiente."
+          }
+        },
+        {
+          "en": {
+            "question": "Does cleaning the kitchen mean the fridge and oven are cleaned inside too?",
+            "answer": "Not automatically. List each interior explicitly and explain whether it will be empty. Grease, spills and remaining food affect the work. The estimate should distinguish wiping the appliance exterior from cleaning shelves, drawers or the oven cavity."
+          },
+          "es": {
+            "question": "¿Limpiar la cocina significa limpiar también refrigerador y horno por dentro?",
+            "answer": "No automáticamente. Incluye cada interior por separado y aclara si estará vacío. Grasa, derrames y comida restante cambian el trabajo. El estimado debe diferenciar limpiar el exterior de limpiar repisas, cajones o el interior del horno."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I do about pet stains before the final walkthrough?",
+            "answer": "Identify the affected surface and ask whether it needs carpet extraction, odor treatment, repair or ordinary cleaning. Those are different jobs. Share the property's requirements before booking and arrange any specialist service separately rather than expecting a general clean to resolve every pet-related mark."
+          },
+          "es": {
+            "question": "¿Qué hago con las manchas de mascotas antes de la revisión final?",
+            "answer": "Identifica la superficie y revisa si necesita lavado de alfombra, tratamiento de olores, reparación o limpieza común. Son trabajos diferentes. Comparte los requisitos antes de contratar y coordina servicios especializados por separado en vez de esperar que la limpieza general resuelva cualquier marca."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I review before giving up access to the Pearland property?",
+            "answer": "Walk through the rooms against the agreed cleaning list, checking selected appliance and cabinet interiors as well as visible surfaces. Take photos while the property is still accessible and retain service documentation. Return keys after your review and any other scheduled work is complete."
+          },
+          "es": {
+            "question": "¿Qué debo revisar antes de perder acceso a la propiedad en Pearland?",
+            "answer": "Recorre las habitaciones con la lista acordada y revisa interiores incluidos de gabinetes y electrodomésticos, además de superficies visibles. Toma fotos mientras todavía tengas acceso y guarda los comprobantes. Entrega llaves después de revisar y completar los demás trabajos programados."
+          }
+        }
+      ]
+    },
+    "/services/move-out-cleaning-sugar-land/": {
+      "sources": [
+        "SUG-M",
+        "SUG-A",
+        "MOV-M"
+      ],
+      "heading": {
+        "en": "Planning your Sugar Land move-out clean",
+        "es": "Cómo planear tu limpieza de salida en Sugar Land"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How do I compare two Sugar Land move-out estimates fairly?",
+            "answer": "Match the area cleaned, empty-home condition, bathroom count and interior tasks. Check oven, fridge, cabinets, drawers, blinds and any separate floor work. A lower total may cover a shorter list, so compare the written scope before choosing on price alone."
+          },
+          "es": {
+            "question": "¿Cómo comparo correctamente dos cotizaciones de limpieza de salida en Sugar Land?",
+            "answer": "Iguala superficie, estado de vivienda vacía, baños y tareas interiores. Revisa horno, refrigerador, gabinetes, cajones, persianas y trabajos separados de piso. Un total menor puede incluir menos tareas; compara el alcance escrito antes de decidir solo por precio."
+          }
+        },
+        {
+          "en": {
+            "question": "Does a professional cleaning settle every item on a property manager's list?",
+            "answer": "No. A handover list may mix cleaning with repairs, lawn work, pest treatment or returning access devices. Separate the cleaning items from the other responsibilities and identify which provider handles each. Use the list for your particular property rather than assuming one service covers it all."
+          },
+          "es": {
+            "question": "¿La limpieza profesional resuelve toda la lista de la administración?",
+            "answer": "No. Una lista de entrega puede mezclar limpieza con reparaciones, jardín, tratamiento de plagas o devolución de accesos. Separa las tareas y define quién hace cada una. Usa las instrucciones de tu propiedad en lugar de suponer que un solo servicio cubre todo."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I leave time between cleaning and returning the keys?",
+            "answer": "Yes. Leave room for your own review, completion of other scheduled work and any access issues. Confirm the cleaning window before setting utility shutoff dates. Booking at the exact handover deadline gives you less opportunity to check the agreed tasks before losing access."
+          },
+          "es": {
+            "question": "¿Conviene dejar tiempo entre limpiar y devolver las llaves?",
+            "answer": "Sí. Deja margen para revisar, terminar otros trabajos programados y resolver problemas de acceso. Confirma la ventana de limpieza antes de fijar desconexiones. Programar justo a la hora de entrega deja menos oportunidad de comprobar las tareas acordadas antes de perder acceso."
+          }
+        },
+        {
+          "en": {
+            "question": "What cleaning evidence is useful to keep?",
+            "answer": "Retain the agreed task list, invoice or receipt, and dated photos of the completed condition. Include interiors that are easy to overlook in general room photos. These records help show what was cleaned; separate questions about repairs or charges still depend on the property circumstances."
+          },
+          "es": {
+            "question": "¿Qué comprobantes de limpieza conviene guardar?",
+            "answer": "Conserva lista de tareas, factura o recibo y fotografías fechadas del estado final. Incluye interiores que no se aprecian en fotos generales. Esos registros ayudan a mostrar qué se limpió; los asuntos separados de reparaciones o cargos dependen de las circunstancias de la propiedad."
+          }
+        }
+      ]
+    },
+    "/services/move-out-cleaning-stafford/": {
+      "sources": [
+        "STA-B",
+        "MOV-M",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Coordinating a move-out clean in Stafford",
+        "es": "Cómo coordinar limpieza de salida en Stafford"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Can an empty Stafford office be booked like a house move-out?",
+            "answer": "Describe it as a commercial handover so restroom use, floor materials, workstations and building access are considered. Homes and offices need different task lists. Identify any landlord instructions, furniture left behind and specialist floor work before the estimate is prepared."
+          },
+          "es": {
+            "question": "¿Una oficina vacía en Stafford se contrata igual que la salida de una casa?",
+            "answer": "Descríbela como entrega comercial para considerar baños, pisos, estaciones de trabajo y acceso al edificio. Casas y oficinas requieren listas diferentes. Identifica instrucciones del arrendador, muebles que permanecen y trabajos especializados de piso antes de preparar el estimado."
+          }
+        },
+        {
+          "en": {
+            "question": "What must be ready before a Stafford move-out cleaning starts?",
+            "answer": "Finish moving, clear the interiors selected for cleaning and keep water, power and entry available. Identify any remaining repair work or trash. An estimate for an accessible empty property may not reflect the same work as a space still full of boxes or contractors."
+          },
+          "es": {
+            "question": "¿Qué debe estar listo antes de una limpieza de salida en Stafford?",
+            "answer": "Termina la mudanza, despeja los interiores incluidos y mantén agua, electricidad y entrada disponibles. Identifica reparaciones o basura pendientes. Cotizar una propiedad vacía y accesible no equivale al trabajo de un espacio todavía lleno de cajas o contratistas."
+          }
+        },
+        {
+          "en": {
+            "question": "Does a move-out clean cover debris left by repairs?",
+            "answer": "Describe what remains and whether it is ordinary household dirt, construction dust or materials requiring removal. Repair residue may need a post-construction assessment. Do not assume debris hauling, scraping or specialist floor treatment is included in the empty-home cleaning scope."
+          },
+          "es": {
+            "question": "¿La limpieza de salida cubre los residuos de reparaciones?",
+            "answer": "Explica qué queda y si es suciedad doméstica, polvo de obra o materiales que deben retirarse. Los residuos de reparación pueden necesitar evaluación posconstrucción. No des por incluidos retiro de escombros, raspado o tratamiento especializado de pisos en una limpieza de vivienda vacía."
+          }
+        },
+        {
+          "en": {
+            "question": "How do I coordinate the appointment with key return and building access?",
+            "answer": "Provide the final access deadline and any approved service-provider hours during follow-up. Identify who opens and locks the property, and leave time to review the work. If moving or repairs change the schedule, contact La Roca before assuming the same cleaning window will remain available."
+          },
+          "es": {
+            "question": "¿Cómo coordino la visita con entrega de llaves y acceso al edificio?",
+            "answer": "Durante el seguimiento indica la hora límite de acceso y los horarios permitidos a proveedores. Define quién abre y cierra y deja tiempo para revisar. Si mudanza o reparaciones cambian el horario, contacta a La Roca antes de asumir que seguirá disponible la misma ventana."
+          }
+        }
+      ]
+    },
+    "/services/commercial-cleaning-stafford/": {
+      "sources": [
+        "STA-B",
+        "OFF-B",
+        "OFF-L"
+      ],
+      "heading": {
+        "en": "Before requesting commercial cleaning in Stafford",
+        "es": "Antes de cotizar limpieza comercial en Stafford"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Is an office, showroom and warehouse cleaned under the same scope?",
+            "answer": "No. Describe each zone and its use. Customer-facing surfaces, occupied offices, warehouse floors and equipment have different requirements. Identify any machinery, industrial residue or specialist work for separate review rather than applying a household or office checklist to the entire property."
+          },
+          "es": {
+            "question": "¿Oficina, sala de exhibición y almacén llevan el mismo alcance de limpieza?",
+            "answer": "No. Describe cada zona y su uso. Áreas de clientes, oficinas ocupadas, pisos de almacén y equipos tienen necesidades distintas. Identifica maquinaria, residuos industriales o trabajos especializados para revisión separada; no apliques una lista doméstica o de oficina a toda la propiedad."
+          }
+        },
+        {
+          "en": {
+            "question": "Why is a walkthrough useful for a Stafford commercial estimate?",
+            "answer": "It helps identify work that a floor-area total can hide: restroom demand, floor changes, access restrictions, customer traffic and furniture layout. Agree on tasks and frequency by zone. For smaller spaces, photos and a clear description can help establish what still needs review."
+          },
+          "es": {
+            "question": "¿Para qué sirve un recorrido al cotizar un local comercial en Stafford?",
+            "answer": "Permite identificar lo que los pies cuadrados no muestran: uso de baños, distintos pisos, restricciones, clientes y distribución de muebles. Acuerda tareas y frecuencia por zona. En espacios pequeños, fotos y una descripción clara ayudan a establecer qué falta revisar."
+          }
+        },
+        {
+          "en": {
+            "question": "How can cleaning work around opening and closing hours?",
+            "answer": "Start with the hours the building actually permits providers to enter, then identify a workable service window. Discuss alarms, keys and lock-up responsibility. Availability must be confirmed; a business being closed does not automatically mean the property is accessible for cleaning."
+          },
+          "es": {
+            "question": "¿Cómo se organiza la limpieza alrededor del horario de apertura y cierre?",
+            "answer": "Empieza con los horarios reales en que el edificio permite proveedores y busca una ventana de trabajo. Revisa alarma, llaves y cierre. Debe confirmarse disponibilidad; que el negocio esté cerrado no significa que la propiedad esté accesible para limpiar."
+          }
+        },
+        {
+          "en": {
+            "question": "What should be written into the recurring commercial checklist?",
+            "answer": "List areas, tasks, frequency, supply responsibility and exclusions. Separate routine floors and restrooms from periodic detail or specialist floor work. Name a contact for changes and keep the agreed version available so staff and the cleaning provider evaluate the same expectations."
+          },
+          "es": {
+            "question": "¿Qué debe quedar escrito en la lista comercial recurrente?",
+            "answer": "Áreas, tareas, frecuencia, responsabilidad de insumos y exclusiones. Separa pisos y baños habituales de detalles periódicos o trabajo especializado. Identifica un contacto para cambios y conserva la versión acordada para que personal y proveedor evalúen las mismas expectativas."
+          }
+        }
+      ]
+    },
+    "/services/commercial-cleaning-sugar-land/": {
+      "sources": [
+        "SUG-B",
+        "OFF-B",
+        "OFF-L"
+      ],
+      "heading": {
+        "en": "Comparing commercial cleaning in Sugar Land",
+        "es": "Cómo comparar limpieza comercial en Sugar Land"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How do we compare commercial cleaning bids beyond the monthly total?",
+            "answer": "Compare visit frequency, rooms, restrooms, floor tasks, detail work and supply responsibility. Identify what is per visit versus periodic or separately quoted. Two monthly totals are not equivalent if one includes more visits or a different scope of work."
+          },
+          "es": {
+            "question": "¿Cómo comparamos propuestas comerciales además del total mensual?",
+            "answer": "Compara frecuencia, habitaciones, baños, tareas de piso, detalles e insumos. Identifica qué corresponde a cada visita, qué es periódico y qué se cotiza aparte. Dos totales mensuales no equivalen si uno incluye más visitas o un alcance distinto."
+          }
+        },
+        {
+          "en": {
+            "question": "What information changes the cost of cleaning a customer-facing business?",
+            "answer": "Include customer traffic, occupancy, restroom use, shared food areas, floor materials and the required presentation of entrances. Those affect the tasks and visit frequency. A quiet office and a busy customer-facing space of the same size should not be assumed to require identical work."
+          },
+          "es": {
+            "question": "¿Qué información cambia el costo de limpiar un negocio que recibe clientes?",
+            "answer": "Incluye tráfico de clientes, ocupación, baños, áreas de comida, materiales de piso y presentación requerida en entradas. Eso afecta tareas y frecuencia. Una oficina tranquila y un negocio concurrido del mismo tamaño no deben suponerse trabajos iguales."
+          }
+        },
+        {
+          "en": {
+            "question": "Should display items, confidential desks and storage rooms be included?",
+            "answer": "Identify which surfaces can be handled and which must remain untouched. Clear approved work areas and designate restricted rooms. Moving merchandise or files is different from cleaning accessible surfaces, so agree on those boundaries before the first appointment."
+          },
+          "es": {
+            "question": "¿Se incluyen exhibidores, escritorios confidenciales y bodegas?",
+            "answer": "Identifica qué superficies pueden tocarse y cuáles deben mantenerse intactas. Despeja las áreas autorizadas y señala cuartos restringidos. Mover mercancía o documentos no equivale a limpiar superficies accesibles; acuerda esos límites antes de la primera visita."
+          }
+        },
+        {
+          "en": {
+            "question": "Can a one-time detailed visit be separate from ongoing maintenance?",
+            "answer": "Yes, request them as separate scopes for review. The initial visit may address accumulated dirt or areas missed previously; recurring work should have its own task list and frequency. This keeps first-visit priorities from being mistaken for tasks automatically repeated at every appointment."
+          },
+          "es": {
+            "question": "¿Puede separarse una limpieza detallada única del mantenimiento continuo?",
+            "answer": "Sí, solicítalas como alcances distintos para revisión. La primera puede atender acumulación o áreas descuidadas; el servicio recurrente necesita su propia lista y frecuencia. Así no se confunden las prioridades iniciales con tareas que se repetirán automáticamente en cada cita."
+          }
+        }
+      ]
+    },
+    "/services/commercial-cleaning-pearland/": {
+      "sources": [
+        "PEA-B",
+        "OFF-B"
+      ],
+      "heading": {
+        "en": "Planning cleaning for a Pearland workplace",
+        "es": "Cómo planear limpieza para un negocio en Pearland"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Our office is small. Do we still need a commercial cleaning estimate?",
+            "answer": "Yes, describe it as a workplace so tasks, access and occupancy are reviewed correctly. Include restroom count, break room, floor materials and customer use. A small office can have heavily used shared areas even when the overall square footage is modest."
+          },
+          "es": {
+            "question": "Nuestra oficina es pequeña. ¿Igual necesita cotización comercial?",
+            "answer": "Sí, descríbela como lugar de trabajo para revisar tareas, acceso y ocupación correctamente. Incluye baños, comedor, pisos y visitas de clientes. Una oficina pequeña puede tener áreas comunes muy utilizadas aunque su superficie total sea reducida."
+          }
+        },
+        {
+          "en": {
+            "question": "What tells us whether once a week is enough?",
+            "answer": "Observe how quickly bins fill and how the restrooms, entry and food areas look between visits. Separate staff's daily upkeep from the provider's checklist. Review frequency against real use rather than adopting a schedule solely because a nearby business has the same one."
+          },
+          "es": {
+            "question": "¿Cómo sabemos si limpiar una vez por semana es suficiente?",
+            "answer": "Observa qué tan rápido se llenan los botes y cómo quedan baños, entrada y comedor entre visitas. Separa lo que hace el personal a diario de la lista del proveedor. Revisa frecuencia según el uso real, no solo porque otro negocio tenga ese horario."
+          }
+        },
+        {
+          "en": {
+            "question": "Who should supply trash liners, restroom paper and soap?",
+            "answer": "Agree on this before service starts. Supplying stock, storing it and refilling dispensers are distinct responsibilities. List quantities, storage locations and who reports low inventory. General cleaning does not automatically mean the provider purchases all consumables for the workplace."
+          },
+          "es": {
+            "question": "¿Quién debe proporcionar bolsas, papel y jabón de baños?",
+            "answer": "Acuerden esto antes de empezar. Comprar existencias, guardarlas y rellenar dispensadores son responsabilidades distintas. Indiquen cantidades, ubicación y quién avisa cuando faltan. Limpiar no significa automáticamente que el proveedor compre todos los consumibles del negocio."
+          }
+        },
+        {
+          "en": {
+            "question": "Does a commercial clean include treatment rooms or regulated equipment?",
+            "answer": "Describe the business and each work area before quoting. General office cleaning is different from regulated procedures, clinical equipment or specialized sanitation requirements. Identify any protocols with the responsible facility staff and have that scope reviewed rather than assuming it belongs in routine cleaning."
+          },
+          "es": {
+            "question": "¿La limpieza comercial incluye consultorios o equipos regulados?",
+            "answer": "Describe la actividad y cada zona antes de cotizar. Limpiar oficinas es distinto de cumplir procedimientos regulados, intervenir equipos clínicos o atender requisitos especializados. Identifica protocolos con el responsable del establecimiento y revisa el alcance; no lo supongas parte de la limpieza rutinaria."
+          }
+        }
+      ]
+    },
+    "/cleaning-checklist/": {
+      "sources": [
+        "SCOPE-B",
+        "MOV-M",
+        "OFF-B"
+      ],
+      "heading": {
+        "en": "Using this checklist to plan real work",
+        "es": "Cómo usar esta lista para definir el trabajo"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Does checking a task mean it is automatically included in my cleaning?",
+            "answer": "No. The checklist helps you identify priorities; the final scope still needs review. Point out appliance interiors, height restrictions, heavy buildup and specialist needs. A checked item is a request to discuss, not confirmation of price, availability or inclusion."
+          },
+          "es": {
+            "question": "¿Marcar una tarea significa que ya está incluida en mi limpieza?",
+            "answer": "No. La lista ayuda a identificar prioridades; el alcance final todavía debe revisarse. Señala interiores de electrodomésticos, altura, suciedad acumulada y necesidades especializadas. Marcar algo es una solicitud para comentar, no confirmación de precio, disponibilidad o inclusión."
+          }
+        },
+        {
+          "en": {
+            "question": "How should I choose priorities if I cannot do everything at once?",
+            "answer": "Start with the rooms used most and the specific dirt that bothers you: kitchen grease, bathroom residue or floor buildup. Then add lower-priority details. Separate necessary cleaning from organizing and repairs so a time-limited visit can focus on a realistic set of tasks."
+          },
+          "es": {
+            "question": "¿Cómo elijo prioridades si no puedo hacerlo todo a la vez?",
+            "answer": "Empieza por las áreas más usadas y lo que te preocupa: grasa de cocina, residuos de baño o suciedad de piso. Después añade detalles secundarios. Separa limpieza necesaria de organización y reparaciones para enfocar una visita limitada en un conjunto realista de tareas."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I use the same list for an occupied home and an empty rental?",
+            "answer": "Use different scopes. An occupied-home list must consider furniture and belongings; an empty-rental list should reflect the property's actual handover instructions. Cabinet and appliance interiors become more accessible after moving, but still need to be specifically included in the agreed work."
+          },
+          "es": {
+            "question": "¿Uso la misma lista para casa habitada y alquiler vacío?",
+            "answer": "Usa alcances distintos. La casa habitada requiere considerar muebles y pertenencias; el alquiler vacío debe seguir sus instrucciones reales de entrega. Después de mudarte se facilita el acceso a interiores, pero gabinetes y electrodomésticos deben incluirse expresamente en el trabajo acordado."
+          }
+        },
+        {
+          "en": {
+            "question": "What is the best way to discuss my selected tasks with La Roca?",
+            "answer": "Keep your list available for the follow-up call or send it privately on WhatsApp. Name your highest priorities first and identify unusual surfaces or access limits. The estimate form remains simple: name, cell phone number and service; additional details can be discussed afterward."
+          },
+          "es": {
+            "question": "¿Cómo comparto mis tareas seleccionadas con La Roca?",
+            "answer": "Ten la lista a mano para el seguimiento o envíala en privado por WhatsApp. Menciona primero tus prioridades e identifica superficies particulares o límites de acceso. El formulario sigue siendo simple: nombre, celular y servicio; los detalles pueden comentarse después."
+          }
+        }
+      ]
+    },
+    "/blog/house-cleaning-cost-houston/": {
+      "sources": [
+        "HOU-A",
+        "SUG-A",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Making sense of cleaning estimates",
+        "es": "Cómo entender y comparar estimados de limpieza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Can I use a price someone posted online as the cost for my house?",
+            "answer": "Use it as one person's experience, not a quote. Their home, date, cleaner, frequency and tasks may differ from yours. Ask for the actual scope behind a number before comparing it with a professional estimate for your property."
+          },
+          "es": {
+            "question": "¿Puedo usar el precio publicado por otra persona como costo para mi casa?",
+            "answer": "Tómalo como la experiencia de alguien, no como cotización. Pueden cambiar vivienda, fecha, proveedor, frecuencia y tareas. Revisa qué incluía realmente esa cifra antes de compararla con un estimado profesional para tu propiedad."
+          }
+        },
+        {
+          "en": {
+            "question": "How can two cleaning visits cost the same but offer different value?",
+            "answer": "One may cover routine floors and bathrooms while another includes more detailed work or appliance interiors. Visit length and team size also differ. Compare the room-by-room task list, first-visit condition and exclusions rather than judging value solely by the total amount."
+          },
+          "es": {
+            "question": "¿Cómo pueden costar lo mismo dos visitas y ofrecer trabajos diferentes?",
+            "answer": "Una puede cubrir pisos y baños habituales y otra incluir más detalle o electrodomésticos por dentro. También cambian duración y tamaño del equipo. Compara tareas por habitación, estado inicial y exclusiones, en lugar de valorar únicamente el importe total."
+          }
+        },
+        {
+          "en": {
+            "question": "Does more frequent cleaning always mean a lower monthly bill?",
+            "answer": "No. Even if a provider offers a lower price per visit, more visits can increase the monthly total. Compare price per appointment, expected number of visits and included tasks. Do not assume a recurring discount applies until it is part of your actual quote."
+          },
+          "es": {
+            "question": "¿Limpiar más seguido siempre reduce el gasto mensual?",
+            "answer": "No. Aunque un proveedor ofrezca menor precio por visita, más visitas pueden aumentar el total mensual. Compara costo por cita, número esperado de visitas y tareas incluidas. No supongas que hay descuento recurrente hasta que aparezca en tu cotización real."
+          }
+        },
+        {
+          "en": {
+            "question": "What questions should I ask before accepting a cleaning quote?",
+            "answer": "Ask which rooms and details are included, whether the price is for an initial or maintenance visit, how extras are handled and what booking terms apply. Confirm the final scope before work begins and keep a copy for your own review afterward."
+          },
+          "es": {
+            "question": "¿Qué debo preguntar antes de aceptar una cotización de limpieza?",
+            "answer": "Pregunta qué habitaciones y detalles incluye, si corresponde a primera visita o mantenimiento, cómo se manejan extras y qué condiciones de reserva aplican. Confirma el alcance final antes de empezar y guarda una copia para revisarlo al terminar."
+          }
+        }
+      ]
+    },
+    "/blog/deep-vs-standard-cleaning/": {
+      "sources": [
+        "SCOPE-B",
+        "POST-C",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Choosing the right level of cleaning",
+        "es": "Cómo elegir el nivel de limpieza adecuado"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "If I only need one visit, does that automatically mean deep cleaning?",
+            "answer": "No. One-time describes frequency, while deep describes the work needed. A maintained home may need a one-time regular clean; a home with accumulated grease or bathroom residue may need detailed work. Describe its condition rather than choosing only by how often you want service."
+          },
+          "es": {
+            "question": "Si solo quiero una visita, ¿eso significa limpieza profunda?",
+            "answer": "No. Única describe la frecuencia; profunda describe el trabajo. Una casa mantenida puede necesitar una limpieza regular ocasional; otra con grasa o residuos acumulados puede requerir detalle. Describe el estado, no elijas únicamente por cuántas veces quieres el servicio."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I request deep cleaning only for the kitchen and bathrooms?",
+            "answer": "List those rooms and their specific issues for scope review before booking. Prioritizing is different from assuming a partial-home price or a full-home service. Include the level of buildup and any appliance interiors so the requested work can be evaluated accurately."
+          },
+          "es": {
+            "question": "¿Puedo pedir profunda solo para cocina y baños?",
+            "answer": "Indica esas áreas y sus problemas para revisar el alcance antes de contratar. Priorizar no equivale a suponer un precio parcial o contratar toda la vivienda. Añade nivel de acumulación e interiores de electrodomésticos para evaluar correctamente el trabajo solicitado."
+          }
+        },
+        {
+          "en": {
+            "question": "Is post-renovation dust a reason to choose deep cleaning?",
+            "answer": "Explain the renovation instead of treating it as ordinary household buildup. Fine construction dust, residue and new finishes can require a post-construction scope. The relevant questions are what work was performed, which rooms were affected and whether the contractor has finished."
+          },
+          "es": {
+            "question": "¿El polvo de remodelación es motivo para elegir profunda?",
+            "answer": "Explica la remodelación en lugar de tratarlo como suciedad doméstica. Polvo fino de obra, residuos y acabados nuevos pueden requerir alcance posconstrucción. Importa saber qué se hizo, qué áreas se afectaron y si el contratista ya terminó."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I expect the same detailed tasks at every maintenance visit afterward?",
+            "answer": "Only tasks in the ongoing checklist should be expected each time. Some initial detail work may become periodic or remain a separately requested extra. Keep the first deep-clean list and maintenance list distinct so the change in scope is clear."
+          },
+          "es": {
+            "question": "¿Debo esperar los mismos detalles en cada visita de mantenimiento posterior?",
+            "answer": "Solo deben esperarse cada vez las tareas de la lista recurrente. Algunos detalles iniciales pueden pasar a ser periódicos o mantenerse como extras solicitados aparte. Conserva separadas la lista profunda inicial y la de mantenimiento para que quede claro qué cambia."
+          }
+        }
+      ]
+    },
+    "/blog/move-out-cleaning-checklist/": {
+      "sources": [
+        "MOV-M",
+        "KAT-M",
+        "SUG-M"
+      ],
+      "heading": {
+        "en": "Questions to resolve before your move-out day",
+        "es": "Dudas que conviene resolver antes del día de entrega"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What if an online checklist differs from my landlord's instructions?",
+            "answer": "Use your property's instructions as the starting point and ask the manager to clarify unclear items. Online checklists are planning aids, not proof that every property has the same requirements. Separate cleaning tasks from repairs, carpet services and returning keys or access devices."
+          },
+          "es": {
+            "question": "¿Qué hago si una lista de internet no coincide con la del arrendador?",
+            "answer": "Empieza con las instrucciones de tu propiedad y pide aclarar lo que no entiendas. Las listas de internet ayudan a organizar, pero no demuestran requisitos universales. Separa tareas de limpieza de reparaciones, servicios de alfombra y devolución de llaves o accesos."
+          }
+        },
+        {
+          "en": {
+            "question": "Which move-out cleaning tasks are easiest to overlook?",
+            "answer": "Check inside drawers and cabinets, appliance interiors, shelf tops, closet floors and floor edges exposed after furniture removal. Compare them with the agreed task list. Photograph selected interiors too; a wide room photo may not show whether they were cleaned."
+          },
+          "es": {
+            "question": "¿Qué tareas de salida se olvidan con más facilidad?",
+            "answer": "Revisa cajones y gabinetes por dentro, electrodomésticos, partes altas de repisas, pisos de clóset y bordes descubiertos al retirar muebles. Compáralos con la lista acordada. Fotografía también interiores incluidos; una toma general de la habitación puede no mostrar su estado."
+          }
+        },
+        {
+          "en": {
+            "question": "Do I need to finish all packing before the cleaner arrives?",
+            "answer": "For an empty-home scope, finish packing and moving first so surfaces are accessible. Remove food and belongings from selected appliance and cabinet interiors. If anything will remain, explain it beforehand so the visit is planned for the actual condition, not an assumed empty property."
+          },
+          "es": {
+            "question": "¿Debo terminar de empacar antes de que llegue el equipo?",
+            "answer": "Para limpieza de vivienda vacía, termina de empacar y mudar antes. Retira comida y objetos de interiores de electrodomésticos y gabinetes incluidos. Si algo permanecerá, avisa para planear según el estado real, no suponiendo una propiedad totalmente vacía."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I do immediately after the cleaning is finished?",
+            "answer": "Review rooms against the scope while you still have access, take clear photos and keep service documentation. Check separately that other handover tasks are complete. Do the final walkthrough after all workers have finished so new dirt is not confused with missed cleaning."
+          },
+          "es": {
+            "question": "¿Qué hago inmediatamente después de terminar la limpieza?",
+            "answer": "Revisa habitaciones con la lista mientras aún tengas acceso, toma fotos claras y guarda comprobantes. Comprueba por separado los demás pendientes de entrega. Haz la revisión final cuando hayan terminado todos los trabajadores para no confundir suciedad nueva con tareas omitidas."
+          }
+        }
+      ]
+    },
+    "/blog/move-in-cleaning-guide/": {
+      "sources": [
+        "KAT-A",
+        "MOV-M",
+        "POST-B"
+      ],
+      "heading": {
+        "en": "Questions before cleaning and unpacking",
+        "es": "Dudas antes de limpiar y desempacar"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Which areas should be cleaned before I unpack kitchen items?",
+            "answer": "Review cabinet shelves, drawers and any appliance interiors you plan to use. Keeping them empty makes access easier and avoids moving your belongings twice. Agree on those interiors before booking rather than assuming a general kitchen clean includes all storage spaces."
+          },
+          "es": {
+            "question": "¿Qué conviene limpiar antes de desempacar utensilios de cocina?",
+            "answer": "Revisa repisas de gabinetes, cajones e interiores de electrodomésticos que usarás. Mantenerlos vacíos facilita el acceso y evita mover tus cosas dos veces. Acuerda esos interiores antes de contratar; una limpieza general de cocina no incluye automáticamente todos los espacios de almacenamiento."
+          }
+        },
+        {
+          "en": {
+            "question": "What if the keys arrive the same day as the furniture?",
+            "answer": "Confirm when you will actually have entry and coordinate the delivery window first. If the home cannot be fully empty, identify rooms available for cleaning and which interiors remain accessible. Have the proposed order reviewed before assuming everything can happen simultaneously."
+          },
+          "es": {
+            "question": "¿Qué pasa si recibo llaves el mismo día que llegan los muebles?",
+            "answer": "Confirma cuándo tendrás entrada real y coordina primero la entrega. Si no puede estar completamente vacía, identifica habitaciones disponibles e interiores accesibles. Revisa el orden propuesto antes de asumir que todos los trabajos pueden realizarse al mismo tiempo."
+          }
+        },
+        {
+          "en": {
+            "question": "Should cosmetic defects be noted before move-in cleaning?",
+            "answer": "Yes. Photograph scratches, worn coatings, damaged grout and marks that may be permanent. Cleaning addresses removable dirt; it should not be used to judge responsibility for pre-existing damage. Identifying the material and condition also helps avoid unsuitable treatment."
+          },
+          "es": {
+            "question": "¿Conviene registrar daños de apariencia antes de limpiar para entrar?",
+            "answer": "Sí. Fotografía rayones, recubrimientos desgastados, juntas dañadas y marcas que podrían ser permanentes. La limpieza retira suciedad removible; no sirve para determinar responsabilidad por daños previos. Identificar material y estado también ayuda a evitar tratamientos inadecuados."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I leave ready for a move-in cleaning appointment?",
+            "answer": "Keep water, power and safe entry available, remove packing materials and clear the interiors in the agreed scope. Share care instructions for new surfaces and identify repairs still pending. Keep one person reachable if the team needs to clarify access or an item on the task list."
+          },
+          "es": {
+            "question": "¿Qué debo dejar listo para una limpieza antes de entrar?",
+            "answer": "Mantén agua, electricidad y entrada segura, retira materiales de empaque y despeja interiores incluidos. Comparte instrucciones de acabados nuevos e identifica reparaciones pendientes. Deja a alguien disponible para aclarar dudas de acceso o de la lista de tareas."
+          }
+        }
+      ]
+    },
+    "/blog/weekly-biweekly-cleaning/": {
+      "sources": [
+        "SUG-A",
+        "PEA-A",
+        "SUG-B"
+      ],
+      "heading": {
+        "en": "Deciding how often to get cleaning help",
+        "es": "Cómo decidir cada cuánto contratar limpieza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Is biweekly cleaning the same as twice a month?",
+            "answer": "No. Biweekly means every two weeks; twice a month follows two dates or visits within a calendar month. The annual visit count and gaps can differ. Clarify the intended schedule when comparing proposals so price per visit and total expected visits are understood."
+          },
+          "es": {
+            "question": "¿Quincenal es lo mismo que dos veces al mes?",
+            "answer": "No siempre. Cada dos semanas sigue intervalos de catorce días; dos veces al mes sigue fechas o dos visitas por mes calendario. Cambian los intervalos y el total anual. Aclara el calendario al comparar propuestas para entender precio por visita y número esperado de citas."
+          }
+        },
+        {
+          "en": {
+            "question": "How do I know if weekly cleaning would actually help more?",
+            "answer": "Track the tasks you struggle to maintain between visits. If bathrooms, floors or kitchen surfaces repeatedly need attention before the next appointment, discuss a shorter interval. If the problem is an occasional detail task, adding that task periodically may be more relevant than changing the whole schedule."
+          },
+          "es": {
+            "question": "¿Cómo sé si de verdad me ayudaría más la limpieza semanal?",
+            "answer": "Observa qué tareas no logras mantener entre visitas. Si baños, pisos o cocina vuelven a necesitar atención antes de la cita, comenta un intervalo menor. Si el problema es un detalle ocasional, programarlo periódicamente puede ser más útil que cambiar todo el calendario."
+          }
+        },
+        {
+          "en": {
+            "question": "Will a monthly cleaning require the same work as a weekly visit?",
+            "answer": "Not necessarily. A longer gap can mean more buildup, depending on use and your own upkeep. Compare the proposed task list and the home's condition at each interval. Do not assume a monthly appointment is simply the weekly price multiplied by a different calendar factor."
+          },
+          "es": {
+            "question": "¿Una limpieza mensual requiere el mismo trabajo que una semanal?",
+            "answer": "No necesariamente. Un intervalo mayor puede acumular más suciedad según el uso y lo que tú mantengas. Compara lista y estado en cada frecuencia. No supongas que la cita mensual se obtiene multiplicando el precio semanal por un factor de calendario."
+          }
+        },
+        {
+          "en": {
+            "question": "Can I change the frequency after seeing how the first few visits work?",
+            "answer": "Discuss the change directly and review availability, scope and booking terms before replacing the existing schedule. Explain what is or is not staying manageable between visits. That gives a concrete basis for the adjustment instead of changing frequency without considering the work needed."
+          },
+          "es": {
+            "question": "¿Puedo cambiar la frecuencia después de probar las primeras visitas?",
+            "answer": "Coméntalo directamente y revisa disponibilidad, alcance y condiciones antes de sustituir el calendario actual. Explica qué se mantiene bien y qué se complica entre visitas. Así el ajuste responde a una necesidad concreta y no cambia la frecuencia sin considerar el trabajo."
+          }
+        }
+      ]
+    },
+    "/blog/apartment-cleaning-preparation/": {
+      "sources": [
+        "KAT-A",
+        "WCH-M",
+        "SCOPE-B"
+      ],
+      "heading": {
+        "en": "Getting an apartment ready for the cleaning team",
+        "es": "Cómo dejar listo tu apartamento para la limpieza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What should I pick up if I do not have time to tidy the entire apartment?",
+            "answer": "Start with the floors and surfaces on the agreed task list. Pick up clothes, small belongings and dishes blocking work areas. Put personal items in a designated place. Clearing access is more useful than doing a rushed scrub of rooms the team is already scheduled to clean."
+          },
+          "es": {
+            "question": "¿Qué recojo si no me da tiempo de ordenar todo el apartamento?",
+            "answer": "Empieza por pisos y superficies de la lista acordada. Recoge ropa, objetos pequeños y platos que bloqueen el trabajo. Guarda tus pertenencias en un lugar definido. Despejar ayuda más que tallar con prisa áreas que el equipo ya tiene previsto limpiar."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I leave my pets loose if I am away during the visit?",
+            "answer": "Arrange a secure place and discuss it before the appointment. Doors may be opened while equipment is brought in, and animals may react to unfamiliar people. Identify pet areas and any rooms not to enter, along with a contact who can respond during the work."
+          },
+          "es": {
+            "question": "¿Debo dejar sueltas a mis mascotas si estaré fuera durante la visita?",
+            "answer": "Prepara un lugar seguro y coméntalo antes. Se abrirán puertas para entrar equipo y los animales pueden reaccionar a personas desconocidas. Identifica sus áreas, cuartos restringidos y un contacto que pueda responder mientras se trabaja."
+          }
+        },
+        {
+          "en": {
+            "question": "What if my building needs vendor registration or reserved parking?",
+            "answer": "Check the building's rules in advance and share the entry process during follow-up. Confirm any required registration, parking permission or elevator booking before the appointment. If a requirement cannot be met, discuss it early rather than waiting until the team arrives at the gate."
+          },
+          "es": {
+            "question": "¿Qué hago si mi edificio pide registro de proveedores o estacionamiento reservado?",
+            "answer": "Revisa las reglas con anticipación y comparte el procedimiento de entrada durante el seguimiento. Confirma registro, permiso de estacionamiento o reserva de elevador antes de la cita. Si no se puede cumplir algún requisito, coméntalo antes de que el equipo llegue al portón."
+          }
+        },
+        {
+          "en": {
+            "question": "Do I need to empty every cabinet for a regular apartment clean?",
+            "answer": "No; clear only the interiors specifically included in the agreed work. Routine exterior cleaning is different from cleaning storage spaces inside. If you want cabinet or refrigerator interiors added, discuss them first and plan where their contents will go during the visit."
+          },
+          "es": {
+            "question": "¿Debo vaciar todos los gabinetes para una limpieza regular de apartamento?",
+            "answer": "No; vacía únicamente los interiores incluidos expresamente. Limpiar exteriores no equivale a limpiar almacenamiento por dentro. Si quieres añadir gabinetes o refrigerador, coméntalo antes y prepara dónde pondrás su contenido durante la visita."
+          }
+        }
+      ]
+    },
+    "/blog/airbnb-turnover-cleaning/": {
+      "sources": [
+        "STR-A",
+        "STR-A2",
+        "STR-C",
+        "STR-C2"
+      ],
+      "heading": {
+        "en": "Solving common turnover-planning problems",
+        "es": "Cómo resolver dudas al planear la limpieza entre huéspedes"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How do I estimate a realistic turnover window?",
+            "answer": "Include cleaning, laundry, bed preparation, checking supplies and the final review, not just floor cleaning. Consider the number of beds and loads and whether clean spares are ready. Confirm the actual scope and availability before accepting a checkout-to-check-in gap as workable."
+          },
+          "es": {
+            "question": "¿Cómo calculo una ventana realista entre huéspedes?",
+            "answer": "Incluye limpieza, lavandería, preparación de camas, revisión de insumos y revisión final, no solo pisos. Considera camas, cargas y ropa limpia disponible. Confirma alcance y disponibilidad antes de dar por suficiente el tiempo entre salida y entrada."
+          }
+        },
+        {
+          "en": {
+            "question": "What linen setup reduces delays between bookings?",
+            "answer": "Have clean replacement sets ready and assign where used items go and who launders them. That separates bed preparation from waiting for washing and drying cycles. Match the stock to your beds and guest capacity, and agree on any laundry work with the provider."
+          },
+          "es": {
+            "question": "¿Qué preparación de ropa de cama reduce retrasos entre reservas?",
+            "answer": "Ten juegos limpios de reemplazo y define dónde va la ropa usada y quién la lava. Así preparar camas no depende de esperar cada ciclo de lavado y secado. Ajusta existencias a camas y huéspedes y acuerda con el proveedor cualquier trabajo de lavandería."
+          }
+        },
+        {
+          "en": {
+            "question": "Should every turnover also be a full deep clean?",
+            "answer": "Turnovers prepare for the next guest, while periodic deep work addresses details that do not fit every short window. Keep separate lists for routine resets and scheduled deeper tasks. Review condition after longer stays or heavy use instead of assuming the normal turnover covers additional work."
+          },
+          "es": {
+            "question": "¿Cada cambio de huéspedes debe incluir una limpieza profunda completa?",
+            "answer": "La rotación prepara para la siguiente llegada; el trabajo profundo periódico atiende detalles que no caben en cada ventana corta. Mantén listas separadas para preparación habitual y tareas profundas. Revisa el estado después de estancias largas o uso intenso en vez de asumir que todo queda incluido."
+          }
+        },
+        {
+          "en": {
+            "question": "What should happen if checkout is late or the property needs extra work?",
+            "answer": "Contact the cleaning provider and the person managing the next arrival promptly. Identify the new access time and any extra condition before assuming the original plan still fits. Keep decisions about guest communication separate from the cleaning team's task list."
+          },
+          "es": {
+            "question": "¿Qué hacemos si se retrasa la salida o hace falta trabajo extra?",
+            "answer": "Avisa pronto al proveedor de limpieza y a quien gestiona la próxima llegada. Identifica la nueva hora de acceso y el trabajo adicional antes de suponer que el plan sigue siendo viable. Separa decisiones de comunicación con huéspedes de la lista de limpieza del equipo."
+          }
+        }
+      ]
+    },
+    "/blog/office-cleaning-checklist/": {
+      "sources": [
+        "OFF-B",
+        "STA-B"
+      ],
+      "heading": {
+        "en": "Making an office checklist useful",
+        "es": "Cómo hacer útil una lista de limpieza de oficinas"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "Should the checklist name rooms or individual tasks?",
+            "answer": "Use both. Room names show where work happens, while tasks explain what is expected there. For example, a restroom entry can distinguish fixtures, floors, bins and dispenser refills. Include frequency and supply responsibility so a checkmark has a clear meaning."
+          },
+          "es": {
+            "question": "¿La lista debe nombrar áreas o tareas individuales?",
+            "answer": "Ambas. Las áreas indican dónde y las tareas explican qué se espera. En baños, por ejemplo, distingue elementos, pisos, botes y reposición de dispensadores. Añade frecuencia y responsabilidad de materiales para que marcar completado tenga un significado claro."
+          }
+        },
+        {
+          "en": {
+            "question": "What tasks should be marked as periodic instead of every visit?",
+            "answer": "Identify the detail work that the space actually needs, such as selected appliance interiors or accessible high surfaces, and agree on its frequency. Separate it from routine restrooms, floors and bins. Specialist floor treatment or equipment cleaning should have its own reviewed scope."
+          },
+          "es": {
+            "question": "¿Qué tareas conviene marcar como periódicas en vez de hacerlas cada visita?",
+            "answer": "Identifica detalles reales del espacio, como interiores de electrodomésticos elegidos o superficies altas accesibles, y acuerda su frecuencia. Sepáralos de baños, pisos y botes habituales. Tratamientos especializados de piso o equipos deben tener alcance revisado aparte."
+          }
+        },
+        {
+          "en": {
+            "question": "How should confidential workspaces appear on the checklist?",
+            "answer": "Mark areas not to enter, surfaces not to touch and any clear-desk requirement. Do not use a cleaning checklist to authorize handling files or devices by default. Designate a workplace contact who can clarify questions without asking the team to make privacy decisions itself."
+          },
+          "es": {
+            "question": "¿Cómo deben aparecer las áreas confidenciales?",
+            "answer": "Señala dónde no entrar, qué no tocar y qué escritorios deben estar despejados. La lista no debe autorizar automáticamente manejar documentos o dispositivos. Designa un contacto que aclare dudas para no dejar al equipo decisiones sobre privacidad."
+          }
+        },
+        {
+          "en": {
+            "question": "How can we review a missed task without rewriting the entire plan?",
+            "answer": "Refer to the agreed area, task and visit frequency, and describe the condition with a photo if useful. Distinguish an omitted task from new dirt or work outside the scope. Use the same checklist for the discussion and agree on any change directly with the provider."
+          },
+          "es": {
+            "question": "¿Cómo revisamos una tarea pendiente sin rehacer todo el plan?",
+            "answer": "Usa área, tarea y frecuencia acordadas y describe el estado con una foto si ayuda. Distingue una omisión de suciedad nueva o trabajo fuera del alcance. Utiliza la misma lista para comentarlo y acuerda cualquier cambio directamente con el proveedor."
+          }
+        }
+      ]
+    },
+    "/blog/post-construction-cleaning-guide/": {
+      "sources": [
+        "POST-B",
+        "POST-C",
+        "WOOD-C",
+        "STONE-C"
+      ],
+      "heading": {
+        "en": "Timing and scope after construction",
+        "es": "Fechas y alcance después de una obra"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "How do I know the site is ready for final cleaning?",
+            "answer": "Confirm that dusty work is complete, tools and major debris are removed, access is safe and water and power are available. Check care instructions and curing requirements for new finishes with the contractor. Final cleaning should not be scheduled on the assumption that unfinished work will be done in time."
+          },
+          "es": {
+            "question": "¿Cómo sé si la obra está lista para limpieza final?",
+            "answer": "Confirma que terminaron trabajos con polvo, retiraron herramientas y escombros grandes, hay acceso seguro, agua y electricidad. Revisa con el contratista cuidados y curado de acabados nuevos. No programes la limpieza suponiendo que trabajos pendientes terminarán a tiempo."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I photograph when requesting a post-construction estimate?",
+            "answer": "Show the rooms affected, dust on ledges and floors, cabinet interiors and specific residue on identifiable surfaces. Include an overall view as well as close-ups. Explain the work performed and access limits; a close-up alone may not show how widespread the cleanup is."
+          },
+          "es": {
+            "question": "¿Qué debo fotografiar para cotizar limpieza posconstrucción?",
+            "answer": "Muestra habitaciones afectadas, polvo en repisas y pisos, interiores de gabinetes y residuos sobre materiales identificables. Añade vistas generales y acercamientos. Explica qué se hizo y los límites de acceso; una foto de cerca no siempre muestra cuánto se extendió la suciedad."
+          }
+        },
+        {
+          "en": {
+            "question": "Who should assess paint overspray, adhesive or grout haze?",
+            "answer": "Identify the material and residue with the contractor or installer before removal is attempted. Different finishes can react differently to scrapers and chemicals. Have specialist removal needs separated from ordinary dust cleaning instead of assuming every residue can be removed with the same method."
+          },
+          "es": {
+            "question": "¿Quién debe evaluar pintura salpicada, adhesivo o velo de lechada?",
+            "answer": "Identifica material y residuo con contratista o instalador antes de intentar retirarlo. Los acabados reaccionan distinto a raspadores y químicos. Separa necesidades de remoción especializada de la limpieza de polvo; no todos los residuos admiten el mismo método."
+          }
+        },
+        {
+          "en": {
+            "question": "Should I plan another review after the final punch-list work?",
+            "answer": "Yes, if trades return after cleaning, inspect the areas they use or disturb. New dust and footprints can be introduced by even a small repair. Identify any follow-up cleaning required and review it as new work instead of assuming it belongs to the earlier final-clean appointment."
+          },
+          "es": {
+            "question": "¿Conviene revisar otra vez después de los últimos retoques de obra?",
+            "answer": "Sí, si vuelven trabajadores después de limpiar, revisa las áreas donde entraron o intervinieron. Incluso una reparación pequeña puede dejar polvo y huellas. Identifica qué atención posterior hace falta y revísala como trabajo nuevo, no como parte automática de la cita anterior."
+          }
+        }
+      ]
+    },
+    "/blog/choose-cleaning-company-houston/": {
+      "sources": [
+        "HOU-A",
+        "SCOPE-B",
+        "SUG-B"
+      ],
+      "heading": {
+        "en": "Questions that make cleaning proposals easier to compare",
+        "es": "Preguntas para comparar mejor empresas de limpieza"
+      },
+      "items": [
+        {
+          "en": {
+            "question": "What should I ask before comparing two companies' prices?",
+            "answer": "Ask both to describe rooms, tasks, extras, frequency and initial condition using the same information. Confirm whether each proposal is a checklist-based service or a time block. You can then compare what you are buying instead of comparing two totals for different jobs."
+          },
+          "es": {
+            "question": "¿Qué debo preguntar antes de comparar precios de dos empresas?",
+            "answer": "Pide que ambas describan habitaciones, tareas, extras, frecuencia y estado inicial con la misma información. Confirma si cotizan una lista de trabajo o un bloque de tiempo. Así comparas lo que contratas, no dos importes para trabajos distintos."
+          }
+        },
+        {
+          "en": {
+            "question": "How can I check reviews without treating a star rating as the whole story?",
+            "answer": "Read the service type, recency and details of the customer's experience, and see how the business responds. A review about maintenance may not tell you much about a construction cleanup. Use reviews alongside a clear scope discussion and direct answers to your own questions."
+          },
+          "es": {
+            "question": "¿Cómo reviso reseñas sin guiarme solo por las estrellas?",
+            "answer": "Lee tipo de servicio, fecha y detalles de la experiencia y observa cómo responde el negocio. Una reseña sobre mantenimiento dice poco sobre limpieza posobra. Combina esas opiniones con un alcance claro y respuestas directas a tus propias dudas."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I ask about access, insurance and accidental damage?",
+            "answer": "Ask who enters the property, how access instructions are handled and what process applies if a concern occurs. If insurance matters to you or the building, request current documentation directly. Do not infer coverage or procedures from the word professional or from another company's policies."
+          },
+          "es": {
+            "question": "¿Qué pregunto sobre acceso, seguro y daños accidentales?",
+            "answer": "Pregunta quién entra, cómo se manejan instrucciones de acceso y qué proceso aplica ante una incidencia. Si el seguro es importante para ti o el edificio, solicita documentación vigente directamente. No deduzcas cobertura o procedimientos por la palabra profesional ni por políticas de otra empresa."
+          }
+        },
+        {
+          "en": {
+            "question": "Which terms should be clear before I confirm a cleaning appointment?",
+            "answer": "Review the agreed work, appointment window, price, extras, payment method and change or cancellation terms. Ask how concerns about the completed work are handled. Keep the confirmed details so both sides can review the same arrangement instead of relying on assumptions."
+          },
+          "es": {
+            "question": "¿Qué condiciones deben quedar claras antes de confirmar una cita?",
+            "answer": "Revisa trabajo acordado, ventana de llegada, precio, extras, forma de pago y condiciones de cambio o cancelación. Pregunta cómo se atienden dudas sobre el trabajo terminado. Guarda los detalles confirmados para que ambas partes revisen el mismo acuerdo y no suposiciones."
+          }
+        }
+      ]
+    }
+  }
+}
