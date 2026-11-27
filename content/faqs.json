@@ -1877,43 +1877,43 @@
       },
       "items": [
         {
-          "en": {
-            "question": "Does checking a task mean it is automatically included in my cleaning?",
-            "answer": "No. The checklist helps you identify priorities; the final scope still needs review. Point out appliance interiors, height restrictions, heavy buildup and specialist needs. A checked item is a request to discuss, not confirmation of price, availability or inclusion."
-          },
           "es": {
-            "question": "¿Marcar una tarea significa que ya está incluida en mi limpieza?",
-            "answer": "No. La lista ayuda a identificar prioridades; el alcance final todavía debe revisarse. Señala interiores de electrodomésticos, altura, suciedad acumulada y necesidades especializadas. Marcar algo es una solicitud para comentar, no confirmación de precio, disponibilidad o inclusión."
+            "question": "¿Marcar tareas confirma una reserva?",
+            "answer": "No. La Roca debe confirmar contigo el alcance, el precio y la fecha antes de programar el servicio."
+          },
+          "en": {
+            "question": "Does selecting tasks confirm a booking?",
+            "answer": "No. La Roca must confirm the scope, price and date with you before scheduling service."
           }
         },
         {
-          "en": {
-            "question": "How should I choose priorities if I cannot do everything at once?",
-            "answer": "Start with the rooms used most and the specific dirt that bothers you: kitchen grease, bathroom residue or floor buildup. Then add lower-priority details. Separate necessary cleaning from organizing and repairs so a time-limited visit can focus on a realistic set of tasks."
-          },
           "es": {
-            "question": "¿Cómo elijo prioridades si no puedo hacerlo todo a la vez?",
-            "answer": "Empieza por las áreas más usadas y lo que te preocupa: grasa de cocina, residuos de baño o suciedad de piso. Después añade detalles secundarios. Separa limpieza necesaria de organización y reparaciones para enfocar una visita limitada en un conjunto realista de tareas."
+            "question": "¿Puedo cambiar la lista después de enviarla?",
+            "answer": "Sí. Ajusta tu selección y envía el resumen actualizado. Indica a La Roca que reemplaza la lista anterior para evitar confusiones."
+          },
+          "en": {
+            "question": "Can I change my checklist after sending it?",
+            "answer": "Yes. Update your selections and send the revised summary. Tell La Roca it replaces your previous list to avoid confusion."
           }
         },
         {
-          "en": {
-            "question": "Should I use the same list for an occupied home and an empty rental?",
-            "answer": "Use different scopes. An occupied-home list must consider furniture and belongings; an empty-rental list should reflect the property's actual handover instructions. Cabinet and appliance interiors become more accessible after moving, but still need to be specifically included in the agreed work."
-          },
           "es": {
-            "question": "¿Uso la misma lista para casa habitada y alquiler vacío?",
-            "answer": "Usa alcances distintos. La casa habitada requiere considerar muebles y pertenencias; el alquiler vacío debe seguir sus instrucciones reales de entrega. Después de mudarte se facilita el acceso a interiores, pero gabinetes y electrodomésticos deben incluirse expresamente en el trabajo acordado."
+            "question": "¿Qué hago si uso un dispositivo compartido?",
+            "answer": "Usa «Borrar mi selección» al terminar. La selección se conserva en ese navegador y otra persona que lo use podría verla."
+          },
+          "en": {
+            "question": "What if I use a shared device?",
+            "answer": "Use “Clear my selection” when finished. Your selection stays in that browser and another person using it could see it."
           }
         },
         {
-          "en": {
-            "question": "What is the best way to discuss my selected tasks with La Roca?",
-            "answer": "Keep your list available for the follow-up call or send it privately on WhatsApp. Name your highest priorities first and identify unusual surfaces or access limits. The estimate form remains simple: name, cell phone number and service; additional details can be discussed afterward."
-          },
           "es": {
-            "question": "¿Cómo comparto mis tareas seleccionadas con La Roca?",
-            "answer": "Ten la lista a mano para el seguimiento o envíala en privado por WhatsApp. Menciona primero tus prioridades e identifica superficies particulares o límites de acceso. El formulario sigue siendo simple: nombre, celular y servicio; los detalles pueden comentarse después."
+            "question": "¿El PDF cambia si edito mis tareas?",
+            "answer": "El archivo descargado conserva la selección del momento en que lo generaste. Si cambias tareas o notas, descarga una nueva versión antes de compartirlo."
+          },
+          "en": {
+            "question": "Does my PDF change when I edit my tasks?",
+            "answer": "The downloaded file keeps the selection from when it was generated. If you change tasks or notes, download a new version before sharing it."
           }
         }
       ]
