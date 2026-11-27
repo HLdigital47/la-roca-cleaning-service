@@ -125,48 +125,58 @@
         "HOU-A"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Cleaning in Pearland",
-        "es": "Preguntas frecuentes sobre limpieza en Pearland"
+        "es": "Situaciones que conviene hablar antes de la visita",
+        "en": "Situations to discuss before your visit"
       },
       "items": [
         {
-          "en": {
-            "question": "Can I start with a deep clean and then have my Pearland home cleaned monthly?",
-            "answer": "That can be a useful plan when the first visit needs to address accumulated dirt. Separate the initial detail work from the ongoing checklist. Between monthly visits, kitchens, bathrooms and pet areas may still need upkeep depending on how much the home is used."
-          },
           "es": {
-            "question": "¿Puedo empezar con una limpieza profunda y después limpiar mi casa de Pearland cada mes?",
-            "answer": "Puede ser una buena opción si primero hay suciedad acumulada que atender. Separa el trabajo detallado inicial de la lista de mantenimiento. Entre visitas mensuales, cocina, baños y zonas de mascotas pueden seguir necesitando atención según el uso de la casa."
+            "question": "Trabajo desde casa. ¿Cómo organizo la limpieza sin interrumpir una videollamada?",
+            "answer": "Indica qué habitación necesitas usar y durante qué horario. Acuerda con La Roca si conviene empezar por otras áreas y cuándo quedará disponible tu espacio de trabajo. Señala equipos y documentos que no deben tocarse; no des por incluido un cambio de horario sin confirmarlo."
+          },
+          "en": {
+            "question": "I work from home. How can I avoid interruptions during a video call?",
+            "answer": "Identify the room you need to use and the hours involved. Agree with La Roca whether other areas can be cleaned first and when your workspace will be available. Point out equipment and documents that must not be touched; confirm any scheduling change rather than assuming it is included."
           }
         },
         {
-          "en": {
-            "question": "Why is my neighbor's cleaning quote lower than mine?",
-            "answer": "The same neighborhood does not mean the same job. Compare bathroom count, floors being cleaned, grease or shower buildup, pets, frequency and extras. Ask whether both prices cover a first visit or ongoing maintenance before using your neighbor's price as a benchmark."
-          },
           "es": {
-            "question": "¿Por qué la limpieza de mi vecino cuesta menos que la mía?",
-            "answer": "Vivir en la misma zona no significa necesitar el mismo trabajo. Compara baños, pisos incluidos, grasa o sarro, mascotas, frecuencia y extras. Revisa si ambos precios corresponden a una primera visita o a mantenimiento antes de tomar su tarifa como referencia."
+            "question": "Soy sensible a ciertas fragancias. ¿Qué debo informar antes de contratar?",
+            "answer": "Comparte las fragancias o productos que necesitas evitar antes de programar. Solicita revisar con La Roca qué alternativas pueden utilizarse y si son compatibles con tus superficies. No asumas que un producto sin aroma es adecuado para cualquier alergia o material."
+          },
+          "en": {
+            "question": "I am sensitive to certain fragrances. What should I mention before booking?",
+            "answer": "Share the fragrances or products you need to avoid before scheduling. Ask La Roca to review possible alternatives and whether they suit your surfaces. Do not assume a fragrance-free product is suitable for every allergy or material."
           }
         },
         {
-          "en": {
-            "question": "Will regular cleaning remove all the pet hair in my home?",
-            "answer": "Identify the surfaces involved: hard floors, rugs, upholstery and bedding need different work. Routine floor cleaning is different from upholstery extraction or odor treatment. Mention shedding and any pet stains in advance so the estimate reflects the areas that matter to you."
-          },
           "es": {
-            "question": "¿La limpieza regular elimina todo el pelo de mascotas de mi casa?",
-            "answer": "Identifica dónde está: pisos, tapetes, muebles y ropa de cama requieren trabajos distintos. Limpiar pisos no equivale a lavar tapicería o tratar olores. Menciona la cantidad de pelo y las manchas antes de cotizar para incluir las áreas que más te preocupan."
+            "question": "El día de la visita no hay agua o electricidad. ¿Qué hago?",
+            "answer": "Avisa a La Roca tan pronto lo sepas. El acceso a agua y electricidad puede ser necesario para realizar las tareas acordadas. Revisa si la visita debe reprogramarse o si existe un alcance viable antes de mantener la cita."
+          },
+          "en": {
+            "question": "What if there is no water or electricity on cleaning day?",
+            "answer": "Tell La Roca as soon as you know. Water and electricity may be needed for the agreed tasks. Discuss whether to reschedule or whether a practical scope is possible before keeping the appointment."
           }
         },
         {
-          "en": {
-            "question": "I'm moving into a Pearland home that looks clean. Is another cleaning worthwhile?",
-            "answer": "Look inside drawers, cabinets and appliances, and check bathrooms and floor edges. A tidy appearance does not tell you which interiors were cleaned. Build a short list from what you find and have that scope reviewed before ordering a full move-in clean."
-          },
           "es": {
-            "question": "Me mudaré a una casa en Pearland que se ve limpia. ¿Vale la pena limpiarla otra vez?",
-            "answer": "Revisa cajones, gabinetes y electrodomésticos por dentro, además de baños y bordes del piso. Que se vea ordenada no indica qué interiores se limpiaron. Haz una lista de lo que encuentres y revisa ese alcance antes de pedir una limpieza completa por mudanza."
+            "question": "Después de recibir la cotización quiero añadir un baño o el interior del refrigerador. ¿Cómo lo pido?",
+            "answer": "Comunica las tareas adicionales antes de la visita, indicando su estado y si estarán disponibles para limpiar. Solicita confirmar cualquier ajuste de precio o tiempo. Así la lista que recibirá el equipo coincide con el servicio que esperas."
+          },
+          "en": {
+            "question": "I want to add a bathroom or refrigerator interior after receiving my estimate. How do I request it?",
+            "answer": "Communicate the additional tasks before the visit, including their condition and whether they will be accessible. Ask to confirm any price or time adjustment so the team receives the same service checklist you expect."
+          }
+        },
+        {
+          "es": {
+            "question": "Mi mascota intenta salir cuando se abre la puerta. ¿Cómo preparo la casa?",
+            "answer": "Organiza un espacio seguro separado del acceso y de las áreas que se limpiarán. Avisa sobre puertas o rejas que deben permanecer cerradas y deja un contacto disponible. Acuerda el acceso antes de la visita para que las instrucciones sean claras."
+          },
+          "en": {
+            "question": "My pet tries to escape when the door opens. How should I prepare?",
+            "answer": "Arrange a safe space separate from the entrance and areas being cleaned. Explain which doors or gates must stay closed and leave a contact available. Agree on access before the visit so the instructions are clear."
           }
         }
       ]
