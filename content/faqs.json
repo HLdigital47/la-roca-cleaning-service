@@ -976,48 +976,68 @@
         "SUG-B"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Recurring House Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza recurrente de casas"
+        "es": "Dudas al organizar visitas de limpieza en casa",
+        "en": "Questions when arranging recurring home visits"
       },
       "items": [
         {
-          "en": {
-            "question": "Should I choose weekly, every two weeks or once a month?",
-            "answer": "Base the interval on what builds up between visits, not just the size of the house. Busy kitchens, frequently used bathrooms and shedding pets may need more upkeep. A monthly visit may work when you maintain those areas yourself. Review the expected tasks at each interval."
-          },
           "es": {
-            "question": "¿Me conviene limpieza semanal, quincenal o mensual?",
-            "answer": "Elige según lo que se acumula entre visitas, no solo por tamaño. Cocinas y baños muy usados o mascotas que sueltan pelo pueden requerir más mantenimiento. Una visita mensual puede funcionar si tú atiendes esas áreas. Revisa las tareas previstas en cada intervalo."
+            "question": "¿Qué pasa si necesito saltarme una visita por vacaciones?",
+            "answer": "Contacta a La Roca cuando cambien tus planes y revisa las condiciones de tu reserva. Confirma la próxima fecha directamente. Si pasa más tiempo entre visitas, conviene revisar el estado de la casa y el alcance de la siguiente limpieza."
+          },
+          "en": {
+            "question": "What if I need to skip a visit while on vacation?",
+            "answer": "Contact La Roca when your plans change and review your booking terms. Confirm the next date directly. If the gap between visits grows, review the home’s condition and the scope for the next cleaning."
           }
         },
         {
-          "en": {
-            "question": "Does an initial deep clean have to be included in a recurring plan?",
-            "answer": "The current condition determines whether an initial reset is useful. Identify accumulated grease, bathroom residue and neglected details before setting the maintenance checklist. Ask for the first-visit scope and ongoing scope separately rather than assuming the same work or price applies to both."
-          },
           "es": {
-            "question": "¿Un plan recurrente tiene que incluir una primera limpieza profunda?",
-            "answer": "Depende del estado actual y de si hace falta una limpieza inicial a fondo. Identifica grasa, residuos de baño y detalles descuidados antes de definir mantenimiento. Pide por separado el alcance inicial y el recurrente; no supongas que tendrán las mismas tareas o precio."
+            "question": "¿Puedo cambiar las habitaciones prioritarias de una visita a otra?",
+            "answer": "Comunica el cambio antes de la visita e indica qué áreas quieres priorizar. Revisen si las nuevas tareas caben en el alcance acordado o si requieren ajustar el trabajo. Priorizar una habitación no implica que cualquier tarea adicional quede incluida."
+          },
+          "en": {
+            "question": "Can I change which rooms take priority from one visit to the next?",
+            "answer": "Communicate changes before the visit and identify the rooms you want prioritized. Review whether the new tasks fit the agreed scope or require an adjustment. Prioritizing a room does not mean every additional task is included."
           }
         },
         {
-          "en": {
-            "question": "Do oven interiors and baseboards get cleaned at every recurring visit?",
-            "answer": "Only if they are part of the agreed checklist. Some detail tasks may be scheduled periodically or quoted separately instead of being repeated each time. Keep a list of those tasks and their frequency so the ongoing service matches what you expect."
-          },
           "es": {
-            "question": "¿El horno por dentro y los zoclos se limpian en cada visita recurrente?",
-            "answer": "Solo si forman parte de la lista acordada. Algunos detalles pueden programarse periódicamente o cotizarse aparte en lugar de repetirse siempre. Conserva una lista de esas tareas y su frecuencia para que el servicio continuo coincida con lo que esperas."
+            "question": "Trabajo desde casa. ¿Cómo coordinamos llamadas y reuniones?",
+            "answer": "Comparte los horarios en que necesitas silencio y la habitación que estará ocupada. Acuerda qué áreas pueden atenderse primero y cuándo queda disponible tu espacio de trabajo. Confirma con el equipo si el orden propuesto es viable."
+          },
+          "en": {
+            "question": "I work from home. How do we coordinate calls and meetings?",
+            "answer": "Share times when you need quiet and identify the occupied room. Agree which areas can be cleaned first and when your workspace becomes available. Confirm with the team whether the proposed order is workable."
           }
         },
         {
-          "en": {
-            "question": "What should I do before skipping or moving a scheduled visit?",
-            "answer": "Contact La Roca as soon as your plans change and review the applicable booking terms. A longer gap may change the condition of the home or the work needed next time. Confirm the new date and any scope changes directly instead of assuming the original appointment simply shifts."
-          },
           "es": {
-            "question": "¿Qué hago si necesito saltar o cambiar una visita programada?",
-            "answer": "Contacta a La Roca en cuanto cambien tus planes y revisa las condiciones de tu reserva. Un intervalo mayor puede cambiar el estado de la casa o el trabajo de la siguiente visita. Confirma fecha y alcance directamente; no supongas que la cita se recorre automáticamente."
+            "question": "Mi mascota se pone nerviosa con las visitas. ¿Qué preparo?",
+            "answer": "Indica si hay mascotas antes de la cita y organiza un espacio seguro con una persona responsable cuando haga falta. Comparte instrucciones para evitar escapes al abrir puertas. Si hay una zona que no debe abrirse, déjala identificada."
+          },
+          "en": {
+            "question": "My pet gets nervous around visitors. What should I prepare?",
+            "answer": "Mention pets before the appointment and arrange a safe space with a responsible person where needed. Share instructions to prevent pets escaping through open doors. Clearly identify any area that must stay closed."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Qué hago si encuentro un detalle pendiente después de la visita?",
+            "answer": "Envía una foto del área concreta, la fecha del servicio y cuándo lo notaste. Indica si la habitación se usó después de limpiar. Esa información ayuda a revisar el detalle frente a las tareas acordadas y definir el siguiente paso."
+          },
+          "en": {
+            "question": "What should I do if I notice a missed detail after a visit?",
+            "answer": "Send a photo of the specific area, the service date and when you noticed it. Explain whether the room was used afterward. This helps review the detail against agreed tasks and determine the next step."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Podemos empezar por algunas habitaciones y ampliar después?",
+            "answer": "Identifica cuáles quieres incluir desde el inicio y cuáles quedarían fuera. Si después deseas ampliar, comunica las nuevas áreas para revisar tareas, acceso y cotización antes de la siguiente visita."
+          },
+          "en": {
+            "question": "Can we start with a few rooms and add more later?",
+            "answer": "Identify the rooms you want included initially and those left out. If you later want to expand, communicate the additional areas so tasks, access and pricing can be reviewed before the next visit."
           }
         }
       ]
