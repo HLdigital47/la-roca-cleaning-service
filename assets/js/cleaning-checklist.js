@@ -2,7 +2,7 @@
  const section=document.querySelector('#checklist');if(!section)return;
  const es=document.documentElement.lang.startsWith('es'),t=(sp,en)=>es?sp:en,key='la-roca-checklist-v1';
  const service=section.querySelector('#cl-service'),priority=section.querySelector('#cl-priority'),notes=section.querySelector('#cl-notes'),checks=[...section.querySelectorAll('[data-cl-id]')],feedback=section.querySelector('#cl-feedback');
- let stored=false;try{const saved=JSON.parse(localStorage.getItem(key)||'null');if(saved){service.value=['regular','deep','moving'].includes(saved.service)?saved.service:'regular';priority.value=saved.priority||'';notes.value=String(saved.notes||'').slice(0,400);checks.forEach(c=>c.checked=Array.isArray(saved.selected)&&saved.selected.includes(c.dataset.clId));}stored=true;}catch{}
+ let stored=false;try{const saved=JSON.parse(localStorage.getItem(key)||'null');if(saved){service.value=[...service.options].some(o=>o.value===saved.service)?saved.service:'regular';priority.value=saved.priority||'';notes.value=String(saved.notes||'').slice(0,400);checks.forEach(c=>c.checked=Array.isArray(saved.selected)&&saved.selected.includes(c.dataset.clId));}stored=true;}catch{}
  const visible=c=>!c.closest('.cl-task').hidden;
  function summary(){
   const selected=checks.filter(c=>c.checked&&visible(c));const lines=[t('Lista de limpieza - La Roca','Cleaning checklist - La Roca'),t('Servicio: ','Service: ')+service.selectedOptions[0].textContent];
@@ -14,7 +14,7 @@
  function forms(){return [document.querySelector('#quoteform'),document.querySelector('#quote-modal form')].filter(Boolean);}
  function sync(){const s=summary();forms().forEach(f=>{f.dataset.quoteSummary=s.text;});return s;}
  function render(){
-  checks.forEach(c=>{const m=c.closest('.cl-task').dataset.clMode;c.closest('.cl-task').hidden=m==='moving'&&service.value!=='moving';});
+  checks.forEach(c=>{const m=c.closest('.cl-task').dataset.clMode;c.closest('.cl-task').hidden=m==='moving'&&!['moving','move-in','move-out'].includes(service.value);});
   const s=sync();section.querySelector('#cl-count').textContent=s.selected.length+' '+t('tareas seleccionadas','tasks selected');section.querySelector('#cl-summary-text').textContent=s.selected.length?s.text:t('Marca las tareas que quieres consultar.','Choose the tasks you want to discuss.');
   section.querySelector('#cl-whatsapp').href='https://wa.me/17138789793?text='+encodeURIComponent(s.text);
   try{localStorage.setItem(key,JSON.stringify({service:service.value,priority:priority.value,notes:notes.value,selected:checks.filter(c=>c.checked).map(c=>c.dataset.clId)}));stored=true;}catch{stored=false;}
@@ -25,7 +25,7 @@
  section.querySelector('#cl-reset').addEventListener('click',()=>{checks.forEach(c=>c.checked=false);notes.value='';priority.value='';render();feedback.textContent=t('Selección borrada.','Selection cleared.');});
  section.querySelector('#cl-whatsapp').addEventListener('click',requireTasks);
  section.querySelector('#cl-pdf').addEventListener('click',()=>{if(!requireTasks())return;const s=sync(),pdf=LaRocaChecklistPDF(['LA ROCA CLEANING SERVICES LLC','713-878-9793 | larocacleaningservices.com','',...s.lines]);const url=URL.createObjectURL(new Blob([pdf],{type:'application/pdf'}));const a=document.createElement('a');a.href=url;a.download=es?'La-Roca-Lista-de-Limpieza.pdf':'La-Roca-Cleaning-Checklist.pdf';a.click();setTimeout(()=>URL.revokeObjectURL(url),10000);feedback.textContent=t('PDF preparado para descargar.','PDF ready to download.');});
- section.querySelector('#cl-estimate').addEventListener('click',e=>{if(!requireTasks(e))return;e.preventDefault();sync();const dialog=document.querySelector('#quote-modal');const form=dialog?.querySelector('form')||document.querySelector('#quoteform');const select=form?.querySelector('[name="service"]');const re=service.value==='deep'?/profunda|deep/i:service.value==='moving'?/mudanza|move/i:/residencial|house/i;if(select){const option=[...select.options].find(o=>re.test(o.textContent));if(option)select.value=option.value;}if(dialog&&!dialog.open)dialog.showModal();form?.querySelector('[name="name"]')?.focus();});
+ section.querySelector('#cl-estimate').addEventListener('click',e=>{if(!requireTasks(e))return;e.preventDefault();sync();const dialog=document.querySelector('#quote-modal');const form=dialog?.querySelector('form')||document.querySelector('#quoteform');const select=form?.querySelector('[name="service"]');if(select){const label=service.selectedOptions[0].textContent;let option=[...select.options].find(o=>o.textContent===label);if(!option){option=document.createElement('option');option.textContent=label;option.value=label;select.append(option);}select.value=option.value;}if(dialog&&!dialog.open)dialog.showModal();form?.querySelector('[name="name"]')?.focus();});
  // Capture before the existing estimate transport reads its message field.
  document.addEventListener('submit',e=>{if(e.target.matches('#quoteform,#quote-modal form'))sync();},true);
  render();
