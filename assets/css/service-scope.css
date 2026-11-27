@@ -66,3 +66,11 @@
 /* White numbered circles requested by the client. */
 .lr-layout .lr-scope-copy li::before{background:#fff;color:#102d43;border:1px solid #d8d3c9;box-sizing:border-box}
 .lr-layout .lr-room-marker{background:#fff;color:#102d43;box-shadow:0 0 0 3px #ffffff70;border:1px solid #d8d3c9;box-sizing:border-box}
+
+/* Compact room layout for regular and moving services; detailed deep-cleaning scope remains separate. */
+.lr-layout .lr-service-overview .lr-scope-rows{gap:48px}
+.lr-layout .lr-service-overview .lr-scope-row{align-items:center;gap:48px}
+.lr-layout .lr-service-overview .lr-scope-photo img{max-height:390px}
+.lr-layout .lr-service-overview .lr-scope-copy h3{margin-bottom:20px}
+.lr-layout .lr-service-overview .lr-scope-copy ol{gap:14px}
+@media(max-width:700px){.lr-layout .lr-service-overview .lr-scope-row{gap:22px}.lr-layout .lr-service-overview .lr-scope-photo img{max-height:420px}.lr-layout .lr-service-overview .lr-scope-rows{gap:36px}}
