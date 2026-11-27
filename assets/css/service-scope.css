@@ -53,7 +53,6 @@
 .lr-layout .lr-scope-detail{margin-top:36px;display:flex;justify-content:center}
 .lr-layout .lr-scope-detail figure{margin:0;max-width:300px}
 .lr-layout .lr-oven-detail{width:100%;height:auto;background:transparent;border-radius:0}
-.lr-layout .lr-scope-detail figcaption{font-size:13px;color:#52616b;margin-top:10px}
 .lr-layout .lr-scope-extras{background:transparent;border:0;padding-top:16px}
 .lr-layout .lr-extras-panel{padding:32px 38px;border-radius:12px;background:linear-gradient(115deg,#102d43,#1d3d52 58%,#785d30);color:#fff;overflow:hidden}
 .lr-layout main .lr-extras-panel h2{color:#fff;font:700 30px/1.2 Arial,sans-serif;letter-spacing:0;margin:0 0 14px}
