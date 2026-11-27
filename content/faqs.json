@@ -903,48 +903,68 @@
         "SCOPE-B"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Commercial and Office Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza comercial y de oficinas"
+        "es": "Dudas de quienes administran una oficina o local",
+        "en": "Questions from office and business managers"
       },
       "items": [
         {
-          "en": {
-            "question": "What information is needed for a useful commercial cleaning quote?",
-            "answer": "Provide the area to clean, business use, occupancy, restroom count, floor types and proposed frequency. Identify customer areas and restricted rooms. A floor plan or walkthrough can clarify the work; square footage alone does not capture restroom use, traffic or the level of detail needed."
-          },
           "es": {
-            "question": "¿Qué información permite cotizar bien una limpieza comercial?",
-            "answer": "Indica superficie a limpiar, actividad, ocupación, cantidad de baños, pisos y frecuencia propuesta. Identifica zonas de clientes y cuartos restringidos. Un plano o recorrido ayuda a definir tareas; los pies cuadrados por sí solos no explican uso de baños, tráfico o detalle requerido."
+            "question": "Tenemos una reunión o evento el día de la limpieza. ¿Cómo lo coordinamos?",
+            "answer": "Avisa con anticipación qué sala estará ocupada y hasta qué hora. Solicita revisar el orden de las áreas y la disponibilidad para cualquier cambio de horario. Si el evento deja trabajo adicional, comparte lo que necesitas antes de asumir que está dentro de la visita habitual."
+          },
+          "en": {
+            "question": "We have a meeting or event on cleaning day. How should we coordinate it?",
+            "answer": "Let La Roca know which room will be occupied and until when. Ask to review the order of areas and availability for any schedule change. If the event creates extra work, explain what you need rather than assuming it is part of the usual visit."
           }
         },
         {
-          "en": {
-            "question": "How do we decide which tasks happen every visit and which are periodic?",
-            "answer": "Separate routine needs such as bins, floors and restrooms from periodic details such as interior appliances or high ledges. Agree on a written schedule by area and task. This makes the price and the expected work easier to review than a general promise to clean everything."
-          },
           "es": {
-            "question": "¿Cómo definimos qué se hace en cada visita y qué se hace periódicamente?",
-            "answer": "Separa tareas habituales, como botes, pisos y baños, de detalles periódicos, como interiores de electrodomésticos o repisas altas. Acuerda un calendario por área y tarea. Así es más fácil revisar precio y trabajo esperado que con una promesa general de limpiar todo."
+            "question": "Hay documentos confidenciales sobre los escritorios. ¿Qué hacemos antes de la visita?",
+            "answer": "Guarda los documentos en un lugar seguro y deja despejada únicamente la superficie que quieres limpiar. Identifica zonas restringidas y acuerda qué objetos no deben moverse. Los papeles sobre un escritorio no deben confundirse con basura; deja claras las instrucciones al responsable del servicio."
+          },
+          "en": {
+            "question": "There are confidential documents on desks. What should we do before the visit?",
+            "answer": "Secure documents and clear only the surfaces you want cleaned. Identify restricted areas and agree which objects should not be moved. Papers left on a desk should not be confused with waste; give clear instructions to the service contact."
           }
         },
         {
-          "en": {
-            "question": "Can cleaning take place without staff being present?",
-            "answer": "Agree on the permitted time, authorized entry method, alarm steps and lock-up responsibility. Keep a reachable contact for questions and mark restricted areas. An after-hours request needs confirmed availability and building permission before a visit can be scheduled."
-          },
           "es": {
-            "question": "¿Se puede limpiar sin que esté presente el personal?",
-            "answer": "Acuerda el horario permitido, la entrada autorizada, los pasos de alarma y quién cierra. Deja un contacto disponible para dudas y señala áreas restringidas. Antes de programar fuera de horario deben confirmarse disponibilidad y permiso de acceso del edificio."
+            "question": "Vimos un detalle pendiente al abrir el negocio. ¿Cómo lo reportamos?",
+            "answer": "Envía a La Roca una foto del punto concreto, el área y la fecha de la visita. Indica cuándo lo detectaste y si el espacio se utilizó después de la limpieza. Esa información permite revisar lo ocurrido frente a las tareas acordadas y definir el siguiente paso."
+          },
+          "en": {
+            "question": "We noticed a missed detail when opening the business. How do we report it?",
+            "answer": "Send La Roca a photo of the specific spot, its location and the visit date. Explain when you noticed it and whether the space was used after cleaning. This helps review what happened against the agreed tasks and determine the next step."
           }
         },
         {
-          "en": {
-            "question": "Are paper products, soap, carpet extraction and floor finishing included?",
-            "answer": "Define each item separately. Cleaning labor, replenishing client-provided supplies, buying consumables and specialist floor work are different responsibilities. Check what the estimate covers and who provides supplies; a general office-cleaning quote should not be assumed to include all four."
-          },
           "es": {
-            "question": "¿Incluye papel, jabón, lavado de alfombra y acabado de pisos?",
-            "answer": "Define cada concepto por separado. Limpiar, reponer insumos del cliente, comprarlos y hacer trabajos especializados de piso son responsabilidades distintas. Revisa qué cubre el estimado y quién proporciona los materiales; una cotización de oficinas no incluye automáticamente todo eso."
+            "question": "Va a aumentar el personal. ¿Tenemos que cambiar todo el plan?",
+            "answer": "Primero identifica qué cambia: estaciones ocupadas, uso de baños, comidas en la cocineta o circulación. Comparte esos datos para revisar las tareas y la frecuencia de las áreas afectadas. Un cambio de ocupación puede requerir ajustar la propuesta, aunque los pies cuadrados sean los mismos."
+          },
+          "en": {
+            "question": "Our headcount is increasing. Do we need to change the whole plan?",
+            "answer": "First identify what changes: occupied desks, restroom use, meals in the kitchenette or foot traffic. Share those details to review tasks and frequency for affected areas. A change in occupancy may require a revised proposal even when square footage stays the same."
+          }
+        },
+        {
+          "es": {
+            "question": "El edificio ya limpia los pasillos. ¿Podemos contratar solo nuestra oficina?",
+            "answer": "Señala en un plano o recorrido qué zonas son de tu negocio y cuáles atiende la administración. Incluye accesos compartidos y baños si corresponde. Esa delimitación permite solicitar una propuesta para las áreas que necesitas sin duplicar responsabilidades."
+          },
+          "en": {
+            "question": "The building already cleans the hallways. Can we book only our office?",
+            "answer": "Use a floor plan or walkthrough to identify your business areas and those covered by building management. Include shared entrances and restrooms where relevant. This helps request a proposal for the areas you need without overlapping responsibilities."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Cómo distinguimos basura de reciclaje o cajas que queremos conservar?",
+            "answer": "Identifica los recipientes y la ruta de disposición autorizada por el edificio. Marca las cajas y materiales que deben conservarse y comunica cualquier separación especial. Acordar qué se retira evita que objetos útiles o documentos terminen en el flujo de residuos."
+          },
+          "en": {
+            "question": "How do we distinguish waste, recycling and boxes we want to keep?",
+            "answer": "Identify bins and the building’s authorized disposal route. Mark boxes and materials that should be kept and communicate any special separation instructions. Agreeing what gets removed helps keep useful items and documents out of the waste stream."
           }
         }
       ]
