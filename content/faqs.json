@@ -1155,48 +1155,68 @@
         "SCOPE-B"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Apartment Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza de apartamentos"
+        "es": "Dudas antes de recibir al equipo en tu apartamento",
+        "en": "Questions before welcoming the cleaning team"
       },
       "items": [
         {
-          "en": {
-            "question": "Does a small apartment always need a short cleaning visit?",
-            "answer": "Not necessarily. A small apartment with a heavily used kitchen, shower buildup or lots of belongings may need substantial detail work. Describe its condition and bathroom count as well as its size. A studio's floor area alone is not enough to estimate the work."
-          },
           "es": {
-            "question": "¿Un apartamento pequeño siempre se limpia rápido?",
-            "answer": "No necesariamente. Una cocina muy usada, residuos en la regadera o muchas pertenencias pueden requerir trabajo detallado aunque el espacio sea pequeño. Describe estado, baños y tamaño. La superficie de un estudio por sí sola no permite calcular todo el trabajo."
+            "question": "No estaré en casa. ¿Cómo autorizo la entrada?",
+            "answer": "Acuerda previamente un método de acceso permitido por el edificio y deja un contacto localizable. Revisa con recepción o administración si necesitan autorización del residente. Confirma con La Roca cómo se manejarán la entrada y el cierre antes de la visita."
+          },
+          "en": {
+            "question": "I will not be home. How do I authorize entry?",
+            "answer": "Agree in advance on an access method allowed by the building and leave a reachable contact. Check whether the front desk or management needs resident authorization. Confirm entry and lock-up arrangements with La Roca before the visit."
           }
         },
         {
-          "en": {
-            "question": "What should I tell the team about stairs, parking and building access?",
-            "answer": "During follow-up, give the unit, floor, permitted parking and gate or office check-in instructions. Mention elevator rules and any time limits for service providers. Agree on who opens the unit so an appointment is not lost to an access problem."
-          },
           "es": {
-            "question": "¿Qué debo avisar sobre escaleras, estacionamiento y acceso al edificio?",
-            "answer": "Durante el seguimiento indica unidad, piso, estacionamiento permitido y cómo entrar por portón u oficina. Menciona reglas de elevador y horarios para proveedores. Confirma quién abre el apartamento para evitar perder la cita por un problema de acceso."
+            "question": "Comparto apartamento. ¿Podemos limpiar solo las áreas comunes?",
+            "answer": "Identifica qué espacios quieren incluir y qué recámaras deben permanecer fuera del servicio. Asegúrense de que todos conozcan la visita y dejen disponibles las áreas acordadas. La cotización debe reflejar ese alcance, no asumir que se limpiará toda la unidad."
+          },
+          "en": {
+            "question": "I share an apartment. Can we book only the common areas?",
+            "answer": "Identify spaces to include and bedrooms that should remain outside the service. Make sure everyone knows about the visit and leaves agreed areas available. The quote should reflect that scope rather than assuming the entire unit will be cleaned."
           }
         },
         {
-          "en": {
-            "question": "Are dishes, laundry and closet organization included in apartment cleaning?",
-            "answer": "Treat them as separate requests. Washing dishes and clothes or sorting storage takes time beyond cleaning accessible surfaces. Clear the sink, floors and counters where possible, and ask whether any extra help can be added to the agreed scope before the visit."
-          },
           "es": {
-            "question": "¿Incluye lavar platos, ropa y organizar clósets?",
-            "answer": "Son solicitudes distintas. Lavar platos o ropa y ordenar pertenencias requiere tiempo adicional al de limpiar superficies accesibles. Despeja fregadero, pisos y cubiertas cuando sea posible y pregunta antes de la visita si puede añadirse ayuda extra al alcance acordado."
+            "question": "El edificio cambió el horario para proveedores. ¿Qué hago?",
+            "answer": "Avisa a La Roca en cuanto conozcas la nueva restricción. Comparte el horario permitido y solicita revisar la disponibilidad antes de dar por confirmado un cambio. Si ya reservaste elevador o acceso, revisa también esas autorizaciones."
+          },
+          "en": {
+            "question": "The building changed service-provider hours. What should I do?",
+            "answer": "Tell La Roca as soon as you learn about the restriction. Share permitted hours and ask to review availability before assuming a schedule change is confirmed. Review elevator or access bookings too, if applicable."
           }
         },
         {
-          "en": {
-            "question": "Should I request regular apartment cleaning or move-out cleaning?",
-            "answer": "Choose based on whether you still live there and what needs access. Regular cleaning maintains occupied rooms; move-out cleaning needs an empty-unit scope aligned with the property instructions. Mention cabinet and appliance interiors and any separate carpet requirement before comparing quotes."
-          },
           "es": {
-            "question": "¿Debo pedir limpieza regular de apartamento o limpieza de salida?",
-            "answer": "Depende de si todavía vives allí y de qué áreas deben quedar accesibles. La regular mantiene habitaciones ocupadas; la de salida define trabajo en la unidad vacía según instrucciones de la propiedad. Menciona gabinetes, electrodomésticos por dentro y requisitos separados de alfombra antes de comparar."
+            "question": "Mi arrendador exige una lista de entrega. ¿Puedo usarla para pedir la limpieza?",
+            "answer": "Comparte la lista antes de cotizar para identificar las tareas de limpieza y los requisitos que corresponden a mantenimiento u otros servicios. Confirma por escrito el alcance que se atenderá. La aceptación de la unidad y cualquier decisión sobre el depósito corresponden a la administración."
+          },
+          "en": {
+            "question": "My landlord requires a handover checklist. Can I use it to request cleaning?",
+            "answer": "Share it before requesting a quote to distinguish cleaning tasks from maintenance or other service requirements. Confirm the agreed cleaning scope in writing. Management is responsible for accepting the unit and deciding on the deposit."
+          }
+        },
+        {
+          "es": {
+            "question": "Acaban de fumigar mi apartamento. ¿Cuándo puedo pedir la limpieza?",
+            "answer": "Pide a la empresa de control de plagas sus instrucciones de reingreso y de limpieza, incluyendo superficies que deban quedar sin tocar. Compártelas con La Roca antes de programar. El momento adecuado depende del tratamiento aplicado, no de un plazo general."
+          },
+          "en": {
+            "question": "My apartment was just treated for pests. When can I arrange cleaning?",
+            "answer": "Ask the pest-control company for reentry and cleaning instructions, including surfaces that should remain untouched. Share these with La Roca before scheduling. Timing depends on the treatment used rather than a general waiting period."
+          }
+        },
+        {
+          "es": {
+            "question": "Noté un detalle pendiente después de la visita. ¿Cómo lo revisamos?",
+            "answer": "Envía una foto clara del área, la fecha del servicio y cuándo detectaste el detalle. Indica si el espacio se utilizó después de limpiar. Esa información permite revisar el caso según las tareas acordadas y definir el siguiente paso."
+          },
+          "en": {
+            "question": "I noticed a missed detail after the visit. How can we review it?",
+            "answer": "Send a clear photo of the area, the service date and when you noticed the detail. Explain whether the space was used after cleaning. This helps review the issue against agreed tasks and determine the next step."
           }
         }
       ]
