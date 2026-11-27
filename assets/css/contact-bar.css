@@ -1,0 +1,15 @@
+/* Shared mobile contact actions across every La Roca page. */
+.lr-contact-bar{display:none}
+@media(max-width:740px){
+ body{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))!important}
+ .lr-contact-bar{display:block;position:fixed;inset:auto 0 0;z-index:950;background:#fff;border-top:1px solid #e2ded5;padding:10px 12px calc(10px + env(safe-area-inset-bottom,0px));box-shadow:0 -5px 22px #102d4310}
+ .lr-contact-bar-inner{display:grid;grid-template-columns:52px minmax(0,1fr) 52px;gap:10px;align-items:center;max-width:680px;margin:auto}
+ .lr-contact-bar a{display:flex;align-items:center;justify-content:center;text-decoration:none;min-width:0;height:56px;box-sizing:border-box}
+ .lr-contact-bar .lr-contact-call{border:1.5px solid #102d43;border-radius:50%;width:52px;height:52px;color:#102d43;background:#fff}
+ .lr-contact-call svg{width:27px;height:27px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+ .lr-contact-bar .lr-contact-quote{border-radius:40px;background:#1d2b43;color:#fff;font:700 clamp(11.5px,3.3vw,17px)/1.25 Arial,Helvetica,sans-serif;text-align:center;padding:0 9px;box-shadow:0 7px 18px #b58a3b30;white-space:nowrap}
+ .lr-contact-bar .lr-contact-message{border-radius:50%;background:#109fa2;color:#fff;width:52px;height:52px}
+ .lr-contact-message svg{width:29px;height:29px;fill:currentColor}
+ .lr-contact-bar a:focus-visible{outline:3px solid #b58a3b;outline-offset:3px}
+ .lr-whatsapp-floating,.mobile{display:none!important}
+}
