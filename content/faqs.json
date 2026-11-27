@@ -830,48 +830,68 @@
         "STONE-C"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Post-Construction Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza posconstrucción"
+        "en": "Questions before a project handover",
+        "es": "Dudas al preparar la entrega de una obra"
       },
       "items": [
         {
           "en": {
-            "question": "When should the final cleaning be scheduled after a remodel?",
-            "answer": "Plan for after dust-producing work, repairs and contractor cleanup are complete. Paint, sealers and new flooring must be ready for their prescribed care. Keep water, power and access available, and leave time before the walkthrough or move-in for a final condition review."
+            "question": "Dust returned the next day. Does that mean it was not cleaned properly?",
+            "answer": "First check whether work continued in another room, materials were moved or dust entered from adjoining areas. Compare affected areas with the agreed scope and share photos with La Roca. Identifying the source helps determine which area needs further attention."
           },
           "es": {
-            "question": "¿Cuándo debe programarse la limpieza final después de remodelar?",
-            "answer": "Después de terminar trabajos con polvo, reparaciones y recogida del contratista. Pinturas, selladores y pisos nuevos deben permitir el cuidado indicado para cada acabado. Mantén agua, electricidad y acceso y deja tiempo antes de la entrega o mudanza para revisar el estado final."
+            "question": "El polvo reaparece al día siguiente. ¿Significa que no se limpió bien?",
+            "answer": "Antes de concluirlo, revisa si continuaron trabajos en otra habitación, si se movieron materiales o si entró polvo desde áreas contiguas. Compara las zonas afectadas con el alcance acordado y comparte fotos con La Roca. Identificar la fuente permite decidir qué área necesita otra intervención."
           }
         },
         {
           "en": {
-            "question": "Why is post-construction cleaning different from a deep clean?",
-            "answer": "Construction dust can reach cabinet interiors, trim, ledges and neighboring rooms, while a residential deep clean addresses household buildup. Explain the work performed, surfaces installed and remaining residue. The estimate should reflect the project condition rather than treating it as ordinary dusting."
+            "question": "There is a white film on the tile. Is it dust or grout residue?",
+            "answer": "A film that remains after loose dust is removed may need a different assessment. Share a photo and the tile, grout or sealer type with your installer and La Roca. Avoid applying a remover before identifying the material and its care instructions."
           },
           "es": {
-            "question": "¿Por qué la limpieza posconstrucción es distinta de una profunda?",
-            "answer": "El polvo de obra puede entrar en gabinetes y llegar a molduras, repisas y habitaciones cercanas; la profunda residencial atiende suciedad doméstica acumulada. Explica qué se hizo, qué materiales se instalaron y qué residuos quedan. La cotización debe reflejar el estado de la obra."
+            "question": "Quedó una película blanca en la loseta. ¿Es polvo o residuo de boquilla?",
+            "answer": "Una película que permanece después de retirar el polvo puede necesitar una valoración distinta. Comparte una foto y el tipo de loseta, boquilla o sellador con el instalador y con La Roca. No conviene aplicar un removedor sin identificar el material y sus instrucciones de cuidado."
           }
         },
         {
           "en": {
-            "question": "Does the service include hauling debris and scraping off paint or adhesive?",
-            "answer": "Those needs require individual review. Removing debris is different from cleaning finished surfaces, and scraping or strong solvents can damage new materials. Identify the residue and material and clarify the contractor's responsibilities before agreeing on the final cleaning scope."
+            "question": "Does surface cleaning also address dust inside the air ducts?",
+            "answer": "Cleaning accessible surfaces is different from cleaning inside ducts or HVAC equipment. If dust appears to come from vents, ask your contractor or an HVAC professional to check its source and the system’s condition before handover."
           },
           "es": {
-            "question": "¿Incluye retirar escombros y raspar pintura o adhesivo?",
-            "answer": "Son necesidades que deben revisarse por separado. Retirar escombros no es lo mismo que limpiar superficies terminadas; raspar o usar solventes fuertes puede dañar materiales nuevos. Identifica residuo y material y aclara las responsabilidades del contratista antes de acordar el alcance."
+            "question": "¿La limpieza también resuelve polvo dentro de los ductos del aire acondicionado?",
+            "answer": "Limpiar superficies accesibles no equivale a limpiar el interior de ductos o equipos. Si notas polvo saliendo de las rejillas, consulta al contratista o a un profesional de climatización para revisar el origen y el estado del sistema antes de organizar la entrega."
           }
         },
         {
           "en": {
-            "question": "Will one cleaning stay dust-free if workers return afterward?",
-            "answer": "Further sanding, cutting or repairs can leave new dust on cleaned surfaces. Coordinate the sequence with the contractor and identify any remaining punch-list work. If workers return after the final clean, reassess the affected areas rather than assuming the original visit covers another cleanup."
+            "question": "I found scratches or a stain after the dust was removed. What should I do?",
+            "answer": "Photograph the detail in good light and note its location before trying products or polishing. Share it with the installer to distinguish adhered dirt from a finish defect or damage. That distinction helps identify who should address it."
           },
           "es": {
-            "question": "¿Una sola limpieza mantendrá todo sin polvo si regresan los trabajadores?",
-            "answer": "Lijar, cortar o reparar de nuevo puede dejar polvo en superficies ya limpias. Coordina el orden con el contratista e identifica los trabajos pendientes. Si vuelven después de la limpieza final, revisa qué áreas se afectaron; no supongas que otra limpieza está incluida."
+            "question": "Encontré rayones o una mancha después de retirar el polvo. ¿Qué hago?",
+            "answer": "Fotografía el detalle con buena luz y anota la ubicación antes de probar productos o intentar pulirlo. Compártelo con el instalador para distinguir suciedad adherida de un defecto o daño del acabado. Esa diferencia ayuda a definir quién debe intervenir."
+          }
+        },
+        {
+          "en": {
+            "question": "My contractor changed the completion date. How should I handle cleaning?",
+            "answer": "Tell La Roca as soon as you have a revised date and explain which tasks remain. Ask to review availability before confirming movers or key handover. If only part of the property needs to be used, identify which areas can be completed and made accessible."
+          },
+          "es": {
+            "question": "Mi contratista cambió la fecha de entrega. ¿Cómo organizo la limpieza?",
+            "answer": "Avisa a La Roca en cuanto tengas una fecha nueva e indica qué trabajos siguen pendientes. Solicita revisar la disponibilidad antes de confirmar mudadores o entrega de llaves. Si necesitas usar solo una parte del inmueble, identifica qué áreas pueden quedar terminadas y accesibles."
+          }
+        },
+        {
+          "en": {
+            "question": "Should furniture arrive before post-construction cleaning?",
+            "answer": "Where possible, keep the areas being cleaned clear to allow access to floors and details. If furniture is already present, share photos and identify pieces in the work area so the scope can be defined around them and any moving coordinated with the property’s responsible person."
+          },
+          "es": {
+            "question": "¿Conviene llevar los muebles antes de la limpieza posconstrucción?",
+            "answer": "Cuando sea posible, deja libres las áreas que se van a limpiar para facilitar el acceso a pisos y detalles. Si ya hay muebles, comparte fotos y señala cuáles ocupan la zona intervenida; así se puede definir el alcance alrededor de ellos y coordinar cualquier movimiento con el responsable de la propiedad."
           }
         }
       ]
