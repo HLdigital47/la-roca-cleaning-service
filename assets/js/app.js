@@ -218,6 +218,7 @@ function quoteCityFromUrl() {
     : "Hello, I would like to request a cleaning estimate.";
   const url = "https://wa.me/" + number + "?text=" + encodeURIComponent(message);
   const wrapper = document.createElement("div");
+  wrapper.className = "lr-whatsapp-floating";
   wrapper.style.cssText = "position:fixed;right:18px;bottom:105px;z-index:1000";
   const preview = document.createElement("div");
   preview.hidden = true;
