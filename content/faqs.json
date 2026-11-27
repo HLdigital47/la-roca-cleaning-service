@@ -754,51 +754,72 @@
         "STR-C2"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Short-Term Rental Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza de alquileres temporales"
+        "en": "Airbnb cleaning in Houston: host questions",
+        "es": "Limpieza de Airbnb en Houston: preguntas de anfitriones"
       },
       "items": [
         {
           "en": {
-            "question": "Is a rental turnover the same as a regular house clean?",
-            "answer": "A turnover also needs the property reset for the next arrival: agreed bedding, towels, supplies and presentation, alongside cleaning. Define who handles each task and use a property-specific checklist. A normal occupied-home visit does not automatically include that guest-readiness work."
+            "question": "What does La Roca’s Airbnb cleaning include?",
+            "answer": "Cleaning of the agreed kitchen, bathrooms, bedrooms and living areas, plus sheet changes, laundering of bedding and towels, and photo reporting of damage noticed during the visit. We review the property layout, beds, laundry arrangements and presentation with you before scheduling."
           },
           "es": {
-            "question": "¿La limpieza entre huéspedes es igual a una limpieza regular de casa?",
-            "answer": "También requiere preparar la propiedad para la siguiente llegada: ropa de cama, toallas, suministros y presentación acordados, además de limpiar. Define quién hace cada tarea y usa una lista de esa propiedad. Una visita residencial habitual no incluye automáticamente toda esa preparación."
+            "question": "¿Qué incluye la limpieza de Airbnb de La Roca?",
+            "answer": "Limpieza de cocina, baños, habitaciones y áreas comunes acordadas, además de cambio de sábanas, lavado y secado de ropa de cama y toallas, y reporte con fotos de daños observados durante la visita. Antes de programar revisamos contigo la distribución, camas, lavandería y presentación del alojamiento."
           }
         },
         {
           "en": {
-            "question": "Can a turnover fit between a morning checkout and an afternoon check-in?",
-            "answer": "It depends on the property, its condition, access and laundry plan. Share the actual checkout and check-in times before confirming a visit. Allow room for late departures or extra cleaning; an available calendar slot alone does not establish that all turnover tasks fit."
+            "question": "Can you clean between checkout and a same-day check-in?",
+            "answer": "Share both times, the bed and bathroom count, and whether laundry will be done on site. La Roca reviews the available window before confirming. A clean spare set for each bed helps prepare rooms while the used set is being washed and dried."
           },
           "es": {
-            "question": "¿Cabe la limpieza entre una salida por la mañana y una entrada por la tarde?",
-            "answer": "Depende de la propiedad, su estado, el acceso y el plan de lavandería. Comparte las horas reales antes de confirmar la visita. Deja margen para salidas tardías o trabajo extra; un espacio libre en el calendario no demuestra que todas las tareas puedan completarse."
+            "question": "¿Pueden limpiar entre una salida y una entrada el mismo día?",
+            "answer": "Comparte ambas horas, la cantidad de camas y baños y si la lavandería se hará en la propiedad. La Roca revisa la ventana disponible antes de confirmar. Un juego limpio de repuesto por cama ayuda a preparar habitaciones mientras se lava y seca el juego utilizado."
           }
         },
         {
           "en": {
-            "question": "Who should wash the sheets and towels?",
-            "answer": "Assign washing, drying, replacement and storage explicitly. On-site laundry can take longer than the cleaning window, particularly with multiple loads. Having clean spare sets available reduces dependence on a single wash cycle. Confirm whether any laundry work is part of La Roca's agreed scope."
+            "question": "Do you change sheets and wash towels?",
+            "answer": "Yes. La Roca offers sheet changes and washing and drying of bedding and towels. Tell us how many beds and towel sets the property uses, where clean sets are stored and how laundry access will work so the visit can be planned around the next arrival."
           },
           "es": {
-            "question": "¿Quién debe lavar las sábanas y las toallas?",
-            "answer": "Define expresamente quién lava, seca, cambia y guarda. Varias cargas pueden tardar más que la ventana disponible de limpieza. Tener juegos limpios de repuesto reduce la dependencia de un solo ciclo. Confirma si algún trabajo de lavandería forma parte del alcance acordado con La Roca."
+            "question": "¿Cambian las sábanas y lavan las toallas?",
+            "answer": "Sí. La Roca ofrece cambio de sábanas y lavado y secado de ropa de cama y toallas. Indica cuántas camas y juegos de toallas utiliza el alojamiento, dónde guardas los juegos limpios y cómo será el acceso a la lavandería para organizar la visita según la próxima llegada."
           }
         },
         {
           "en": {
-            "question": "What should my turnover checklist say about supplies and damage?",
-            "answer": "State where owner-provided supplies are kept, target quantities and who is responsible for replenishing them. Separate cleaning tasks from documenting missing or damaged items. Agree on how concerns should be reported and who decides the next step before another guest arrives."
+            "question": "How will I find out if you notice damage?",
+            "answer": "La Roca reports damage noticed during cleaning with photographs. Before the first visit, agree on the contact who should receive the report. Include photos of any existing marks in your property instructions so the team has a reference."
           },
           "es": {
-            "question": "¿Qué debe decir mi lista sobre suministros y daños?",
-            "answer": "Indica dónde están los insumos del propietario, las cantidades necesarias y quién los repone. Separa tareas de limpieza de documentar artículos faltantes o dañados. Acuerda cómo comunicar incidencias y quién decide qué hacer antes de que llegue el siguiente huésped."
+            "question": "¿Cómo me avisan si encuentran algún daño?",
+            "answer": "La Roca reporta con fotografías los daños que observa durante la limpieza. Antes de la primera visita, acuerda quién recibirá el reporte. Comparte también fotos de marcas existentes en las instrucciones de la propiedad para que el equipo tenga una referencia."
+          }
+        },
+        {
+          "en": {
+            "question": "What should I send before the first cleaning?",
+            "answer": "Start with the property address, checkout and check-in times, bed and bathroom counts, entry instructions and laundry arrangements. Photos showing your preferred bed and towel setup help explain how you want the property presented."
+          },
+          "es": {
+            "question": "¿Qué debo compartir antes de la primera limpieza?",
+            "answer": "Empieza por la dirección, horarios de salida y entrada, cantidad de camas y baños, instrucciones de acceso y organización de la lavandería. Las fotos de cómo quieres presentar camas y toallas ayudan a explicar la preparación del alojamiento."
+          }
+        },
+        {
+          "en": {
+            "question": "When does a rental need deep cleaning instead of a turnover?",
+            "answer": "A turnover focuses on cleaning and preparing the accommodation between stays. Review a separate deep clean when grease, bathroom residue or dust in less frequently reached areas needs more time than the normal visit. Identify those areas when planning a gap between bookings."
+          },
+          "es": {
+            "question": "¿Cuándo necesita limpieza profunda además de la limpieza entre huéspedes?",
+            "answer": "La limpieza entre huéspedes se enfoca en limpiar y preparar el alojamiento entre estancias. Revisa una limpieza profunda aparte cuando grasa, residuos de baño o polvo en zonas menos accesibles requieren más tiempo que la visita habitual. Identifica esas áreas al planear un espacio entre reservas."
           }
         }
-      ]
+      ],
+      "service_confirmation": "Client confirmed sheet changes, bedding/towel washing and drying, and damage reporting with photos on 2026-11-27."
     },
     "/services/post-construction-cleaning/": {
       "sources": [
