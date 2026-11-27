@@ -188,48 +188,58 @@
         "SUG-M"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Cleaning in Sugar Land",
-        "es": "Preguntas frecuentes sobre limpieza en Sugar Land"
+        "es": "Preguntas para coordinar tu limpieza en Sugar Land",
+        "en": "Questions about coordinating cleaning in Sugar Land"
       },
       "items": [
         {
-          "en": {
-            "question": "Should I compare Sugar Land cleaning prices by the visit or by the hour?",
-            "answer": "First establish whether the quote buys a defined checklist or a time block. Also ask how many cleaners are assigned: two people working two hours provide a different amount of labor from one person working two hours. Compare the same tasks and pricing basis."
-          },
           "es": {
-            "question": "¿Debo comparar los precios de limpieza en Sugar Land por visita o por hora?",
-            "answer": "Primero identifica si la cotización cubre una lista de tareas o un bloque de tiempo. Pregunta cuántas personas trabajarán: dos personas durante dos horas aportan más trabajo que una persona durante dos horas. Compara las mismas tareas y la misma forma de cobro."
+            "question": "¿Qué hago si la visita coincide con una entrega de muebles o instalación?",
+            "answer": "Avisa qué habitaciones se ocuparán y durante cuánto tiempo. La entrega puede bloquear superficies o volver a ensuciar áreas terminadas. Solicita revisar el orden del trabajo o la fecha antes de asumir que ambas actividades pueden realizarse al mismo tiempo."
+          },
+          "en": {
+            "question": "What if cleaning overlaps with furniture delivery or installation?",
+            "answer": "Explain which rooms will be occupied and for how long. Deliveries can block surfaces or leave completed areas dirty again. Ask to review the order of work or the date before assuming both activities can happen together."
           }
         },
         {
-          "en": {
-            "question": "Can the estimate focus on the downstairs rooms I actually use?",
-            "answer": "Describe the exact rooms, bathrooms, hallways and stairs you want included so La Roca can review the scope. Bedrooms that stay closed and unused should be identified separately. A partial-home request needs its own estimate rather than a guessed percentage of a whole-house price."
-          },
           "es": {
-            "question": "¿Puedo pedir una cotización solo para la planta baja que sí utilizo?",
-            "answer": "Indica las habitaciones, baños, pasillos y escaleras que quieres incluir para que La Roca revise el alcance. Señala por separado las recámaras cerradas o sin uso. Una solicitud parcial necesita su propia cotización; no se calcula suponiendo un porcentaje del precio de toda la casa."
+            "question": "No conozco el material de mi encimera. ¿Cómo lo identifico antes de limpiar?",
+            "answer": "Busca la factura, ficha del producto o información del instalador. Comparte lo que tengas con La Roca y señala cualquier tratamiento previo. No conviene decidir un producto solo por el color o apariencia de la superficie."
+          },
+          "en": {
+            "question": "I do not know my countertop material. How can I identify it before cleaning?",
+            "answer": "Look for the invoice, product information or installer details. Share what you have with La Roca and mention any previous treatment. Choosing a product based only on the surface color or appearance is not a good approach."
           }
         },
         {
-          "en": {
-            "question": "How do I know whether biweekly or monthly cleaning is enough?",
-            "answer": "Notice what becomes difficult between visits. If bathrooms, kitchen grease or pet hair need substantial work before the next appointment, a shorter interval may fit better. If you keep those areas maintained yourself, a monthly visit may suit your routine. Compare the proposed task lists too."
-          },
           "es": {
-            "question": "¿Cómo sé si me conviene limpieza quincenal o mensual?",
-            "answer": "Observa qué se complica entre visitas. Si baños, grasa de cocina o pelo de mascotas requieren mucho trabajo antes de la siguiente cita, puede convenir un intervalo menor. Si tú mantienes esas áreas, una visita mensual puede ajustarse mejor. Compara también las listas de tareas propuestas."
+            "question": "¿Puedo cambiar las prioridades si viene familia a quedarse unos días?",
+            "answer": "Comparte con anticipación las habitaciones y baños que pasarán a utilizarse, junto con los detalles que deseas añadir. Pide confirmar el alcance y cualquier ajuste necesario antes de la visita. La lista habitual no cambia automáticamente porque haya más ocupantes."
+          },
+          "en": {
+            "question": "Can I change priorities when family comes to stay for a few days?",
+            "answer": "Share ahead of time which bedrooms and bathrooms will be in use and which details you want to add. Ask to confirm the scope and any necessary adjustment before the visit. The regular checklist does not change automatically when occupancy increases."
           }
         },
         {
-          "en": {
-            "question": "Should cleaning happen before or after the movers at my Sugar Land property?",
-            "answer": "For an empty-home handover, arrange cleaning after loading and moving work is finished. Movers can leave floor marks and uncover dust behind furniture. Keep time before the inspection for a final review, and use the buyer's or landlord's actual instructions to set priorities."
-          },
           "es": {
-            "question": "¿La limpieza de mi propiedad en Sugar Land debe hacerse antes o después de la mudanza?",
-            "answer": "Para entregar una vivienda vacía, programa después de terminar de cargar y mover. La mudanza puede dejar marcas en el piso y descubrir polvo detrás de muebles. Deja tiempo antes de la revisión final y usa las instrucciones reales del comprador o arrendador para definir prioridades."
+            "question": "¿Qué información necesita la administración para permitir la entrada del equipo?",
+            "answer": "Consulta si requieren registro de proveedor, documentación de seguro, horario de entrada o autorización del residente. Comparte esos requisitos con La Roca antes de confirmar la cita. No publiques códigos de acceso en la lista descargable; acuerda su entrega por un medio privado."
+          },
+          "en": {
+            "question": "What information might building management need to let the team in?",
+            "answer": "Ask whether they require vendor registration, insurance documentation, entry hours or resident authorization. Share those requirements with La Roca before confirming the appointment. Keep entry codes out of the downloadable checklist and arrange to share them privately."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Cómo retomo el servicio después de varias semanas sin limpieza?",
+            "answer": "Describe cuánto tiempo pasó y qué áreas se utilizaron durante ese período. Si hubo visitas, reparaciones o acumulación, comparte fotos y solicita revisar el alcance antes de retomar la rutina anterior. Puede ser necesario valorar una atención inicial distinta."
+          },
+          "en": {
+            "question": "How do I restart service after several weeks without cleaning?",
+            "answer": "Explain how much time has passed and which areas were used. If there were visitors, repairs or buildup, share photos and ask to review the scope before resuming the previous routine. Different initial attention may need to be assessed."
           }
         }
       ]
