@@ -1227,48 +1227,58 @@
         "STA-B"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Office Cleaning",
-        "es": "Preguntas frecuentes sobre limpieza de oficinas"
+        "es": "Situaciones que pueden surgir entre visitas",
+        "en": "Situations that may arise between visits"
       },
       "items": [
         {
-          "en": {
-            "question": "How often does our office need cleaning?",
-            "answer": "Consider how many people use it, customer visits, restroom traffic, shared food areas and how quickly bins fill. Separate everyday upkeep from scheduled detail work. A small busy office may need more frequent attention than a larger lightly occupied space; floor area is only one factor."
-          },
           "es": {
-            "question": "¿Con qué frecuencia necesita limpieza nuestra oficina?",
-            "answer": "Considera cuántas personas la usan, visitas de clientes, baños, áreas de comida y qué tan rápido se llenan los botes. Separa mantenimiento diario de trabajo detallado programado. Una oficina pequeña muy concurrida puede necesitar más frecuencia que una grande con poca ocupación."
+            "question": "Una sala quedó cerrada el día de la limpieza. ¿Se atiende automáticamente después?",
+            "answer": "Informa qué sala no estuvo disponible y cuándo podrá abrirse. Solicita revisar cómo incorporar esa área a la próxima visita o si requiere otra coordinación. No des por confirmado un regreso fuera de la cita acordada."
+          },
+          "en": {
+            "question": "A room was locked during cleaning. Is it automatically handled later?",
+            "answer": "Explain which room was unavailable and when it can be opened. Ask how it can be incorporated into the next visit or whether separate coordination is needed. Do not assume a return outside the agreed appointment is confirmed."
           }
         },
         {
-          "en": {
-            "question": "Will cleaners move paperwork and clean computers on every desk?",
-            "answer": "Define a clear-desk rule and identify areas not to touch. Removing papers, handling confidential files and cleaning electronics should not be assumed to be part of routine dusting. Agree on accessible surfaces and any equipment-specific instructions before the service starts."
-          },
           "es": {
-            "question": "¿El equipo moverá documentos y limpiará las computadoras de cada escritorio?",
-            "answer": "Define qué superficies deben quedar despejadas y qué áreas no deben tocarse. Mover papeles, manejar archivos confidenciales y limpiar equipos electrónicos no debe darse por incluido en quitar polvo. Acuerda superficies accesibles e instrucciones de equipos antes de comenzar."
+            "question": "Varias empresas comparten la oficina. ¿Quién debe dar instrucciones?",
+            "answer": "Designen un contacto para las áreas comunes y confirmen qué espacios pertenecen a cada empresa. Ese contacto puede consolidar prioridades y autorizaciones, evitando instrucciones contradictorias durante la visita."
+          },
+          "en": {
+            "question": "Several businesses share the office. Who should give instructions?",
+            "answer": "Designate a contact for common areas and confirm which rooms belong to each business. That contact can consolidate priorities and permissions to avoid conflicting instructions during the visit."
           }
         },
         {
-          "en": {
-            "question": "Does restroom cleaning also include supplying soap, paper and liners?",
-            "answer": "Cleaning fixtures, checking dispensers, refilling client-provided supplies and purchasing stock are separate tasks. List which are required, where supplies are stored and who monitors quantities. This avoids an office looking clean while essentials are missing or responsibilities remain unclear."
-          },
           "es": {
-            "question": "¿Limpiar los baños incluye suministrar jabón, papel y bolsas?",
-            "answer": "Limpiar elementos, revisar dispensadores, reponer insumos del cliente y comprar existencias son tareas distintas. Indica cuáles se requieren, dónde se guardan y quién revisa cantidades. Así se evita que el baño esté limpio pero sin materiales básicos o con responsabilidades poco claras."
+            "question": "Cambiamos de administrador. ¿Qué información conviene entregar al nuevo responsable?",
+            "answer": "Transfiere la lista de tareas vigente, horarios, áreas restringidas, instrucciones de acceso y contacto de La Roca. Revisa autorizaciones de entrada con el edificio y confirma quién aprobará cambios de alcance o fecha."
+          },
+          "en": {
+            "question": "Our office manager changed. What should the new contact receive?",
+            "answer": "Pass along the current task list, schedule, restricted areas, access instructions and La Roca contact details. Review building entry authorizations and confirm who will approve scope or date changes."
           }
         },
         {
-          "en": {
-            "question": "Can we start with one office cleaning before deciding on a schedule?",
-            "answer": "Request an initial scope that reflects the office's current condition and priority areas. Then compare the maintenance tasks and desired frequency separately. An initial cleanup may involve buildup or details that do not need repeating at every subsequent visit."
-          },
           "es": {
-            "question": "¿Podemos empezar con una limpieza antes de decidir la frecuencia?",
-            "answer": "Solicita un alcance inicial según el estado actual de la oficina y sus prioridades. Después compara por separado las tareas de mantenimiento y la frecuencia deseada. La primera limpieza puede atender acumulación o detalles que no necesitan repetirse en cada visita siguiente."
+            "question": "Encontramos una caja sin etiqueta junto al bote. ¿Cómo evitamos que se deseche?",
+            "answer": "Identifica claramente las cajas que deben conservarse y define un punto separado para materiales que sí se retiran. Comunica la regla al contacto del servicio; estar junto a un bote no debería ser la única señal para decidir qué es basura."
+          },
+          "en": {
+            "question": "There is an unmarked box beside a bin. How do we avoid it being discarded?",
+            "answer": "Clearly identify boxes to keep and establish a separate point for materials intended for removal. Communicate the rule to the service contact; proximity to a bin should not be the only signal for deciding what is waste."
+          }
+        },
+        {
+          "es": {
+            "question": "Hay una filtración o un equipo derramó líquido. ¿La visita habitual puede resolverlo?",
+            "answer": "Primero comunica el incidente al responsable del edificio o del equipo para controlar la causa. Comparte con La Roca qué pasó y qué áreas quedaron afectadas, de modo que se valore el trabajo antes de tratarlo como una tarea de mantenimiento normal."
+          },
+          "en": {
+            "question": "There was a leak or equipment spilled liquid. Can the usual visit handle it?",
+            "answer": "First notify the building or equipment contact to control the source. Tell La Roca what happened and which areas were affected so the work can be assessed before treating it as an ordinary upkeep task."
           }
         }
       ]
