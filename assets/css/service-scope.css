@@ -43,7 +43,22 @@
  .lr-layout main .lr-scope-home h2{font-size:28px}
 }
 
-/* Preserve the full frame of La Roca’s original photographs. */
-.lr-layout .lr-scope-photo img{max-height:500px;object-fit:contain;object-position:center;background:#f2efe8}
-.lr-layout .lr-scope-extra-photo{width:100%;height:220px;object-fit:contain;object-position:center;background:#f2efe8;border-radius:12px;margin:0 0 18px}
-@media(max-width:700px){.lr-layout .lr-scope-photo img{max-height:440px}}
+/* Original photographs stand alone: no letterbox background or card frame. */
+.lr-layout .lr-scope-copy ol{gap:10px}
+.lr-layout .lr-scope-copy li{font-size:16px;line-height:1.55;grid-template-columns:26px minmax(0,1fr);gap:10px}
+.lr-layout .lr-scope-copy li::before{width:25px;height:25px;font-size:12px}
+.lr-layout .lr-scope-photo{position:relative;justify-self:center;width:fit-content;max-width:100%;background:transparent}
+.lr-layout .lr-scope-photo img{width:auto;max-width:100%;height:auto;max-height:610px;object-fit:contain;background:transparent;border-radius:0}
+.lr-layout .lr-room-marker{position:absolute;transform:translate(-50%,-50%);display:grid;place-items:center;width:27px;height:27px;border-radius:50%;background:#b58a3b;color:#fff;font:700 13px/1 Arial,sans-serif;box-shadow:0 0 0 4px #b58a3b40;pointer-events:none}
+.lr-layout .lr-scope-detail{margin-top:36px;display:flex;justify-content:center}
+.lr-layout .lr-scope-detail figure{margin:0;max-width:300px}
+.lr-layout .lr-oven-detail{width:100%;height:auto;background:transparent;border-radius:0}
+.lr-layout .lr-scope-detail figcaption{font-size:13px;color:#52616b;margin-top:10px}
+.lr-layout .lr-scope-extras{background:transparent;border:0;padding-top:16px}
+.lr-layout .lr-extras-panel{padding:32px 38px;border-radius:12px;background:linear-gradient(115deg,#102d43,#1d3d52 58%,#785d30);color:#fff;overflow:hidden}
+.lr-layout main .lr-extras-panel h2{color:#fff;font:700 30px/1.2 Arial,sans-serif;letter-spacing:0;margin:0 0 14px}
+.lr-layout .lr-extras-panel p{color:#fff;opacity:.88;font-size:16px;margin:0 0 26px}
+.lr-layout .lr-extras-panel ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-flow:column;grid-template-rows:repeat(3,auto);gap:22px 42px;max-width:760px}
+.lr-layout .lr-extras-panel li{display:flex;align-items:center;gap:16px;font-size:16px;line-height:1.5}
+.lr-layout .lr-extras-panel svg{width:24px;height:24px;flex:none;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linejoin:round;stroke-linecap:round}
+@media(max-width:700px){.lr-layout .lr-scope-photo img{max-height:none;width:100%}.lr-layout .lr-extras-panel{padding:26px 22px}.lr-layout .lr-extras-panel ul{grid-template-columns:1fr;grid-auto-flow:row;grid-template-rows:none;gap:20px}}
