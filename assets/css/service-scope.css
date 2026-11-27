@@ -62,3 +62,7 @@
 .lr-layout .lr-extras-panel li{display:flex;align-items:center;gap:16px;font-size:16px;line-height:1.5}
 .lr-layout .lr-extras-panel svg{width:24px;height:24px;flex:none;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linejoin:round;stroke-linecap:round}
 @media(max-width:700px){.lr-layout .lr-scope-photo img{max-height:none;width:100%}.lr-layout .lr-extras-panel{padding:26px 22px}.lr-layout .lr-extras-panel ul{grid-template-columns:1fr;grid-auto-flow:row;grid-template-rows:none;gap:20px}}
+
+/* White numbered circles requested by the client. */
+.lr-layout .lr-scope-copy li::before{background:#fff;color:#102d43;border:1px solid #d8d3c9;box-sizing:border-box}
+.lr-layout .lr-room-marker{background:#fff;color:#102d43;box-shadow:0 0 0 3px #ffffff70;border:1px solid #d8d3c9;box-sizing:border-box}
