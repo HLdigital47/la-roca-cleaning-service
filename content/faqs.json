@@ -62,48 +62,58 @@
         "KAT-M"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Cleaning in Katy",
-        "es": "Preguntas frecuentes sobre limpieza en Katy"
+        "es": "Dudas prácticas antes de una limpieza en Katy",
+        "en": "Practical questions before cleaning in Katy"
       },
       "items": [
         {
-          "en": {
-            "question": "I just bought a house in Katy. Should I clean before moving my furniture in?",
-            "answer": "An empty house gives access to cabinet interiors, closet shelves and floor edges that furniture will cover. Plan the cleaning after repairs or painting and before delivery day. Identify which appliances stay and which interiors need attention when defining the job."
-          },
           "es": {
-            "question": "Acabo de comprar una casa en Katy. ¿Conviene limpiarla antes de meter los muebles?",
-            "answer": "La casa vacía permite acceder a gabinetes, repisas de clósets y bordes del piso que después quedarán cubiertos. Programa la limpieza después de reparaciones o pintura y antes de recibir los muebles. Define qué electrodomésticos se quedan y cuáles necesitan limpieza interior."
+            "question": "¿Qué pasa si los mudadores cambian la fecha después de pedir la limpieza?",
+            "answer": "Avisa a La Roca en cuanto conozcas el cambio y señala cuándo quedará realmente vacía la vivienda. Solicita confirmar una nueva disponibilidad antes de mover la entrega de llaves. Si solo una parte estará libre, identifica esas áreas para revisar si puede organizarse un alcance distinto."
+          },
+          "en": {
+            "question": "What if my movers change the date after I request cleaning?",
+            "answer": "Tell La Roca as soon as you know and explain when the home will actually be empty. Ask to confirm new availability before changing the key handover. If only part of the property will be clear, identify those areas to discuss a different scope."
           }
         },
         {
-          "en": {
-            "question": "Is laundry and closet organization part of house cleaning in Katy?",
-            "answer": "Cleaning removes dust and dirt from accessible surfaces; organizing decides where belongings go. Laundry also requires washing, drying and folding time. If those are your main needs, describe them separately instead of assuming a standard house-cleaning visit covers them."
-          },
           "es": {
-            "question": "¿La limpieza de casa en Katy incluye lavar ropa y organizar clósets?",
-            "answer": "La limpieza retira polvo y suciedad de superficies accesibles; organizar implica decidir dónde guardar las cosas. Lavar ropa también requiere tiempo de lavado, secado y doblado. Si eso es lo que necesitas, indícalo por separado; no lo des por incluido en una limpieza regular."
+            "question": "La casa sigue ocupada por el vendedor. ¿Puedo coordinar la limpieza antes del cierre?",
+            "answer": "Solicita al responsable de la propiedad autorización de acceso y confirma cuándo saldrán las pertenencias. Una fecha de cierre no siempre significa que la vivienda estará vacía ese mismo día. Comparte con La Roca la fecha real de acceso antes de fijar la visita."
+          },
+          "en": {
+            "question": "The seller still occupies the home. Can I arrange cleaning before closing?",
+            "answer": "Obtain access permission from the person responsible for the property and confirm when belongings will be removed. A closing date does not always mean the home will be empty that day. Share the actual access date with La Roca before scheduling the visit."
           }
         },
         {
-          "en": {
-            "question": "Does a two-story house need a different estimate from a one-story home?",
-            "answer": "Include both floors, stairs and the bathrooms used on each level in the description. If only one floor needs cleaning, say so before comparing prices. The area actually cleaned and its condition matter more than the total size shown on a property listing."
-          },
           "es": {
-            "question": "¿Se cotiza diferente una casa de dos pisos que una de un piso?",
-            "answer": "Incluye ambos niveles, las escaleras y los baños utilizados en cada planta. Si solo necesitas limpiar un piso, acláralo antes de comparar precios. Importan la superficie que se limpiará y su estado, no únicamente los pies cuadrados anunciados de la propiedad."
+            "question": "¿Cómo pido que no se entre a una habitación o no se muevan ciertos objetos?",
+            "answer": "Identifica las habitaciones excluidas y los objetos que deben permanecer en su sitio antes de la visita. Guarda piezas delicadas y documentos, y deja un contacto disponible para resolver dudas. La lista acordada debe distinguir las áreas incluidas de las restringidas."
+          },
+          "en": {
+            "question": "How do I ask the team to avoid a room or leave certain objects untouched?",
+            "answer": "Identify excluded rooms and objects that must stay in place before the visit. Put delicate items and documents away and leave a contact available for questions. The agreed checklist should distinguish included areas from restricted ones."
           }
         },
         {
-          "en": {
-            "question": "My Katy landlord gave me a move-out checklist. What should I do with it?",
-            "answer": "Use that checklist to define the cleaning before booking. Mark cabinet interiors, oven, refrigerator, blinds and any separate carpet requirement. Schedule after belongings are removed, keep utilities available for the work and leave time before returning the keys."
-          },
           "es": {
-            "question": "Mi arrendador en Katy me dio una lista de entrega. ¿Qué hago con ella?",
-            "answer": "Úsala para definir la limpieza antes de contratar. Marca interiores de gabinetes, horno, refrigerador, persianas y cualquier requisito separado para alfombras. Programa después de retirar tus pertenencias, mantén disponibles los servicios necesarios y deja tiempo antes de devolver las llaves."
+            "question": "¿Qué hago si una mancha sigue visible aunque la superficie esté limpia?",
+            "answer": "Indica dónde está, el material y cuánto tiempo lleva ahí. Una marca puede corresponder a desgaste, decoloración o daño del acabado y necesitar una valoración diferente. Comparte una foto antes de probar otro producto o pedir un tratamiento más fuerte."
+          },
+          "en": {
+            "question": "What if a mark remains visible even after the surface is clean?",
+            "answer": "Identify the location, material and how long the mark has been there. A mark can be wear, discoloration or finish damage that needs a different assessment. Share a photo before trying another product or asking for stronger treatment."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Puedo coordinar la limpieza de una propiedad en Katy si vivo en otra ciudad?",
+            "answer": "Designa un contacto autorizado para el acceso y comparte las tareas y las reglas de la propiedad con anticipación. Acuerda quién puede resolver dudas durante la visita y cómo se revisará el trabajo. La confirmación del servicio debe incluir disponibilidad y acceso, aunque no estés presente."
+          },
+          "en": {
+            "question": "Can I coordinate cleaning for a Katy property while living in another city?",
+            "answer": "Designate an authorized access contact and share tasks and property rules ahead of time. Agree on who can answer questions during the visit and how the work will be reviewed. Service confirmation should cover availability and access even when you are not present."
           }
         }
       ]
