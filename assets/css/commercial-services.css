@@ -11,3 +11,5 @@
 @media(max-width:700px){.lr-commercial-page .co-hero{padding:30px 0 38px}.lr-commercial-page .co-work-photo{max-width:500px;width:100%;margin:auto}.lr-commercial-page .co-work-photo img{aspect-ratio:4/3}.lr-commercial-page .co-city-panel{padding:24px}}
 
 .lr-commercial-page .co-related .co-card-link>img{object-position:center}.lr-commercial-page .co-related article:nth-child(2) img{object-position:50% 35%}.lr-commercial-page .co-related article:nth-child(3) img{object-position:center}
+
+.lr-commercial-page .co-related .co-card-link>img{object-fit:contain;object-position:center;aspect-ratio:3/2;background:#f5f2ea;padding:12px;box-sizing:border-box}.lr-commercial-page .co-related article:nth-child(2) img,.lr-commercial-page .co-related article:nth-child(3) img{object-position:center}
