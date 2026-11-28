@@ -246,63 +246,71 @@
     },
     "/service-areas/stafford-tx/": {
       "sources": [
-        "STA-B",
-        "OFF-B",
-        "SCOPE-B"
+        "STF-QUESTIONS-20261127"
       ],
       "heading": {
-        "es": "Dudas de quienes coordinan una propiedad en Stafford",
-        "en": "Questions from people coordinating a Stafford property"
+        "es": "Lo que quieres saber antes de contratar limpieza en Stafford",
+        "en": "What to know before hiring cleaning in Stafford"
       },
       "items": [
         {
           "es": {
-            "question": "¿Pueden enviarse fotos para cotizar sin mostrar personas ni información privada?",
-            "answer": "Sí, puedes compartir imágenes del área que necesita limpieza. Retira de la toma documentos, pantallas, fotografías personales y códigos de acceso. Una vista general y un detalle de la suciedad suelen explicar mejor el trabajo que una imagen llena de objetos ajenos a la solicitud."
+            "question": "Me da pena el desorden de mi casa. ¿Tengo que limpiarla antes de pedir ayuda?",
+            "answer": "No necesitas dejar la casa limpia para explicar lo que necesitas. Describe con sinceridad las áreas que te preocupan y qué superficies están bloqueadas por objetos. Si puedes, aparta ropa, documentos y pertenencias del piso; si no, coméntalo desde el principio para distinguir limpieza de organización y valorar un trabajo realista."
           },
           "en": {
-            "question": "Can I send quote photos without showing people or private information?",
-            "answer": "Yes, you can share images of the areas needing cleaning. Keep documents, screens, personal photographs and entry codes out of the shot. An overall view and a close-up of the buildup often explain the work better than a photo filled with unrelated belongings."
+            "question": "I am embarrassed by the mess. Do I have to clean before asking for help?",
+            "answer": "You do not need a clean home to explain what you need. Describe the areas that concern you and which surfaces are blocked by belongings. If possible, pick up clothes, documents and items from the floor. If that is difficult, say so from the start to distinguish cleaning from organizing and assess a realistic scope."
           }
         },
         {
           "es": {
-            "question": "El inquilino todavía tiene objetos en la propiedad. ¿Se consideran basura?",
-            "answer": "No los identifiques como residuos solo porque la vivienda vaya a entregarse. Define con el responsable de la propiedad qué pertenencias se conservan, quién las retira y qué superficies quedarán disponibles. Comunica esas decisiones antes de la limpieza para evitar instrucciones ambiguas."
+            "question": "¿Cuántas personas vendrán y cuánto tiempo debo reservar para la limpieza?",
+            "answer": "Solicita confirmar ambos datos para tu visita en Stafford. El tiempo depende de las tareas, la acumulación y el acceso, además del tamaño de la propiedad. Aclara también si te cotizan una lista de tareas o un bloque de horas: dos personas durante dos horas representan cuatro horas de trabajo, aunque transcurran dos horas en tu casa."
           },
           "en": {
-            "question": "The tenant still has belongings in the property. Are they considered trash?",
-            "answer": "Do not label belongings as waste simply because the home is being handed over. Define with the property contact what stays, who removes it and which surfaces will be accessible. Communicate those decisions before cleaning to avoid unclear instructions."
+            "question": "How many people will come, and how much time should I allow?",
+            "answer": "Ask to confirm both details for your Stafford visit. Timing depends on tasks, buildup and access as well as property size. Also clarify whether the quote covers a task list or a block of hours: two people working for two hours provide four labor hours, although only two hours pass in your home."
           }
         },
         {
           "es": {
-            "question": "Movimos un mueble y apareció suciedad que no estaba contemplada. ¿Qué hacemos?",
-            "answer": "Comparte la ubicación y una foto con La Roca, e indica si el mueble permanecerá fuera de esa área. Solicita revisar la tarea antes de asumir que puede incorporarse al mismo precio o tiempo de la visita. La superficie debe quedar accesible para valorar el trabajo."
+            "question": "Tengo un presupuesto limitado. ¿Puedo empezar por cocina y baños?",
+            "answer": "Indica tu presupuesto y ordena las áreas por importancia al solicitar la cotización. Pide revisar si es viable atender esa selección y qué quedaría fuera; una primera limpieza con acumulación puede necesitar más trabajo que una visita de mantenimiento. Confirma las tareas y el precio antes de programar, sin asumir que un bloque corto alcanza para toda la vivienda."
           },
           "en": {
-            "question": "We moved furniture and found dirt outside the original scope. What should we do?",
-            "answer": "Share the location and a photo with La Roca, and explain whether the furniture will remain out of the area. Ask to review the task rather than assuming it can be added at the same price or within the same visit time. The surface must be accessible to assess the work."
+            "question": "I have a limited budget. Can I start with the kitchen and bathrooms?",
+            "answer": "Share your budget and rank areas by importance when requesting a quote. Ask whether that selection is practical and what would remain outside the scope. A first visit with buildup can require more work than maintenance. Confirm tasks and price before scheduling rather than assuming a short time block covers the whole home."
           }
         },
         {
           "es": {
-            "question": "Tengo dos locales en el mismo edificio. ¿Puedo tratarlos como una sola solicitud?",
-            "answer": "Puedes explicar ambos en el seguimiento, pero identifica cada unidad, su tamaño, uso, baños y acceso. Aunque compartan edificio, sus tareas y horarios pueden ser distintos. Solicita que el alcance deje claro qué corresponde a cada local antes de confirmar."
+            "question": "¿Puedo pedir que venga la misma persona en las siguientes visitas?",
+            "answer": "Puedes expresar esa preferencia al consultar la limpieza recurrente. Solicita que La Roca confirme si puede mantener el mismo equipo para tu horario y cómo se coordinarían los cambios. Acuerda quién está autorizado a entrar y no des por hecho que la asignación será idéntica en todas las visitas."
           },
           "en": {
-            "question": "I have two suites in the same building. Can I include them in one request?",
-            "answer": "You can explain both during follow-up, but identify each unit, its size, use, bathrooms and access. Even in the same building, tasks and hours can differ. Ask for a scope that makes clear what applies to each suite before confirming."
+            "question": "Can I ask for the same person on future visits?",
+            "answer": "You can express that preference when discussing recurring cleaning. Ask La Roca to confirm whether the same team can be kept for your schedule and how changes would be coordinated. Agree on who is authorized to enter rather than assuming the assignment will be identical at every visit."
           }
         },
         {
           "es": {
-            "question": "¿Qué hago si encontramos cajas o papeles que unos consideran basura y otros necesitan?",
-            "answer": "Pide al responsable de la propiedad que los identifique antes de la visita. Separa lo que se conserva de los residuos autorizados y señala cualquier procedimiento de reciclaje del edificio. Las decisiones sobre documentos o pertenencias deben quedar resueltas por quien administra el espacio."
+            "question": "Mi apartamento pide limpieza profesional de alfombras. ¿Es lo mismo que aspirarlas?",
+            "answer": "No. Aspirar retira residuos superficiales; un lavado o tratamiento profesional de alfombras es un trabajo distinto. Comparte con La Roca el requisito exacto de tu administración antes de contratar y confirma si necesita un proveedor especializado o un comprobante específico. No sustituyas ese requisito por una limpieza general sin revisarlo con la administración."
           },
           "en": {
-            "question": "What if some people consider boxes or papers trash while others need them?",
-            "answer": "Ask the property contact to identify them before the visit. Separate retained items from authorized waste and note any building recycling procedure. Decisions about documents and belongings should be resolved by the person responsible for the space."
+            "question": "My apartment requires professional carpet cleaning. Is vacuuming the same thing?",
+            "answer": "No. Vacuuming removes surface debris; professional carpet washing or treatment is a different job. Share the exact management requirement with La Roca before booking and confirm whether a specialist or specific receipt is required. Do not substitute general cleaning for that requirement without checking with management."
+          }
+        },
+        {
+          "es": {
+            "question": "¿El precio que me cotizan puede cambiar el día de la visita?",
+            "answer": "Para reducir sorpresas, describe el estado real, las áreas incluidas y los interiores solicitados; las fotos pueden ayudar. Si la propiedad o las tareas cambian después de cotizar, comunícalo antes de la cita. Si se propone un trabajo adicional durante la visita, pide conocer el alcance y el precio antes de autorizarlo."
+          },
+          "en": {
+            "question": "Can my quoted price change on cleaning day?",
+            "answer": "To reduce surprises, describe the actual condition, included areas and requested interiors; photos can help. If the property or tasks change after the quote, communicate that before the appointment. If additional work is proposed during the visit, ask for its scope and price before authorizing it."
           }
         }
       ]
