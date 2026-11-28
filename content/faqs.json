@@ -251,48 +251,58 @@
         "SCOPE-B"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Cleaning in Stafford",
-        "es": "Preguntas frecuentes sobre limpieza en Stafford"
+        "es": "Dudas de quienes coordinan una propiedad en Stafford",
+        "en": "Questions from people coordinating a Stafford property"
       },
       "items": [
         {
-          "en": {
-            "question": "Should I request house cleaning or commercial cleaning for my Stafford property?",
-            "answer": "Choose based on how the space is used. A home needs a household checklist; a workplace needs its occupied areas, restroom use, customer traffic and access rules considered. For a home office, explain whether you want the whole home cleaned or only a business workspace."
-          },
           "es": {
-            "question": "¿Debo pedir limpieza residencial o comercial para mi propiedad en Stafford?",
-            "answer": "Depende del uso del espacio. Una casa requiere una lista doméstica; un lugar de trabajo necesita considerar áreas ocupadas, uso de baños, clientes y reglas de acceso. Si trabajas desde casa, aclara si necesitas limpiar toda la vivienda o solo el espacio de trabajo."
+            "question": "¿Pueden enviarse fotos para cotizar sin mostrar personas ni información privada?",
+            "answer": "Sí, puedes compartir imágenes del área que necesita limpieza. Retira de la toma documentos, pantallas, fotografías personales y códigos de acceso. Una vista general y un detalle de la suciedad suelen explicar mejor el trabajo que una imagen llena de objetos ajenos a la solicitud."
+          },
+          "en": {
+            "question": "Can I send quote photos without showing people or private information?",
+            "answer": "Yes, you can share images of the areas needing cleaning. Keep documents, screens, personal photographs and entry codes out of the shot. An overall view and a close-up of the buildup often explain the work better than a photo filled with unrelated belongings."
           }
         },
         {
-          "en": {
-            "question": "What should a Stafford office estimate include besides square footage?",
-            "answer": "List restrooms, kitchen or break room, floor types, bins, desks and cleaning frequency. Note which areas customers use and which rooms are restricted. Two offices with the same floor area can require very different work if one has more occupants or heavily used restrooms."
-          },
           "es": {
-            "question": "¿Qué debe incluir la cotización de una oficina en Stafford además del tamaño?",
-            "answer": "Indica baños, cocina o comedor, tipos de piso, botes, escritorios y frecuencia. Señala qué áreas reciben clientes y cuáles tienen acceso restringido. Dos oficinas del mismo tamaño pueden requerir trabajos muy distintos si cambia la ocupación o el uso de los baños."
+            "question": "El inquilino todavía tiene objetos en la propiedad. ¿Se consideran basura?",
+            "answer": "No los identifiques como residuos solo porque la vivienda vaya a entregarse. Define con el responsable de la propiedad qué pertenencias se conservan, quién las retira y qué superficies quedarán disponibles. Comunica esas decisiones antes de la limpieza para evitar instrucciones ambiguas."
+          },
+          "en": {
+            "question": "The tenant still has belongings in the property. Are they considered trash?",
+            "answer": "Do not label belongings as waste simply because the home is being handed over. Define with the property contact what stays, who removes it and which surfaces will be accessible. Communicate those decisions before cleaning to avoid unclear instructions."
           }
         },
         {
-          "en": {
-            "question": "Can I request cleaning after my business closes?",
-            "answer": "Provide the building's permitted access hours, alarm procedure and the time the work must finish. After-hours requests depend on the route and available appointment. Agree on how the team enters, which areas are accessible and who locks up before confirming a visit."
-          },
           "es": {
-            "question": "¿Puedo solicitar limpieza después de cerrar mi negocio?",
-            "answer": "Indica el horario permitido de entrada al edificio, el procedimiento de alarma y la hora límite para terminar. Las solicitudes fuera de horario dependen de la ruta y la disponibilidad. Acuerda cómo entrar, qué áreas estarán accesibles y quién cierra antes de confirmar la visita."
+            "question": "Movimos un mueble y apareció suciedad que no estaba contemplada. ¿Qué hacemos?",
+            "answer": "Comparte la ubicación y una foto con La Roca, e indica si el mueble permanecerá fuera de esa área. Solicita revisar la tarea antes de asumir que puede incorporarse al mismo precio o tiempo de la visita. La superficie debe quedar accesible para valorar el trabajo."
+          },
+          "en": {
+            "question": "We moved furniture and found dirt outside the original scope. What should we do?",
+            "answer": "Share the location and a photo with La Roca, and explain whether the furniture will remain out of the area. Ask to review the task rather than assuming it can be added at the same price or within the same visit time. The surface must be accessible to assess the work."
           }
         },
         {
-          "en": {
-            "question": "Does general commercial cleaning include machinery, warehouse waste or floor stripping?",
-            "answer": "Those jobs need a separate scope review. Routine office cleaning is not the same as servicing machinery, removing industrial waste or stripping and refinishing floors. Identify the material and work area first; do not assume that a general cleaning estimate covers specialist work."
-          },
           "es": {
-            "question": "¿La limpieza comercial incluye maquinaria, residuos de almacén o decapado de pisos?",
-            "answer": "Esos trabajos requieren revisar el alcance por separado. Limpiar oficinas no equivale a intervenir maquinaria, retirar residuos industriales o decapar y renovar pisos. Identifica el material y la zona antes de cotizar; no des por incluidos trabajos especializados en una limpieza general."
+            "question": "Tengo dos locales en el mismo edificio. ¿Puedo tratarlos como una sola solicitud?",
+            "answer": "Puedes explicar ambos en el seguimiento, pero identifica cada unidad, su tamaño, uso, baños y acceso. Aunque compartan edificio, sus tareas y horarios pueden ser distintos. Solicita que el alcance deje claro qué corresponde a cada local antes de confirmar."
+          },
+          "en": {
+            "question": "I have two suites in the same building. Can I include them in one request?",
+            "answer": "You can explain both during follow-up, but identify each unit, its size, use, bathrooms and access. Even in the same building, tasks and hours can differ. Ask for a scope that makes clear what applies to each suite before confirming."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Qué hago si encontramos cajas o papeles que unos consideran basura y otros necesitan?",
+            "answer": "Pide al responsable de la propiedad que los identifique antes de la visita. Separa lo que se conserva de los residuos autorizados y señala cualquier procedimiento de reciclaje del edificio. Las decisiones sobre documentos o pertenencias deben quedar resueltas por quien administra el espacio."
+          },
+          "en": {
+            "question": "What if some people consider boxes or papers trash while others need them?",
+            "answer": "Ask the property contact to identify them before the visit. Separate retained items from authorized waste and note any building recycling procedure. Decisions about documents and belongings should be resolved by the person responsible for the space."
           }
         }
       ]
