@@ -1748,53 +1748,61 @@
     },
     "/services/move-out-cleaning-stafford/": {
       "sources": [
-        "STA-B",
-        "MOV-M",
-        "SCOPE-B"
+        "STAFFORD-CUSTOMER-RESEARCH-20261128"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Move-Out Cleaning in Stafford",
-        "es": "Preguntas frecuentes sobre limpieza después de mudarte en Stafford"
+        "es": "Dudas que aparecen después de pedir una limpieza de salida",
+        "en": "Questions that come up after requesting move-out cleaning"
       },
       "items": [
         {
-          "en": {
-            "question": "Can an empty Stafford office be booked like a house move-out?",
-            "answer": "Describe it as a commercial handover so restroom use, floor materials, workstations and building access are considered. Homes and offices need different task lists. Identify any landlord instructions, furniture left behind and specialist floor work before the estimate is prepared."
-          },
           "es": {
-            "question": "¿Una oficina vacía en Stafford se contrata igual que la salida de una casa?",
-            "answer": "Descríbela como entrega comercial para considerar baños, pisos, estaciones de trabajo y acceso al edificio. Casas y oficinas requieren listas diferentes. Identifica instrucciones del arrendador, muebles que permanecen y trabajos especializados de piso antes de preparar el estimado."
+            "question": "Me cotizaron por hora. ¿La tarifa es por todo el equipo o por cada persona?",
+            "answer": "Pide que lo especifiquen antes de aceptar: cuántas personas, qué tarifa se aplica y si el tiempo se cuenta por equipo o por persona. También aclara cómo se autoriza un cambio en la cantidad de personas. Con La Roca, revisa la base de tu cotización antes de confirmar la visita."
+          },
+          "en": {
+            "question": "I was quoted an hourly rate. Is it for the crew or for each person?",
+            "answer": "Ask before accepting: how many people, which rate applies and whether time is charged per crew or per person. Clarify how any change in crew size is approved. Review the pricing basis of your La Roca quote before confirming the visit."
           }
         },
         {
-          "en": {
-            "question": "What must be ready before a Stafford move-out cleaning starts?",
-            "answer": "Finish moving, clear the interiors selected for cleaning and keep water, power and entry available. Identify any remaining repair work or trash. An estimate for an accessible empty property may not reflect the same work as a space still full of boxes or contractors."
-          },
           "es": {
-            "question": "¿Qué debe estar listo antes de una limpieza de salida en Stafford?",
-            "answer": "Termina la mudanza, despeja los interiores incluidos y mantén agua, electricidad y entrada disponibles. Identifica reparaciones o basura pendientes. Cotizar una propiedad vacía y accesible no equivale al trabajo de un espacio todavía lleno de cajas o contratistas."
+            "question": "Ya pagué una limpieza profesional y la administración quiere cobrar otra. ¿Qué información necesito?",
+            "answer": "Pide que identifiquen las áreas observadas y solicita las fotos o el reporte correspondiente. Reúne tu cotización, comprobante y fotos de entrega para distinguir si se refieren al trabajo contratado, a otra tarea o a una condición posterior. Comparte cualquier observación del servicio con La Roca; un recibo por sí solo no explica qué se encontró en la vivienda."
+          },
+          "en": {
+            "question": "I paid for professional cleaning, but management wants to charge for another clean. What information do I need?",
+            "answer": "Ask which areas were flagged and request the relevant photos or report. Gather your quote, receipt and handover photos to distinguish the agreed work from another task or a later condition. Share any service-related observation with La Roca; a receipt alone does not explain what was found in the home."
           }
         },
         {
-          "en": {
-            "question": "Does a move-out clean cover debris left by repairs?",
-            "answer": "Describe what remains and whether it is ordinary household dirt, construction dust or materials requiring removal. Repair residue may need a post-construction assessment. Do not assume debris hauling, scraping or specialist floor treatment is included in the empty-home cleaning scope."
-          },
           "es": {
-            "question": "¿La limpieza de salida cubre los residuos de reparaciones?",
-            "answer": "Explica qué queda y si es suciedad doméstica, polvo de obra o materiales que deben retirarse. Los residuos de reparación pueden necesitar evaluación posconstrucción. No des por incluidos retiro de escombros, raspado o tratamiento especializado de pisos en una limpieza de vivienda vacía."
+            "question": "¿Qué pasa si al llegar descubren que la vivienda requiere más trabajo de lo que mostraban las fotos?",
+            "answer": "Pide que te expliquen la diferencia concreta y que revisen contigo cualquier cambio de trabajo, tiempo o precio antes de aprobarlo. Mantén disponible a una persona autorizada para responder durante la visita. Si el alcance cambia, conviene dejar por escrito lo acordado en lugar de esperar a la factura para aclararlo."
+          },
+          "en": {
+            "question": "What if the home needs more work on arrival than the photos showed?",
+            "answer": "Ask for a clear explanation of the difference and review any change to work, time or price before approving it. Keep an authorized contact available during the visit. If the scope changes, record the agreement instead of waiting until the invoice to clarify it."
           }
         },
         {
-          "en": {
-            "question": "How do I coordinate the appointment with key return and building access?",
-            "answer": "Provide the final access deadline and any approved service-provider hours during follow-up. Identify who opens and locks the property, and leave time to review the work. If moving or repairs change the schedule, contact La Roca before assuming the same cleaning window will remain available."
-          },
           "es": {
-            "question": "¿Cómo coordino la visita con entrega de llaves y acceso al edificio?",
-            "answer": "Durante el seguimiento indica la hora límite de acceso y los horarios permitidos a proveedores. Define quién abre y cierra y deja tiempo para revisar. Si mudanza o reparaciones cambian el horario, contacta a La Roca antes de asumir que seguirá disponible la misma ventana."
+            "question": "El servicio que contraté se retrasó y mañana entrego las llaves. ¿Puedo pedir ayuda?",
+            "answer": "Llama o escribe a La Roca e indica de inmediato la fecha y hora límite, si la vivienda está vacía y cómo se puede entrar. Se debe revisar la disponibilidad antes de confirmar una visita. Si no hay margen suficiente, consulta con quien recibe la vivienda qué alternativas de acceso puede autorizar; no supongas que hay una cita hasta que esté confirmada."
+          },
+          "en": {
+            "question": "My booked cleaning service is running late and I return keys tomorrow. Can I ask for help?",
+            "answer": "Call or message La Roca with the exact deadline, whether the home is empty and how entry can be arranged. Availability must be reviewed before a visit is confirmed. If time is too limited, ask the person receiving the home what access alternatives they can authorize; do not assume an appointment exists until it is confirmed."
+          }
+        },
+        {
+          "es": {
+            "question": "La alfombra ya está lavada. ¿Qué debo aclarar para que otra visita no vuelva a ensuciarla?",
+            "answer": "Comparte las instrucciones de secado del especialista e identifica las zonas por las que se puede circular. Coordina qué proveedores faltan por entrar y avisa si todavía no se puede pisar alguna habitación. Si aparecen marcas, documenta dónde están y cuándo las notaste para revisar qué ocurrió sin asumir su origen."
+          },
+          "en": {
+            "question": "The carpet has already been professionally washed. What should I clarify before another visit?",
+            "answer": "Share the specialist’s drying instructions and identify which areas can be walked through. Coordinate any providers still due to enter and mention rooms that cannot yet be accessed. If marks appear, document where they are and when you noticed them so the situation can be reviewed without assuming their source."
           }
         }
       ]
