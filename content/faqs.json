@@ -1606,53 +1606,71 @@
     },
     "/services/move-out-cleaning-pearland/": {
       "sources": [
-        "PEA-B",
-        "MOV-M",
-        "SUG-M"
+        "PEARLAND-HANDOVER-20261128"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Move-Out Cleaning in Pearland",
-        "es": "Preguntas frecuentes sobre limpieza después de mudarte en Pearland"
+        "es": "Preguntas que surgen al cerrar una vivienda en Pearland",
+        "en": "Questions that come up before a Pearland handover"
       },
       "items": [
         {
-          "en": {
-            "question": "I'm selling my Pearland home. Is the cleaning scope the same as a rental move-out?",
-            "answer": "Both can need empty-home cleaning, but the handover instructions may differ. Use the buyer's or property's agreed requirements to identify appliances staying behind, cabinet interiors and rooms included. Cleaning should be scheduled after moving work and before the relevant walkthrough."
-          },
           "es": {
-            "question": "Voy a vender mi casa en Pearland. ¿La limpieza es igual que al entregar un alquiler?",
-            "answer": "Ambas pueden necesitar limpieza de vivienda vacía, pero cambian las instrucciones de entrega. Usa los requisitos acordados con comprador o propiedad para identificar electrodomésticos que se quedan, gabinetes y habitaciones incluidas. Programa después de la mudanza y antes de la revisión correspondiente."
+            "question": "Mi compañero se queda en el apartamento. ¿Puedo pedir una limpieza de salida?",
+            "answer": "Sí puedes consultar una limpieza de las áreas que dejarás libres, pero explica que la vivienda seguirá ocupada. Acuerda qué espacios se pueden intervenir y quién autoriza el acceso. Consulta por separado con tu administración cómo maneja la salida de un solo ocupante; la limpieza no modifica ese acuerdo."
+          },
+          "en": {
+            "question": "My roommate is staying. Can I book move-out cleaning?",
+            "answer": "You can ask about cleaning the areas you will leave empty, but explain that the home will remain occupied. Agree on accessible spaces and who authorizes entry. Separately ask management how it handles one occupant moving out; cleaning does not change that arrangement."
           }
         },
         {
-          "en": {
-            "question": "Does cleaning the kitchen mean the fridge and oven are cleaned inside too?",
-            "answer": "Not automatically. List each interior explicitly and explain whether it will be empty. Grease, spills and remaining food affect the work. The estimate should distinguish wiping the appliance exterior from cleaning shelves, drawers or the oven cavity."
-          },
           "es": {
-            "question": "¿Limpiar la cocina significa limpiar también refrigerador y horno por dentro?",
-            "answer": "No automáticamente. Incluye cada interior por separado y aclara si estará vacío. Grasa, derrames y comida restante cambian el trabajo. El estimado debe diferenciar limpiar el exterior de limpiar repisas, cajones o el interior del horno."
+            "question": "¿Y si los mudadores no terminan antes de la hora de limpieza?",
+            "answer": "Avísanos en cuanto cambie la salida estimada. Revisa con La Roca si el acceso y las áreas disponibles permiten mantener el plan o si hay que ajustar la visita, según disponibilidad. No des por hecho que se podrá completar el mismo trabajo entre cajas y muebles."
+          },
+          "en": {
+            "question": "What if the movers are not finished before the cleaning appointment?",
+            "answer": "Let La Roca know as soon as the expected departure changes. Review whether access and available areas allow the plan to proceed or whether the visit needs to change, subject to availability. Do not assume the same work can be completed among boxes and furniture."
           }
         },
         {
-          "en": {
-            "question": "What should I do about pet stains before the final walkthrough?",
-            "answer": "Identify the affected surface and ask whether it needs carpet extraction, odor treatment, repair or ordinary cleaning. Those are different jobs. Share the property's requirements before booking and arrange any specialist service separately rather than expecting a general clean to resolve every pet-related mark."
-          },
           "es": {
-            "question": "¿Qué hago con las manchas de mascotas antes de la revisión final?",
-            "answer": "Identifica la superficie y revisa si necesita lavado de alfombra, tratamiento de olores, reparación o limpieza común. Son trabajos diferentes. Comparte los requisitos antes de contratar y coordina servicios especializados por separado en vez de esperar que la limpieza general resuelva cualquier marca."
+            "question": "Ya limpié por mi cuenta, pero la administración señaló algunos detalles. ¿Puedo enviar esa lista?",
+            "answer": "Sí. Comparte las observaciones tal como te las entregaron, junto con fotos y el tiempo que conservas acceso. La Roca puede revisar la solicitud y definir una cotización para el trabajo acordado; no hace falta describir toda la vivienda como si empezaras de cero."
+          },
+          "en": {
+            "question": "I cleaned myself, but management noted a few issues. Can I send that list?",
+            "answer": "Yes. Share the observations exactly as received, with photos and the time you still have access. La Roca can review the request and quote the agreed work; you do not need to describe the whole home as though you were starting from scratch."
           }
         },
         {
-          "en": {
-            "question": "What should I review before giving up access to the Pearland property?",
-            "answer": "Walk through the rooms against the agreed cleaning list, checking selected appliance and cabinet interiors as well as visible surfaces. Take photos while the property is still accessible and retain service documentation. Return keys after your review and any other scheduled work is complete."
-          },
           "es": {
-            "question": "¿Qué debo revisar antes de perder acceso a la propiedad en Pearland?",
-            "answer": "Recorre las habitaciones con la lista acordada y revisa interiores incluidos de gabinetes y electrodomésticos, además de superficies visibles. Toma fotos mientras todavía tengas acceso y guarda los comprobantes. Entrega llaves después de revisar y completar los demás trabajos programados."
+            "question": "¿Conviene dejar el refrigerador apagado y cerrado antes de la entrega?",
+            "answer": "Consulta las instrucciones del fabricante y de la propiedad antes de desconectarlo. Retira alimentos y explica su estado al solicitar la limpieza. Coordina con quien recibe la vivienda cómo debe quedar funcionando; no cambies su configuración solo por anticipar la visita."
+          },
+          "en": {
+            "question": "Should I leave the refrigerator turned off and closed before handover?",
+            "answer": "Check manufacturer and property instructions before disconnecting it. Remove food and explain its condition when requesting cleaning. Agree with the person receiving the property on how it should be left operating; do not change settings simply to prepare for the visit."
+          }
+        },
+        {
+          "es": {
+            "question": "La limpieza de alfombra está programada aparte. ¿Cómo ordeno las visitas?",
+            "answer": "Confirma con ambos proveedores el acceso, los espacios que necesitan libres y el tiempo de secado indicado por el especialista. Evita programar mudadores o trabajos con polvo después. Si la propiedad pide un comprobante específico, verifica que corresponda al servicio solicitado."
+          },
+          "en": {
+            "question": "Carpet cleaning is booked separately. How should I coordinate the visits?",
+            "answer": "Confirm access, clear areas and the specialist’s drying instructions with both providers. Avoid placing movers or dust-producing work afterward. If the property asks for a specific receipt, verify that it matches the service requested."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Tengo que estar presente para explicar una observación al finalizar?",
+            "answer": "Comparte de antemano quién será el contacto y cómo podrá revisar las áreas acordadas. Si no estarás en Pearland, coordina acceso autorizado y una persona que pueda ayudarte con el recorrido. Confirma con La Roca la forma de comunicación antes de programar."
+          },
+          "en": {
+            "question": "Do I need to be present to discuss an observation at the end?",
+            "answer": "Agree beforehand on a contact and how the agreed areas can be reviewed. If you will be away from Pearland, arrange authorized access and someone who can help with a walkthrough. Confirm communication arrangements with La Roca before scheduling."
           }
         }
       ]
