@@ -1677,53 +1677,71 @@
     },
     "/services/move-out-cleaning-sugar-land/": {
       "sources": [
-        "SUG-M",
-        "SUG-A",
-        "MOV-M"
+        "SUGARLAND-AUTOCOMPLETE-20261128"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Move-Out Cleaning in Sugar Land",
-        "es": "Preguntas frecuentes sobre limpieza después de mudarte en Sugar Land"
+        "es": "Antes de contratar tu limpieza de mudanza en Sugar Land",
+        "en": "Before you book move-out cleaning in Sugar Land"
       },
       "items": [
         {
-          "en": {
-            "question": "How do I compare two Sugar Land move-out estimates fairly?",
-            "answer": "Match the area cleaned, empty-home condition, bathroom count and interior tasks. Check oven, fridge, cabinets, drawers, blinds and any separate floor work. A lower total may cover a shorter list, so compare the written scope before choosing on price alone."
-          },
           "es": {
-            "question": "¿Cómo comparo correctamente dos cotizaciones de limpieza de salida en Sugar Land?",
-            "answer": "Iguala superficie, estado de vivienda vacía, baños y tareas interiores. Revisa horno, refrigerador, gabinetes, cajones, persianas y trabajos separados de piso. Un total menor puede incluir menos tareas; compara el alcance escrito antes de decidir solo por precio."
+            "question": "¿Pueden igualar la cotización que me dio otra empresa?",
+            "answer": "Comparte el trabajo descrito en la otra cotización y las condiciones de tu vivienda para que La Roca pueda revisar tu solicitud. El precio debe corresponder a lo que se acuerde realizar; no se debe asumir una igualación de tarifa o descuento adicional sin confirmación."
+          },
+          "en": {
+            "question": "Can you match another company’s quote?",
+            "answer": "Share the work described in the other quote and your property’s condition so La Roca can review your request. Pricing needs to reflect the work agreed; do not assume a price match or additional discount without confirmation."
           }
         },
         {
-          "en": {
-            "question": "Does a professional cleaning settle every item on a property manager's list?",
-            "answer": "No. A handover list may mix cleaning with repairs, lawn work, pest treatment or returning access devices. Separate the cleaning items from the other responsibilities and identify which provider handles each. Use the list for your particular property rather than assuming one service covers it all."
-          },
           "es": {
-            "question": "¿La limpieza profesional resuelve toda la lista de la administración?",
-            "answer": "No. Una lista de entrega puede mezclar limpieza con reparaciones, jardín, tratamiento de plagas o devolución de accesos. Separa las tareas y define quién hace cada una. Usa las instrucciones de tu propiedad en lugar de suponer que un solo servicio cubre todo."
+            "question": "La administración pide una empresa aprobada. ¿Puedo contratar a La Roca?",
+            "answer": "Solicita primero los requisitos exactos: autorización de proveedor, información de seguro o algún documento específico. Compártelos con La Roca antes de programar para revisar si se pueden cumplir. No reserves suponiendo que cualquier empresa será aceptada por tu propiedad."
+          },
+          "en": {
+            "question": "Management requires an approved vendor. Can I hire La Roca?",
+            "answer": "Request the exact requirements first, such as vendor authorization, insurance information or a specific document. Share them with La Roca before scheduling so they can be reviewed. Do not assume any cleaning company will automatically be accepted by your property."
           }
         },
         {
-          "en": {
-            "question": "Should I leave time between cleaning and returning the keys?",
-            "answer": "Yes. Leave room for your own review, completion of other scheduled work and any access issues. Confirm the cleaning window before setting utility shutoff dates. Booking at the exact handover deadline gives you less opportunity to check the agreed tasks before losing access."
-          },
           "es": {
-            "question": "¿Conviene dejar tiempo entre limpiar y devolver las llaves?",
-            "answer": "Sí. Deja margen para revisar, terminar otros trabajos programados y resolver problemas de acceso. Confirma la ventana de limpieza antes de fijar desconexiones. Programar justo a la hora de entrega deja menos oportunidad de comprobar las tareas acordadas antes de perder acceso."
+            "question": "¿Puedo contratar la limpieza si todavía no me confirman la fecha del cierre de venta?",
+            "answer": "Puedes consultar el trabajo y explicar la fecha tentativa, pero distingue esa consulta de una visita confirmada. Mantén a La Roca al tanto cuando tu agente confirme el acceso y la salida de pertenencias. Revisa la disponibilidad para la fecha definitiva antes de coordinar otros proveedores alrededor de ella."
+          },
+          "en": {
+            "question": "Can I arrange cleaning before my home-sale closing date is confirmed?",
+            "answer": "You can discuss the work and explain your tentative date, but distinguish an inquiry from a confirmed appointment. Update La Roca when your agent confirms access and belongings leaving. Check availability for the final date before arranging other providers around it."
           }
         },
         {
-          "en": {
-            "question": "What cleaning evidence is useful to keep?",
-            "answer": "Retain the agreed task list, invoice or receipt, and dated photos of the completed condition. Include interiors that are easy to overlook in general room photos. These records help show what was cleaned; separate questions about repairs or charges still depend on the property circumstances."
-          },
           "es": {
-            "question": "¿Qué comprobantes de limpieza conviene guardar?",
-            "answer": "Conserva lista de tareas, factura o recibo y fotografías fechadas del estado final. Incluye interiores que no se aprecian en fotos generales. Esos registros ayudan a mostrar qué se limpió; los asuntos separados de reparaciones o cargos dependen de las circunstancias de la propiedad."
+            "question": "Encontraron un detalle después de entregar las llaves. ¿Qué información les envío?",
+            "answer": "Pide una foto clara, la ubicación dentro de la vivienda y cuándo se observó. Comparte esa información con La Roca junto con la fecha del servicio y lo acordado, para que pueda revisarse. Si hace falta volver a entrar, primero debe existir autorización de acceso."
+          },
+          "en": {
+            "question": "Someone found an issue after I returned the keys. What should I send?",
+            "answer": "Ask for a clear photo, the location in the home and when it was noticed. Share those details with La Roca alongside the service date and agreed work so the concern can be reviewed. Any return visit first requires authorized access."
+          }
+        },
+        {
+          "es": {
+            "question": "¿El seguro significa que la administración aceptará cualquier documento que emita la empresa?",
+            "answer": "No necesariamente. Cada administración puede pedir información o formatos distintos. Envía el requisito exacto antes de agendar para que La Roca confirme qué documentación puede proporcionar; no asumas que una factura sustituye a otro comprobante."
+          },
+          "en": {
+            "question": "Does being insured mean management will accept any document the company provides?",
+            "answer": "Not necessarily. Management teams may require different information or formats. Send the exact request before scheduling so La Roca can confirm what documentation it can provide; do not assume an invoice replaces another required document."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Tengo que limpiar otra vez si la casa queda vacía varias semanas?",
+            "answer": "Depende de lo que ocurra después: entrada de técnicos, polvo, visitas o trabajos pendientes. Explica cuánto tiempo estará sin ocupar y cuándo será la entrega. Si necesitas una revisión o visita posterior, consúltala como una necesidad separada en lugar de dar por hecho que la primera limpieza cubre cambios posteriores."
+          },
+          "en": {
+            "question": "Will I need another clean if the home stays empty for several weeks?",
+            "answer": "That depends on what happens afterward, including technicians entering, dust, showings or unfinished work. Explain how long the home will remain empty and when handover takes place. Discuss any later check or visit as a separate need rather than assuming the first cleaning covers later changes."
           }
         }
       ]
