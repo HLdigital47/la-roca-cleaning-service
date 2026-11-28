@@ -1545,53 +1545,61 @@
     },
     "/services/move-out-cleaning-katy/": {
       "sources": [
-        "KAT-M",
-        "KAT-A",
-        "MOV-M"
+        "KATY-HANDOVER-20261128"
       ],
       "heading": {
-        "en": "Frequently Asked Questions About Move-Out Cleaning in Katy",
-        "es": "Preguntas frecuentes sobre limpieza después de mudarte en Katy"
+        "es": "Dudas antes de devolver una vivienda en Katy",
+        "en": "Questions before returning a Katy rental"
       },
       "items": [
         {
-          "en": {
-            "question": "Should I send my Katy property manager's cleaning instructions before getting a quote?",
-            "answer": "Yes. Use the actual list to identify cabinet interiors, appliances, blinds, floor edges and any separate carpet work. Requirements vary by property. A quote based only on bedrooms may miss the details your manager expects at the handover."
-          },
           "es": {
-            "question": "¿Debo compartir las instrucciones de mi administrador de Katy antes de cotizar?",
-            "answer": "Sí. Usa la lista real para identificar gabinetes por dentro, electrodomésticos, persianas, bordes de piso y trabajos separados de alfombra. Los requisitos cambian por propiedad. Cotizar solo con recámaras puede dejar fuera detalles que pidan al entregar."
+            "question": "Mi administración ya cobra una tarifa de limpieza. ¿Conviene contratar otra por mi cuenta?",
+            "answer": "Pregunta qué cubre esa tarifa y si aceptan una limpieza contratada por ti. Solicita aclarar por escrito qué trabajos seguirían pendientes y qué comprobante necesitan. Eso permite decidir tu solicitud con información de tu propia propiedad y evita coordinar servicios duplicados."
+          },
+          "en": {
+            "question": "Management already charges a cleaning fee. Should I hire another cleaner myself?",
+            "answer": "Ask what the fee covers and whether management accepts cleaning arranged by you. Request written clarification of any remaining work and required receipt. This helps you decide using your own property’s information and avoid coordinating duplicate services."
           }
         },
         {
-          "en": {
-            "question": "What needs to be removed before an empty-home cleaning?",
-            "answer": "Remove furniture, boxes, food and items in the cabinets or drawers selected for cleaning. Identify anything that will remain so access can be reviewed. Leaving a garage full of belongings or bags of trash is a different condition from an empty property ready for detail cleaning."
-          },
           "es": {
-            "question": "¿Qué tengo que retirar antes de limpiar la vivienda vacía?",
-            "answer": "Retira muebles, cajas, comida y objetos de los gabinetes o cajones que se limpiarán. Señala lo que permanecerá para revisar el acceso. Una cochera llena o bolsas de basura no equivalen a una propiedad vacía lista para trabajo detallado."
+            "question": "Me piden tapar agujeros o retocar pintura. ¿Lo resuelve la limpieza de salida?",
+            "answer": "Esos puntos corresponden a reparación o pintura, no a retirar suciedad. Pide al administrador las instrucciones antes de intervenir y define quién los atenderá. Comunica cualquier trabajo pendiente a La Roca para revisar el orden y evitar limpiar antes de que termine una reparación que genere polvo."
+          },
+          "en": {
+            "question": "I am asked to fill holes or touch up paint. Is that part of move-out cleaning?",
+            "answer": "Those items are repairs or painting rather than dirt removal. Ask management for instructions before making changes and define who will handle them. Tell La Roca about pending work so the sequence can be reviewed instead of cleaning before a dust-producing repair is finished."
           }
         },
         {
-          "en": {
-            "question": "Should carpet cleaners come before or after the general move-out clean?",
-            "answer": "Coordinate the order with both providers, including drying time and when rooms must be accessible. Avoid arranging work that tracks dirt across a freshly cleaned or wet floor. Confirm any required carpet receipt with the property manager; do not treat vacuuming as the same service."
-          },
           "es": {
-            "question": "¿El lavado de alfombras debe hacerse antes o después de la limpieza general de salida?",
-            "answer": "Coordina el orden con ambos proveedores, incluido secado y acceso a habitaciones. Evita que otro trabajo ensucie pisos recién limpiados o húmedos. Confirma con la administración si pide comprobante de alfombra; aspirar no es el mismo servicio que lavarla."
+            "question": "Ya vivo lejos de Katy. ¿Cómo organizo la limpieza sin regresar?",
+            "answer": "Designa una persona autorizada o acuerda el acceso con quien administra la propiedad. Confirma qué áreas estarán disponibles, quién puede responder durante la visita y cómo revisarás el resultado. No des por confirmado el acceso solo porque alguien conserve una llave."
+          },
+          "en": {
+            "question": "I already live far from Katy. How can I organize cleaning without returning?",
+            "answer": "Designate an authorized person or arrange entry with property management. Confirm which areas will be available, who can answer questions during the visit and how you will review the result. Do not assume access is confirmed simply because someone has a key."
           }
         },
         {
-          "en": {
-            "question": "What if my movers run late on the cleaning day?",
-            "answer": "Notify La Roca promptly and explain which rooms are still blocked and when access will be available. Review the appointment before assuming the work can wait or finish within the original window. Keep the key handover and utility shutoff dates in the same plan."
-          },
           "es": {
-            "question": "¿Qué pasa si se retrasa mi mudanza el día de la limpieza?",
-            "answer": "Avisa a La Roca cuanto antes e indica qué habitaciones siguen bloqueadas y cuándo estarán disponibles. Revisa la cita antes de suponer que el equipo puede esperar o terminar dentro del tiempo original. Incluye entrega de llaves y desconexión de servicios en el mismo plan."
+            "question": "¿Un comprobante de limpieza general sirve si me piden lavado profesional de alfombras?",
+            "answer": "No asumas que son intercambiables. Pregunta al administrador qué documento necesita y verifica con el proveedor que corresponda al trabajo realizado. El comprobante debe identificar el servicio solicitado; una limpieza general o un aspirado no acredita por sí solo un lavado profesional de alfombras."
+          },
+          "en": {
+            "question": "Does a general cleaning receipt meet a professional carpet-cleaning requirement?",
+            "answer": "Do not assume they are interchangeable. Ask management which document is required and verify that the provider’s receipt matches the work performed. General cleaning or vacuuming does not by itself document professional carpet washing."
+          }
+        },
+        {
+          "es": {
+            "question": "¿Puedo programar la limpieza después de devolver las llaves?",
+            "answer": "Primero solicita autorización y confirma quién permitirá la entrada. Algunas propiedades limitan el acceso después de la entrega. Revisa ese punto con la administración antes de pedir una fecha, para que La Roca pueda valorar una visita con acceso real y autorizado."
+          },
+          "en": {
+            "question": "Can I schedule cleaning after returning the keys?",
+            "answer": "First request permission and confirm who will allow entry. Some properties restrict access after handover. Review that with management before requesting a date so La Roca can assess a visit with actual authorized access."
           }
         }
       ]
